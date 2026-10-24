@@ -1,0 +1,2671 @@
+StateWellNumber,aquifer,County,lat,lon,WellDepth,WellUse,n_years
+1641102,Carrizo-Wilcox,Titus,33.3491667,-94.9644444,34,Unused,18
+1643302,Carrizo-Wilcox,Bowie,33.3716667,-94.6286111,48,Domestic,21
+1643401,Carrizo-Wilcox,Morris,33.2977778,-94.7363889,360,Stock,17
+1645603,Carrizo-Wilcox,Bowie,33.3280556,-94.3927778,180,Domestic,18
+1646602,Carrizo-Wilcox,Bowie,33.2988889,-94.2777778,40,Domestic,18
+1649212,Carrizo-Wilcox,Titus,33.2343889,-94.9472222,45,Domestic,18
+1650207,Carrizo-Wilcox,Morris,33.2279306,-94.7958972,400,Domestic,15
+1650402,Carrizo-Wilcox,Titus,33.1844444,-94.8563889,325,Unused,19
+1654403,Carrizo-Wilcox,Cass,33.1915194,-94.3544194,664,Public Supply,17
+1656716,Carrizo-Wilcox,Cass,33.1468306,-94.1006,300,Domestic,17
+1756304,Carrizo-Wilcox,Titus,33.2294444,-95.0219444,310,Domestic,16
+1756417,Carrizo-Wilcox,Titus,33.1911306,-95.0953806,300,Domestic,19
+1761301,Carrizo-Wilcox,Hopkins,33.1102778,-95.3852778,47,Domestic,22
+1761401,Carrizo-Wilcox,Hopkins,33.0811111,-95.4886111,260,Stock,17
+1763806,Carrizo-Wilcox,Franklin,33.0144444,-95.1819444,460,Unused,20
+3348616,Carrizo-Wilcox,Henderson,32.30225,-96.0098611,202,Irrigation,18
+3403801,Carrizo-Wilcox,Rains,32.9019444,-95.6730556,150,Domestic,20
+3408105,Carrizo-Wilcox,Camp,32.9793417,-95.1249583,195,Unused,18
+3412803,Carrizo-Wilcox,Wood,32.7879167,-95.5664722,44,Domestic,21
+3413401,Carrizo-Wilcox,Wood,32.82059,-95.4925198,500,Unused,21
+3419502,Carrizo-Wilcox,Van Zandt,32.6733333,-95.6694444,675,Domestic,22
+3420707,Carrizo-Wilcox,Van Zandt,32.6636111,-95.6152778,313,Unused,23
+3421302,Carrizo-Wilcox,Wood,32.7292222,-95.389,672,Unused,19
+3421501,Carrizo-Wilcox,Wood,32.6879167,-95.41875,500,Unused,18
+3425202,Carrizo-Wilcox,Van Zandt,32.5984944,-95.9233472,180,Unused,22
+3425604,Carrizo-Wilcox,Van Zandt,32.5444444,-95.915,320,Domestic,20
+3428408,Carrizo-Wilcox,Van Zandt,32.5455556,-95.6238889,34,Unused,23
+3429902,Carrizo-Wilcox,Smith,32.5172222,-95.4097222,700,Unused,15
+3430907,Carrizo-Wilcox,Smith,32.5316667,-95.2627778,710,Unused,24
+3433401,Carrizo-Wilcox,Van Zandt,32.4463889,-95.9591667,300,Domestic,17
+3434101,Carrizo-Wilcox,Van Zandt,32.4927778,-95.8583333,42,Domestic,19
+3442108,Carrizo-Wilcox,Van Zandt,32.3602778,-95.855,62,Domestic,23
+3442403,Carrizo-Wilcox,Henderson,32.29675,-95.8489167,587,Public Supply,21
+3443603,Carrizo-Wilcox,Henderson,32.2939722,-95.6599722,500,Domestic,18
+3445803,Carrizo-Wilcox,Smith,32.2677778,-95.4325,780,Public Supply,17
+3450306,Carrizo-Wilcox,Henderson,32.2406667,-95.7910556,649,Public Supply,17
+3457301,Carrizo-Wilcox,Henderson,32.0964583,-95.8980556,210,Unused,22
+3457405,Carrizo-Wilcox,Henderson,32.0539722,-95.9676667,340,Irrigation,22
+3460503,Carrizo-Wilcox,Henderson,32.0819167,-95.5730833,1166,Domestic,22
+3460505,Carrizo-Wilcox,Henderson,32.0715,-95.5440556,628,Unused,23
+3460602,Carrizo-Wilcox,Anderson,32.0555556,-95.5058333,652,Public Supply,15
+3461501,Carrizo-Wilcox,Anderson,32.0522222,-95.4447222,900,Unused,20
+3461902,Carrizo-Wilcox,Cherokee,32.0404722,-95.3875556,668,Public Supply,15
+3463501,Carrizo-Wilcox,Cherokee,32.0608333,-95.1820833,380,Unused,16
+3464302,Carrizo-Wilcox,Cherokee,32.1045833,-95.0209167,103,Domestic,16
+3511402,Carrizo-Wilcox,Upshur,32.7966667,-94.7241667,411,Unused,21
+3511702,Carrizo-Wilcox,Upshur,32.7675,-94.7336111,950,Public Supply,17
+3514703,Carrizo-Wilcox,Marion,32.7511111,-94.3488889,793,Unused,19
+3515703,Carrizo-Wilcox,Marion,32.7811111,-94.2091667,350,Unused,18
+3516801,Carrizo-Wilcox,Marion,32.7886111,-94.0736111,485,Unused,20
+3518303,Carrizo-Wilcox,Upshur,32.7127278,-94.7594917,440,Public Supply,17
+3518401,Carrizo-Wilcox,Upshur,32.6858333,-94.8361111,410,Unused,16
+3522401,Carrizo-Wilcox,Harrison,32.6912333,-94.3393333,25,Unused,17
+3522708,Carrizo-Wilcox,Harrison,32.6504056,-94.3442861,400,Public Supply,17
+3526706,Carrizo-Wilcox,Gregg,32.5038889,-94.8544444,430,Unused,18
+3530705,Carrizo-Wilcox,Harrison,32.5098389,-94.3461611,225,Domestic,20
+3531602,Carrizo-Wilcox,Harrison,32.5608333,-94.1405556,185,Domestic,19
+3535402,Carrizo-Wilcox,Gregg,32.4566667,-94.7261111,320,Unused,16
+3540507,Carrizo-Wilcox,Harrison,32.4466667,-94.0697222,145,Domestic,21
+3541601,Carrizo-Wilcox,Rusk,32.2963889,-94.8972222,90,Unused,21
+3543501,Carrizo-Wilcox,Rusk,32.3144444,-94.6997222,211,Domestic,21
+3544601,Carrizo-Wilcox,Rusk,32.3141667,-94.5127778,438,Unused,19
+3545701,Carrizo-Wilcox,Panola,32.253056,-94.463056,396,Domestic,23
+3546703,Carrizo-Wilcox,Panola,32.283611,-94.374722,280,Irrigation,21
+3547502,Carrizo-Wilcox,Panola,32.3297222,-94.1830556,270,Public Supply,16
+3547503,Carrizo-Wilcox,Panola,32.3208333,-94.18,195,Public Supply,15
+3548101,Carrizo-Wilcox,Panola,32.355278,-94.095556,142,Unused,22
+3549801,Carrizo-Wilcox,Rusk,32.1361111,-94.9413889,275,Irrigation,20
+3550501,Carrizo-Wilcox,Rusk,32.2080556,-94.8213889,48,Domestic,23
+3550801,Carrizo-Wilcox,Rusk,32.1508333,-94.7936111,624,Public Supply,15
+3552701,Carrizo-Wilcox,Rusk,32.1519444,-94.6002778,302,Domestic,21
+3553702,Carrizo-Wilcox,Panola,32.150834,-94.4925,389,Domestic,18
+3555901,Carrizo-Wilcox,Panola,32.142778,-94.146111,220,Domestic,24
+3558101,Carrizo-Wilcox,Rusk,32.0858333,-94.8663889,31,Domestic,22
+3559601,Carrizo-Wilcox,Rusk,32.0580556,-94.6347222,242,Domestic,16
+3560502,Carrizo-Wilcox,Panola,32.060834,-94.565278,190,Domestic,19
+3562301,Carrizo-Wilcox,Panola,32.112223,-94.279167,165,Unused,23
+3563601,Carrizo-Wilcox,Panola,32.07,-94.128889,234,Unused,24
+3563701,Carrizo-Wilcox,Panola,32.036111,-94.229444,40,Domestic,24
+3610701,Carrizo-Wilcox,Shelby,31.7722222,-93.86,206,Unused,23
+3625504,Carrizo-Wilcox,Sabine,31.5686111,-93.9194444,16,Unused,19
+3625802,Carrizo-Wilcox,Sabine,31.5158333,-93.9180556,50,Unused,19
+3634303,Carrizo-Wilcox,Sabine,31.4725,-93.7766667,30,Unused,22
+3702802,Carrizo-Wilcox,Rusk,31.8925,-94.8258333,430,Domestic,23
+3704301,Carrizo-Wilcox,Panola,31.9736111,-94.5386111,80,Unused,22
+3704601,Carrizo-Wilcox,Rusk,31.9241667,-94.5311111,315,Unused,20
+3705201,Carrizo-Wilcox,Panola,31.981111,-94.425278,45,Unused,23
+3705701,Carrizo-Wilcox,Shelby,31.9158333,-94.4680556,59,Unused,22
+3705703,Carrizo-Wilcox,Shelby,31.9158333,-94.4669444,260,Domestic,20
+3705905,Carrizo-Wilcox,Shelby,31.9061111,-94.3977778,737,Public Supply,16
+3706101,Carrizo-Wilcox,Shelby,31.9747222,-94.3525,263,Unused,21
+3706401,Carrizo-Wilcox,Shelby,31.9164444,-94.3467778,170,Stock,21
+3707201,Carrizo-Wilcox,Panola,31.988889,-94.193611,66,Domestic,23
+3707202,Carrizo-Wilcox,Shelby,31.9738889,-94.1969444,150,Domestic,19
+3708604,Carrizo-Wilcox,Shelby,31.9312222,-94.0018889,39,Unused,21
+3708701,Carrizo-Wilcox,Shelby,31.8913889,-94.0858333,139,Unused,23
+3709102,Carrizo-Wilcox,Cherokee,31.8621389,-94.9886667,639,Public Supply,19
+3709104,Carrizo-Wilcox,Cherokee,31.8622222,-94.9885,135,Public Supply,21
+3710703,Carrizo-Wilcox,Nacogdoches,31.786632,-94.8604278,241,Domestic,19
+3711201,Carrizo-Wilcox,Rusk,31.8683333,-94.7083333,59,Domestic,23
+3712804,Carrizo-Wilcox,Nacogdoches,31.7894444,-94.5627778,373,Unused,22
+3713302,Carrizo-Wilcox,Shelby,31.8627778,-94.3797222,290,Unused,22
+3713403,Carrizo-Wilcox,Nacogdoches,31.8261111,-94.4911111,23,Unused,24
+3714501,Carrizo-Wilcox,Shelby,31.8227778,-94.3305556,58,Stock,23
+3714701,Carrizo-Wilcox,Shelby,31.7547222,-94.3641667,74,Unused,23
+3715105,Carrizo-Wilcox,Shelby,31.8705556,-94.2147222,230,Irrigation,19
+3715401,Carrizo-Wilcox,Shelby,31.8127778,-94.2411111,48,Unused,21
+3716201,Carrizo-Wilcox,Shelby,31.8641667,-94.0816667,59,Domestic,23
+3716302,Carrizo-Wilcox,Shelby,31.8352778,-94.0091667,25,Unused,23
+3716701,Carrizo-Wilcox,Shelby,31.7827778,-94.11,42,Unused,23
+3721204,Carrizo-Wilcox,Nacogdoches,31.7094444,-94.4522222,160,Unused,22
+3721701,Carrizo-Wilcox,Nacogdoches,31.6277778,-94.4636111,235,Unused,17
+3724601,Carrizo-Wilcox,Shelby,31.6694444,-94.0333333,60,Unused,23
+3727201,Carrizo-Wilcox,Nacogdoches,31.6102778,-94.6722222,512,Unused,18
+3727506,Carrizo-Wilcox,Nacogdoches,31.5491667,-94.6877778,580,Public Supply,15
+3728902,Carrizo-Wilcox,Nacogdoches,31.5133333,-94.5322222,501,Public Supply,19
+3729402,Carrizo-Wilcox,Nacogdoches,31.5647222,-94.4861111,352,Public Supply,22
+3730801,Carrizo-Wilcox,Nacogdoches,31.5044444,-94.3080556,226,Unused,22
+3732111,Carrizo-Wilcox,San Augustine,31.5866667,-94.1052778,57,Unused,23
+3732301,Carrizo-Wilcox,Shelby,31.6038056,-94.0296139,50,Unused,22
+3732709,Carrizo-Wilcox,San Augustine,31.5105556,-94.1077778,231,Public Supply,20
+3733202,Carrizo-Wilcox,Cherokee,31.4880278,-94.9419444,960,Unused,18
+3801102,Carrizo-Wilcox,Anderson,31.9672222,-95.9980556,510,Unused,21
+3802402,Carrizo-Wilcox,Anderson,31.9336111,-95.8483333,630,Plugged or Destroyed,17
+3808105,Carrizo-Wilcox,Cherokee,31.9761111,-95.0906111,1008,Public Supply,17
+3810205,Carrizo-Wilcox,Anderson,31.8463889,-95.8088889,680,Unused,15
+3813106,Carrizo-Wilcox,Anderson,31.8658333,-95.4963889,502,Unused,20
+3816803,Carrizo-Wilcox,Cherokee,31.7641111,-95.0533333,333,Unused,19
+3819802,Carrizo-Wilcox,Anderson,31.6569444,-95.685,408,Public Supply,19
+3839701,Carrizo-Wilcox,Houston,31.3791667,-95.2494444,612,Unused,20
+3843101,Carrizo-Wilcox,Leon,31.3638889,-95.7280556,676,Unused,19
+3849802,Carrizo-Wilcox,Leon,31.1496389,-95.9229722,1120,Unused,20
+3915802,Carrizo-Wilcox,Freestone,31.7602778,-96.2077778,496,Stock,20
+3923101,Carrizo-Wilcox,Freestone,31.7466667,-96.2494444,242,Public Supply,20
+3923404,Carrizo-Wilcox,Freestone,31.6722222,-96.22,350,Irrigation,16
+3929801,Carrizo-Wilcox,Limestone,31.5344444,-96.42,240,Domestic,21
+3931301,Carrizo-Wilcox,Freestone,31.5966667,-96.1366667,629,Unused,22
+3932205,Carrizo-Wilcox,Freestone,31.6058333,-96.0669444,324,Domestic,23
+3937601,Carrizo-Wilcox,Limestone,31.4306944,-96.3866389,353,Unused,22
+3937801,Carrizo-Wilcox,Limestone,31.4072222,-96.4258333,446,Unused,20
+3938902,Carrizo-Wilcox,Limestone,31.4127778,-96.2816667,265,Domestic,20
+3940906,Carrizo-Wilcox,Leon,31.4055556,-96.0105556,820,Domestic,19
+3945202,Carrizo-Wilcox,Limestone,31.3705556,-96.4405556,524,Stock,20
+3946702,Carrizo-Wilcox,Robertson,31.2661111,-96.3491667,660,Domestic,22
+3951501,Carrizo-Wilcox,Falls,31.195,-96.6891667,272,Unused,15
+3952504,Carrizo-Wilcox,Robertson,31.195,-96.5816667,100,Unused,22
+3953703,Carrizo-Wilcox,Robertson,31.1363889,-96.4691667,450,Unused,18
+3954602,Carrizo-Wilcox,Leon,31.1855556,-96.2616667,356,Unused,19
+3954604,Carrizo-Wilcox,Leon,31.1943333,-96.2786111,200,Unused,21
+3959905,Carrizo-Wilcox,Robertson,31.0227778,-96.6302778,480,Domestic,22
+3961501,Carrizo-Wilcox,Robertson,31.050834,-96.428611,1202,Public Supply,20
+3964705,Carrizo-Wilcox,Leon,31.0305556,-96.1158056,1202,Public Supply,16
+5824610,Carrizo-Wilcox,Milam,30.6716,-97.004,392,Unused,16
+5832101,Carrizo-Wilcox,Milam,30.6234,-97.088,60,Unused,18
+5838906,Carrizo-Wilcox,Bastrop,30.376389,-97.290278,319,Domestic,15
+5846301,Carrizo-Wilcox,Bastrop,30.3658333,-97.2872222,80,Unused,16
+5855707,Carrizo-Wilcox,Bastrop,30.1466667,-97.2322222,769,Unused,15
+5862208,Carrizo-Wilcox,Bastrop,30.1094444,-97.2947222,636,Unused,23
+5863606,Carrizo-Wilcox,Bastrop,30.0455556,-97.1577778,868,Recreation,15
+5902307,Carrizo-Wilcox,Milam,30.9642,-96.7907,450,Domestic,19
+5902309,Carrizo-Wilcox,Milam,30.9882,-96.7576,417,Unused,20
+5902706,Carrizo-Wilcox,Milam,30.8976,-96.852,315,Public Supply,17
+5902901,Carrizo-Wilcox,Milam,30.8849,-96.7783,318,Public Supply,19
+5904701,Carrizo-Wilcox,Robertson,30.885834,-96.619444,1441,Public Supply,19
+5905301,Carrizo-Wilcox,Robertson,30.9975,-96.3902778,750,Unused,17
+5909901,Carrizo-Wilcox,Milam,30.7841,-96.8955,169,Stock,18
+5910907,Carrizo-Wilcox,Milam,30.7809,-96.785,440,Domestic,17
+5911402,Carrizo-Wilcox,Milam,30.7971,-96.7347,323,Domestic,20
+5911621,Carrizo-Wilcox,Milam,30.8252778,-96.6536111,232,Unused,23
+5911703,Carrizo-Wilcox,Milam,30.7872,-96.7169,992,Public Supply,18
+5914706,Carrizo-Wilcox,Brazos,30.7819444,-96.3433333,3061,Public Supply,17
+5917103,Carrizo-Wilcox,Milam,30.7238,-96.983,410,Unused,19
+5921209,Carrizo-Wilcox,Brazos,30.73,-96.4513889,2867,Public Supply,15
+5925502,Carrizo-Wilcox,Burleson,30.5644,-96.9386,614,Domestic,19
+5925508,Carrizo-Wilcox,Milam,30.5692,-96.9477,520,Domestic,16
+5934106,Carrizo-Wilcox,Burleson,30.4885,-96.8437,840,Domestic,15
+6707204,Carrizo-Wilcox,Bastrop,29.9936111,-97.1805556,765,Domestic,17
+6711501,Carrizo-Wilcox,Caldwell,29.7995556,-97.6748056,168,Unused,22
+6712111,Carrizo-Wilcox,Caldwell,29.8705556,-97.5886667,175,Stock,22
+6719306,Carrizo-Wilcox,Caldwell,29.7203611,-97.6648056,330,Unused,24
+6720802,Carrizo-Wilcox,Caldwell,29.6624722,-97.5721944,200,Stock,24
+6727201,Carrizo-Wilcox,Guadalupe,29.6030278,-97.6925,171,Unused,22
+6727705,Carrizo-Wilcox,Gonzales,29.530555,-97.712223,,,24
+6727706,Carrizo-Wilcox,Guadalupe,29.5338889,-97.7388889,520,Domestic,23
+6727808,Carrizo-Wilcox,Gonzales,29.528055,-97.686111,,,21
+6727809,Carrizo-Wilcox,Gonzales,29.526111,-97.701945,310,,21
+6727903,Carrizo-Wilcox,Gonzales,29.504723,-97.651945,600,Domestic,22
+6733401,Carrizo-Wilcox,Guadalupe,29.4312222,-97.9997222,81,Unused,22
+6733803,Carrizo-Wilcox,Guadalupe,29.381,-97.9562,,Domestic,21
+6734405,Carrizo-Wilcox,Guadalupe,29.443925,-97.8403444,440,Public Supply,17
+6734504,Carrizo-Wilcox,Guadalupe,29.45,-97.7980556,455,Public Supply,15
+6734505,Carrizo-Wilcox,Guadalupe,29.4572222,-97.8119444,460,,17
+6734601,Carrizo-Wilcox,Gonzales,29.450001,-97.761112,950,Domestic,22
+6734612,Carrizo-Wilcox,Gonzales,29.456945,-97.775555,510,Public Supply,20
+6734706,Carrizo-Wilcox,Guadalupe,29.3855556,-97.8525,772,Unused,22
+6734905,Carrizo-Wilcox,Gonzales,29.381667,-97.751112,810,Irrigation,23
+6734907,Carrizo-Wilcox,Gonzales,29.391111,-97.782778,,,21
+6735109,Carrizo-Wilcox,Gonzales,29.497222,-97.738611,230,Domestic,22
+6735401,Carrizo-Wilcox,Gonzales,29.449722,-97.741111,732,Irrigation,21
+6736105,Carrizo-Wilcox,Gonzales,29.481389,-97.593889,1008,Stock,17
+6736501,Carrizo-Wilcox,Gonzales,29.436389,-97.545556,1650,Irrigation,18
+6741102,Carrizo-Wilcox,Wilson,29.344722,-97.963612,272,Unused,17
+6741305,Carrizo-Wilcox,Wilson,29.3663889,-97.8791667,415,,17
+6742204,Carrizo-Wilcox,Gonzales,29.367222,-97.795,615,Public Supply,16
+6742304,Carrizo-Wilcox,Gonzales,29.37,-97.7533333,850,,24
+6742608,Carrizo-Wilcox,Gonzales,29.297222,-97.775833,1260,,17
+6742611,Carrizo-Wilcox,Gonzales,29.3266667,-97.7769444,2600,Domestic,15
+6743103,Carrizo-Wilcox,Gonzales,29.366389,-97.745278,1000,Irrigation,24
+6743105,Carrizo-Wilcox,Gonzales,29.354723,-97.745,,,17
+6743805,Carrizo-Wilcox,Gonzales,29.2796917,-97.7060139,1950,Stock,21
+6743907,Carrizo-Wilcox,Gonzales,29.2701194,-97.6368694,2435,Public Supply,15
+6749201,Carrizo-Wilcox,Wilson,29.235,-97.9547222,916,Unused,23
+6750302,Carrizo-Wilcox,Wilson,29.244167,-97.773055,1840,Irrigation,15
+6840310,Carrizo-Wilcox,Guadalupe,29.4881944,-98.0386111,130,Unused,21
+6840401,Carrizo-Wilcox,Guadalupe,29.4477778,-98.0950556,64,Domestic,24
+6846902,Carrizo-Wilcox,Wilson,29.263056,-98.259723,692,Unused,19
+6847303,Carrizo-Wilcox,Wilson,29.3577556,-98.1303694,525,Plugged or Destroyed,17
+6848509,Carrizo-Wilcox,Wilson,29.301389,-98.052501,,,19
+6849808,Carrizo-Wilcox,Medina,29.1579167,-98.9543083,390,Domestic,21
+6852713,Carrizo-Wilcox,Atascosa,29.149167,-98.590834,393,Unused,22
+6853902,Carrizo-Wilcox,Wilson,29.1280556,-98.3805556,754,Irrigation,18
+6854506,Carrizo-Wilcox,Wilson,29.1941667,-98.2938889,482,Unused,20
+6854809,Carrizo-Wilcox,Wilson,29.1255556,-98.3288889,700,Unused,15
+6857307,Carrizo-Wilcox,Medina,29.1186111,-98.8858333,409,Unused,22
+6859212,Carrizo-Wilcox,Atascosa,29.1211111,-98.6988889,,,15
+6859317,Carrizo-Wilcox,Atascosa,29.105,-98.6458333,,,23
+6859509,Carrizo-Wilcox,Atascosa,29.0733333,-98.685,404,Stock,16
+6859518,Carrizo-Wilcox,Atascosa,29.0775,-98.688056,216,,16
+6859633,Carrizo-Wilcox,Atascosa,29.0458333,-98.6544444,,Irrigation,16
+6860852,Carrizo-Wilcox,Atascosa,29.0355556,-98.55,1130,Irrigation,22
+6861320,Carrizo-Wilcox,Atascosa,29.096111,-98.396667,950,Irrigation,20
+6862104,Carrizo-Wilcox,Wilson,29.1213889,-98.3627778,920,Unused,22
+6955901,Carrizo-Wilcox,Medina,29.1393556,-99.1543472,225,Irrigation,19
+6958701,Carrizo-Wilcox,Zavala,29.012675,-99.8454639,182,Unused,23
+6959606,Carrizo-Wilcox,Zavala,29.0675,-99.6469444,100,Unused,24
+6961525,Carrizo-Wilcox,Zavala,29.0647222,-99.4436111,283,Unused,15
+7607901,Carrizo-Wilcox,Maverick,28.9038889,-100.1441667,100,Unused,16
+7607919,Carrizo-Wilcox,Maverick,28.9138889,-100.1311111,115,Unused,17
+7624801,Carrizo-Wilcox,Dimmit,28.6466667,-100.0458333,140,Stock,15
+7624906,Carrizo-Wilcox,Zavala,28.6644444,-100.0191667,438,Plugged or Destroyed,18
+7648702,Carrizo-Wilcox,Dimmit,28.2825,-100.1038889,180,Unused,15
+7648801,Carrizo-Wilcox,Dimmit,28.2758333,-100.0736111,55,Domestic,19
+7702509,Carrizo-Wilcox,Zavala,28.9244694,-99.8260917,734,Unused,24
+7708803,Carrizo-Wilcox,Frio,28.8902778,-99.075,1352,Unused,24
+7709101,Carrizo-Wilcox,Zavala,28.8566667,-99.9752778,632,Unused,19
+7710609,Carrizo-Wilcox,Zavala,28.8147222,-99.7672222,1038,Irrigation,16
+7716801,Carrizo-Wilcox,Frio,28.785,-99.0808333,1828,Unused,20
+7718704,Carrizo-Wilcox,Dimmit,28.6341083,-99.8564583,1022,Irrigation,16
+7726708,Carrizo-Wilcox,Dimmit,28.5088889,-99.8491667,315,Unused,21
+7727202,Carrizo-Wilcox,Dimmit,28.5975,-99.7058333,1249,Irrigation,24
+7733611,Carrizo-Wilcox,Dimmit,28.4533333,-99.9163889,360,Domestic,20
+7734702,Carrizo-Wilcox,Dimmit,28.395,-99.8405556,600,Stock,19
+7738103,Carrizo-Wilcox,La Salle,28.4769444,-99.3575,2084,Stock,23
+7747802,Carrizo-Wilcox,La Salle,28.2508333,-99.1819444,3290,Unused,18
+7748301,Carrizo-Wilcox,La Salle,28.3461111,-99.0058333,3483,Domestic,17
+7802815,Carrizo-Wilcox,Frio,28.910001,-98.807223,1390,Unknown,21
+7809503,Carrizo-Wilcox,Frio,28.815556,-98.9275,1700,Irrigation,21
+7810315,Carrizo-Wilcox,Atascosa,28.8558333,-98.7594444,1550,,16
+2751902,Edwards-Trinity (Plateau),Andrews,32.1263889,-102.6416667,132,Unused,18
+2759903,Edwards-Trinity (Plateau),Ector,32.0344444,-102.6569444,96,Unused,22
+2760403,Edwards-Trinity (Plateau),Ector,32.0595278,-102.6023694,106,Unused,20
+2760701,Edwards-Trinity (Plateau),Ector,32.0363528,-102.6127778,114,Unused,22
+2762801,Edwards-Trinity (Plateau),Ector,32.0413028,-102.2967333,147,Unused,20
+2763601,Edwards-Trinity (Plateau),Midland,32.0539194,-102.1538889,,Irrigation,17
+2862102,Edwards-Trinity (Plateau),Howard,32.108334,-101.363334,289,Unused,24
+2953502,Edwards-Trinity (Plateau),Nolan,32.183055,-100.431111,180,Unused,24
+4241801,Edwards-Trinity (Plateau),Concho,31.269722,-99.941945,32,Unused,15
+4302707,Edwards-Trinity (Plateau),Sterling,31.9013889,-100.8688889,300,Domestic,22
+4325302,Edwards-Trinity (Plateau),Sterling,31.6136111,-100.9066667,,Stock,24
+4326901,Edwards-Trinity (Plateau),Irion,31.523333,-100.780278,139,Unused,21
+4351401,Edwards-Trinity (Plateau),Irion,31.1857583,-100.7365111,51,Stock,23
+4357103,Edwards-Trinity (Plateau),Irion,31.109167,-100.986667,200,Stock,23
+4358906,Edwards-Trinity (Plateau),Schleicher,31.0052778,-100.7672222,,,16
+4407104,Edwards-Trinity (Plateau),Sterling,31.970833,-101.223333,90,Domestic,24
+4408307,Edwards-Trinity (Plateau),Sterling,31.976944,-101.028055,162,Irrigation,23
+4409502,Edwards-Trinity (Plateau),Midland,31.8034361,-101.9484111,59,Stock,20
+4411707,Edwards-Trinity (Plateau),Glasscock,31.788056,-101.7175,125,Stock,15
+4412302,Edwards-Trinity (Plateau),Glasscock,31.854445,-101.511389,114,Irrigation,15
+4412611,Edwards-Trinity (Plateau),Glasscock,31.7952778,-101.5358333,306,Unused,24
+4413103,Edwards-Trinity (Plateau),Glasscock,31.851667,-101.479722,200,Irrigation,15
+4413321,Edwards-Trinity (Plateau),Glasscock,31.839445,-101.406667,233,Irrigation,15
+4413401,Edwards-Trinity (Plateau),Glasscock,31.804445,-101.466944,216,Irrigation,15
+4413410,Edwards-Trinity (Plateau),Glasscock,31.809445,-101.480278,300,Irrigation,15
+4414601,Edwards-Trinity (Plateau),Sterling,31.801667,-101.257501,93,Stock,19
+4418214,Edwards-Trinity (Plateau),Midland,31.7339306,-101.7966028,176,Plugged or Destroyed,19
+4419210,Edwards-Trinity (Plateau),Glasscock,31.721667,-101.693056,,Irrigation,15
+4420402,Edwards-Trinity (Plateau),Glasscock,31.700001,-101.588056,320,Irrigation,15
+4420854,Edwards-Trinity (Plateau),Reagan,31.6391667,-101.5456028,353,Unused,23
+4433501,Edwards-Trinity (Plateau),Upton,31.4562778,-101.9368083,340,Irrigation,17
+4447904,Edwards-Trinity (Plateau),Irion,31.285,-101.162778,309,Stock,23
+4459810,Edwards-Trinity (Plateau),Crockett,31.014445,-101.698889,364,Unused,15
+4461403,Edwards-Trinity (Plateau),Crockett,31.066112,-101.461389,400,Stock,22
+4464803,Edwards-Trinity (Plateau),Crockett,31.037778,-101.063056,397,,15
+4504120,Edwards-Trinity (Plateau),Ector,31.9888889,-102.6152778,170,Unused,20
+4504201,Edwards-Trinity (Plateau),Ector,31.9669444,-102.5536111,105,Stock,16
+4505607,Edwards-Trinity (Plateau),Ector,31.9194,-102.404075,180,Unused,21
+4505916,Edwards-Trinity (Plateau),Ector,31.8941667,-102.3911111,155,Unused,22
+4515801,Edwards-Trinity (Plateau),Midland,31.7829361,-102.1674167,170,Domestic,15
+4524104,Edwards-Trinity (Plateau),Midland,31.7247889,-102.0928556,,Domestic,18
+4562402,Edwards-Trinity (Plateau),Pecos,31.056667,-102.371667,120,Industrial,19
+4562901,Edwards-Trinity (Plateau),Pecos,31.0116667,-102.2583333,190,Unused,23
+4658402,Edwards-Trinity (Plateau),Reeves,31.0438056,-103.8451222,380,Domestic,15
+5207901,Edwards-Trinity (Plateau),Pecos,30.888056,-103.143889,612,Irrigation,22
+5208801,Edwards-Trinity (Plateau),Pecos,30.8786111,-103.0708333,200,Stock,22
+5216802,Edwards-Trinity (Plateau),Pecos,30.7910806,-103.042925,448,Unused,24
+5223603,Edwards-Trinity (Plateau),Pecos,30.7025,-103.1516667,460,Unused,19
+5301707,Edwards-Trinity (Plateau),Pecos,30.9088889,-102.9880556,98,Unknown,19
+5301902,Edwards-Trinity (Plateau),Pecos,30.8897222,-102.8841667,180,Unused,22
+5302708,Edwards-Trinity (Plateau),Pecos,30.8761111,-102.8452778,227,Unused,21
+5302710,Edwards-Trinity (Plateau),Pecos,30.9011111,-102.8577778,183,Unused,19
+5303901,Edwards-Trinity (Plateau),Pecos,30.878333,-102.648889,462,Public Supply,23
+5306501,Edwards-Trinity (Plateau),Pecos,30.945834,-102.315278,425,Unused,23
+5307202,Edwards-Trinity (Plateau),Pecos,30.975555,-102.194445,,Domestic,19
+5309301,Edwards-Trinity (Plateau),Pecos,30.8578778,-102.8927917,210,Unused,22
+5312702,Edwards-Trinity (Plateau),Pecos,30.776389,-102.594167,,Irrigation,19
+5312703,Edwards-Trinity (Plateau),Pecos,30.782778,-102.589722,,Domestic,21
+5316601,Edwards-Trinity (Plateau),Pecos,30.8288889,-102.0361111,319,Unused,19
+5353201,Edwards-Trinity (Plateau),Terrell,30.2283667,-102.4361083,,Domestic,15
+5353401,Edwards-Trinity (Plateau),Terrell,30.1712472,-102.4780861,441,Stock,18
+5353804,Edwards-Trinity (Plateau),Terrell,30.1472,-102.4272139,550,Public Supply,15
+5405404,Edwards-Trinity (Plateau),Crockett,30.921389,-101.491389,321,Unused,22
+5406505,Edwards-Trinity (Plateau),Crockett,30.923333,-101.316944,,Unused,23
+5407803,Edwards-Trinity (Plateau),Crockett,30.881944,-101.178055,458,Unused,15
+5410806,Edwards-Trinity (Plateau),Crockett,30.785834,-101.806389,107,Unused,18
+5411501,Edwards-Trinity (Plateau),Crockett,30.815278,-101.700278,275,Unused,23
+5411502,Edwards-Trinity (Plateau),Crockett,30.815278,-101.697222,258,Stock,23
+5411801,Edwards-Trinity (Plateau),Crockett,30.786945,-101.695,,Unused,22
+5413408,Edwards-Trinity (Plateau),Crockett,30.803334,-101.486389,241,Unused,22
+5413707,Edwards-Trinity (Plateau),Crockett,30.766112,-101.493611,270,Unused,22
+5415304,Edwards-Trinity (Plateau),Crockett,30.833889,-101.158334,420,Irrigation,15
+5416402,Edwards-Trinity (Plateau),Crockett,30.808889,-101.105278,395,Unused,21
+5418510,Edwards-Trinity (Plateau),Pecos,30.6780556,-101.8166667,153,Unused,19
+5418605,Edwards-Trinity (Plateau),Crockett,30.705278,-101.788611,,Irrigation,21
+5419804,Edwards-Trinity (Plateau),Crockett,30.659445,-101.685,178,Stock,24
+5420103,Edwards-Trinity (Plateau),Crockett,30.7363889,-101.6036111,,,15
+5421507,Edwards-Trinity (Plateau),Crockett,30.694445,-101.449167,,Unused,23
+5423106,Edwards-Trinity (Plateau),Crockett,30.7130556,-101.2130556,397,Unused,23
+5423408,Edwards-Trinity (Plateau),Crockett,30.700278,-101.233055,,Unused,22
+5424206,Edwards-Trinity (Plateau),Crockett,30.746945,-101.045834,460,Unused,22
+5424402,Edwards-Trinity (Plateau),Crockett,30.687222,-101.091945,420,Unused,24
+5425401,Edwards-Trinity (Plateau),Terrell,30.5796917,-101.9777278,300,Unused,19
+5428405,Edwards-Trinity (Plateau),Crockett,30.583055,-101.609167,538,Unused,22
+5431504,Edwards-Trinity (Plateau),Crockett,30.561389,-101.186111,333,Unused,23
+5435903,Edwards-Trinity (Plateau),Crockett,30.402223,-101.634445,274,Unused,22
+5436903,Edwards-Trinity (Plateau),Crockett,30.396111,-101.530278,454,Unused,22
+5437408,Edwards-Trinity (Plateau),Crockett,30.417778,-101.481389,127,Unused,23
+5440805,Edwards-Trinity (Plateau),Crockett,30.388056,-101.081944,453,Unused,19
+5444506,Edwards-Trinity (Plateau),Crockett,30.301389,-101.547222,196,Unused,23
+5445502,Edwards-Trinity (Plateau),Crockett,30.314167,-101.444722,,Domestic,23
+5447205,Edwards-Trinity (Plateau),Crockett,30.371111,-101.173889,400,Unused,23
+5456403,Edwards-Trinity (Plateau),Val Verde,30.17325,-101.0973611,150,Stock,20
+5463401,Edwards-Trinity (Plateau),Val Verde,30.0575278,-101.2228889,710,Unused,19
+5512134,Edwards-Trinity (Plateau),Schleicher,30.8622778,-100.5975833,351,Unused,23
+5513910,Edwards-Trinity (Plateau),Schleicher,30.7675,-100.399167,420,Domestic,19
+5525107,Edwards-Trinity (Plateau),Crockett,30.589445,-100.999167,,Stock,16
+5533403,Edwards-Trinity (Plateau),Crockett,30.42,-100.984722,175,Domestic,20
+5563803,Edwards-Trinity (Plateau),Edwards,30.0183472,-100.2079861,563,Public Supply,21
+5603302,Edwards-Trinity (Plateau),Menard,30.959723,-99.628055,70,Stock,20
+5618104,Edwards-Trinity (Plateau),Menard,30.713334,-99.857778,290,Unused,21
+5625906,Edwards-Trinity (Plateau),Kimble,30.523611,-99.881389,110,Domestic,18
+5635506,Edwards-Trinity (Plateau),Kimble,30.4494444,-99.6752778,180,Domestic,15
+5640701,Edwards-Trinity (Plateau),Gillespie,30.3992778,-99.1209444,121,Domestic,23
+5643901,Edwards-Trinity (Plateau),Kerr,30.2650556,-99.6543056,870,Unused,19
+5644203,Edwards-Trinity (Plateau),Kimble,30.374444,-99.577778,260,Domestic,16
+5647406,Edwards-Trinity (Plateau),Gillespie,30.2970278,-99.2441667,160,Domestic,22
+5647603,Edwards-Trinity (Plateau),Gillespie,30.2991944,-99.1565833,160,Domestic,22
+5648503,Edwards-Trinity (Plateau),Gillespie,30.3311944,-99.0819722,160,Stock,23
+5648804,Edwards-Trinity (Plateau),Gillespie,30.2762222,-99.0714444,140,Domestic,23
+5655603,Edwards-Trinity (Plateau),Gillespie,30.1869444,-99.1597222,207,Domestic,22
+5658602,Edwards-Trinity (Plateau),Real,30.0691167,-99.7868722,175,Domestic,19
+5659201,Edwards-Trinity (Plateau),Kerr,30.1063056,-99.6956944,1055,Unused,19
+5661101,Edwards-Trinity (Plateau),Kerr,30.1070278,-99.4940833,880,Unused,21
+5661102,Edwards-Trinity (Plateau),Kerr,30.1175,-99.4922222,210,Unused,20
+5662414,Edwards-Trinity (Plateau),Kerr,30.0766667,-99.3586111,560,Unused,23
+5733803,Edwards-Trinity (Plateau),Gillespie,30.382,-98.9181944,195,Domestic,23
+5733903,Edwards-Trinity (Plateau),Gillespie,30.4105833,-98.9036389,207,Domestic,22
+7001707,Edwards-Trinity (Plateau),Val Verde,29.8838889,-100.9888889,90,Unused,20
+7029101,Edwards-Trinity (Plateau),Kinney,29.5975556,-100.4715139,502,Domestic,17
+7033508,Edwards-Trinity (Plateau),Val Verde,29.45575,-100.94775,437,Domestic,21
+7037501,Edwards-Trinity (Plateau),Kinney,29.425,-100.4169444,,Domestic,18
+7037902,Edwards-Trinity (Plateau),Kinney,29.4115583,-100.4079194,560,Unused,21
+7045401,Edwards-Trinity (Plateau),Kinney,29.3253861,-100.4713444,930,Unused,22
+3657106,Gulf Coast,Jasper,31.104445,-93.988334,20,Unused,24
+3657702,Gulf Coast,Jasper,31.003056,-93.984722,378,Irrigation,21
+3764402,Gulf Coast,Jasper,31.061945,-94.115278,300,Unused,24
+3764404,Gulf Coast,Jasper,31.063056,-94.100834,260,Unused,24
+3764503,Gulf Coast,Jasper,31.0725,-94.056389,260,Unused,24
+5946401,Gulf Coast,Washington,30.3330778,-96.3353889,150,Unused,19
+5951607,Gulf Coast,Washington,30.1693889,-96.6589444,155,Domestic,19
+5951802,Gulf Coast,Fayette,30.151175,-96.6884889,62,Unused,21
+5951806,Gulf Coast,Fayette,30.1493917,-96.6708444,90,Domestic,19
+5952806,Gulf Coast,Washington,30.1315278,-96.5828611,277,Domestic,20
+5953915,Gulf Coast,Washington,30.1664139,-96.3840611,820,Unused,22
+5955501,Gulf Coast,Washington,30.1745139,-96.1877667,100,Unused,20
+5956301,Gulf Coast,Grimes,30.2458333,-96.0366667,292,Irrigation,18
+5964206,Gulf Coast,Waller,30.0952778,-96.0819444,1240,Public Supply,17
+5964207,Gulf Coast,Waller,30.095,-96.082222,732,Public Supply,18
+5964208,Gulf Coast,Waller,30.095,-96.081667,,,19
+6005905,Gulf Coast,Trinity,30.8819444,-95.3777778,135,Domestic,19
+6012301,Gulf Coast,Walker,30.8530611,-95.5056167,275,Unused,20
+6013304,Gulf Coast,Walker,30.8421,-95.3916028,475,Unused,19
+6015803,Gulf Coast,San Jacinto,30.76625,-95.1744806,360,Public Supply,20
+6018702,Gulf Coast,Grimes,30.6390972,-95.8593333,63,Stock,20
+6023904,Gulf Coast,San Jacinto,30.6655556,-95.1505556,515,Public Supply,20
+6024109,Gulf Coast,Polk,30.738889,-95.086945,165,Public Supply,19
+6025804,Gulf Coast,Grimes,30.5333083,-95.9212222,153,Unused,18
+6026208,Gulf Coast,Montgomery,30.603056,-95.812778,172,Domestic,18
+6028802,Gulf Coast,Walker,30.5280556,-95.5638889,181,Unused,23
+6029708,Gulf Coast,Walker,30.53925,-95.4797778,587,Public Supply,19
+6031317,Gulf Coast,San Jacinto,30.5933333,-95.1291667,970,Public Supply,19
+6033103,Gulf Coast,Grimes,30.4875,-95.9841667,611,Plugged or Destroyed,15
+6033302,Gulf Coast,Grimes,30.4669444,-95.8955556,240,Domestic,20
+6034201,Gulf Coast,Grimes,30.463889,-95.815278,510,,17
+6034503,Gulf Coast,Montgomery,30.447222,-95.805278,795,,18
+6034702,Gulf Coast,Grimes,30.3877778,-95.8733333,130,Unused,15
+6035202,Gulf Coast,Montgomery,30.4988333,-95.7106111,107,Unused,24
+6035503,Gulf Coast,Montgomery,30.4436111,-95.7080556,118,Unused,23
+6035504,Gulf Coast,Montgomery,30.443889,-95.708334,83,Unused,22
+6035505,Gulf Coast,Montgomery,30.4436111,-95.7080556,60,Unused,23
+6035703,Gulf Coast,Montgomery,30.3780556,-95.7338889,763,Public Supply,18
+6035812,Gulf Coast,Montgomery,30.386667,-95.701667,783,Public Supply,20
+6035908,Gulf Coast,Montgomery,30.3975,-95.6347222,495,Public Supply,18
+6035909,Gulf Coast,Montgomery,30.38,-95.641945,648,Public Supply,21
+6035910,Gulf Coast,Montgomery,30.394445,-95.646111,640,Public Supply,17
+6035911,Gulf Coast,Montgomery,30.385834,-95.659167,742,Public Supply,20
+6035912,Gulf Coast,Montgomery,30.39,-95.653334,575,,19
+6036207,Gulf Coast,Montgomery,30.474722,-95.575555,470,Public Supply,21
+6036305,Gulf Coast,Montgomery,30.465,-95.5352778,478,Public Supply,16
+6036409,Gulf Coast,Montgomery,30.432778,-95.623055,605,Public Supply,21
+6036410,Gulf Coast,Montgomery,30.447778,-95.608334,467,Public Supply,19
+6036412,Gulf Coast,Montgomery,30.447222,-95.607501,682,Public Supply,17
+6036505,Gulf Coast,Montgomery,30.433055,-95.5775,640,Public Supply,19
+6036611,Gulf Coast,Montgomery,30.421389,-95.503056,336,Public Supply,17
+6036705,Gulf Coast,Montgomery,30.394167,-95.604723,750,Public Supply,20
+6036706,Gulf Coast,Montgomery,30.3922222,-95.6175,750,Public Supply,17
+6036809,Gulf Coast,Montgomery,30.412501,-95.568889,740,Public Supply,19
+6036810,Gulf Coast,Montgomery,30.412501,-95.569167,734,Public Supply,18
+6036812,Gulf Coast,Montgomery,30.4163889,-95.5663889,581,Public Supply,18
+6037402,Gulf Coast,Montgomery,30.4230556,-95.4786111,900,Public Supply,20
+6037603,Gulf Coast,Montgomery,30.4355556,-95.3952778,1500,Public Supply,19
+6037711,Gulf Coast,Montgomery,30.3891667,-95.4952778,1093,Public Supply,19
+6037714,Gulf Coast,Montgomery,30.3886111,-95.4763889,1132,Public Supply,19
+6037715,Gulf Coast,Montgomery,30.3791667,-95.495,1103,Public Supply,16
+6037717,Gulf Coast,Montgomery,30.390834,-95.493334,1090,Public Supply,20
+6037909,Gulf Coast,Montgomery,30.4147222,-95.4058333,515,Public Supply,16
+6038806,Gulf Coast,Montgomery,30.389167,-95.328611,600,Public Supply,16
+6038807,Gulf Coast,Montgomery,30.384167,-95.328889,570,Public Supply,16
+6042206,Gulf Coast,Montgomery,30.363056,-95.793611,760,Public Supply,17
+6042803,Gulf Coast,Grimes,30.255278,-95.828055,267,Public Supply,21
+6043511,Gulf Coast,Montgomery,30.3183333,-95.6966667,394,Public Supply,20
+6043514,Gulf Coast,Montgomery,30.3250028,-95.6879472,1050,Public Supply,20
+6044318,Gulf Coast,Montgomery,30.353612,-95.519722,1184,Public Supply,19
+6044805,Gulf Coast,Montgomery,30.2513889,-95.5769444,161,Unused,23
+6045402,Gulf Coast,Montgomery,30.330278,-95.483889,1150,Public Supply,19
+6045412,Gulf Coast,Montgomery,30.33,-95.4833333,261,Unused,22
+6045413,Gulf Coast,Montgomery,30.330278,-95.483611,109,Unused,18
+6045414,Gulf Coast,Montgomery,30.33,-95.4833333,80,Unused,22
+6045501,Gulf Coast,Montgomery,30.321667,-95.455001,1280,Public Supply,19
+6045503,Gulf Coast,Montgomery,30.3080556,-95.4566667,1332,Public Supply,16
+6045504,Gulf Coast,Montgomery,30.308056,-95.456945,1221,Unused,20
+6045507,Gulf Coast,Montgomery,30.3052778,-95.4541667,1280,Public Supply,16
+6045712,Gulf Coast,Montgomery,30.289167,-95.481944,1245,Public Supply,20
+6045716,Gulf Coast,Montgomery,30.270278,-95.4775,710,Public Supply,15
+6045805,Gulf Coast,Montgomery,30.256389,-95.444722,702,Public Supply,22
+6045812,Gulf Coast,Montgomery,30.2511111,-95.4427778,1260,Public Supply,16
+6045813,Gulf Coast,Montgomery,30.254723,-95.452501,1366,Public Supply,21
+6046505,Gulf Coast,Montgomery,30.314167,-95.300278,345,Public Supply,17
+6047602,Gulf Coast,Montgomery,30.32,-95.1583333,1214,Industrial,19
+6048102,Gulf Coast,Liberty,30.3447222,-95.0855556,845,Public Supply,15
+6048302,Gulf Coast,Liberty,30.3658333,-95.0044444,452,Irrigation,16
+6048505,Gulf Coast,Liberty,30.3302778,-95.0525,400,Public Supply,20
+6051409,Gulf Coast,Montgomery,30.204445,-95.748056,662,Public Supply,16
+6051815,Gulf Coast,Montgomery,30.161945,-95.673611,1644,Public Supply,17
+6051907,Gulf Coast,Montgomery,30.1336111,-95.6605556,720,Public Supply,15
+6052209,Gulf Coast,Montgomery,30.2161111,-95.5430556,1658,,18
+6052210,Gulf Coast,Montgomery,30.216112,-95.543056,976,,21
+6052306,Gulf Coast,Montgomery,30.218889,-95.525555,1594,Public Supply,20
+6052307,Gulf Coast,Montgomery,30.219167,-95.525555,890,Public Supply,21
+6052501,Gulf Coast,Montgomery,30.184167,-95.561945,1630,Public Supply,18
+6052502,Gulf Coast,Montgomery,30.184167,-95.561945,906,Public Supply,21
+6052602,Gulf Coast,Montgomery,30.176111,-95.501945,1030,Public Supply,21
+6052603,Gulf Coast,Montgomery,30.176111,-95.501945,1650,Public Supply,21
+6052604,Gulf Coast,Montgomery,30.205834,-95.515556,1630,Public Supply,20
+6052605,Gulf Coast,Montgomery,30.205834,-95.515556,1064,Public Supply,20
+6052606,Gulf Coast,Montgomery,30.169167,-95.508612,1680,Public Supply,20
+6052607,Gulf Coast,Montgomery,30.168889,-95.508612,1052,Public Supply,21
+6052608,Gulf Coast,Montgomery,30.206945,-95.533055,1674,Public Supply,21
+6052609,Gulf Coast,Montgomery,30.2069444,-95.5330556,1120,Public Supply,21
+6052811,Gulf Coast,Montgomery,30.154167,-95.576944,143,Domestic,15
+6053209,Gulf Coast,Montgomery,30.215834,-95.451389,1000,Public Supply,18
+6053215,Gulf Coast,Montgomery,30.21,-95.4330556,256,Public Supply,16
+6053406,Gulf Coast,Montgomery,30.185556,-95.492222,1620,Public Supply,20
+6053407,Gulf Coast,Montgomery,30.1855556,-95.4922222,1005,Public Supply,18
+6053408,Gulf Coast,Montgomery,30.176389,-95.4775,1640,Public Supply,21
+6053409,Gulf Coast,Montgomery,30.176389,-95.4775,1000,Public Supply,21
+6053416,Gulf Coast,Montgomery,30.193056,-95.483611,1656,Public Supply,21
+6053417,Gulf Coast,Montgomery,30.193611,-95.476667,1094,Public Supply,21
+6053418,Gulf Coast,Montgomery,30.1925,-95.459445,1715,,18
+6053516,Gulf Coast,Montgomery,30.2077778,-95.4575,807,Unused,24
+6053708,Gulf Coast,Montgomery,30.136389,-95.488056,1180,Public Supply,18
+6053709,Gulf Coast,Montgomery,30.139948,-95.4629428,944,Public Supply,20
+6053712,Gulf Coast,Montgomery,30.139167,-95.474722,1688,Public Supply,20
+6053713,Gulf Coast,Montgomery,30.1405556,-95.4627778,1710,Public Supply,19
+6053715,Gulf Coast,Montgomery,30.125833,-95.489445,870,Public Supply,20
+6053718,Gulf Coast,Montgomery,30.14,-95.4630556,246,Unused,23
+6053722,Gulf Coast,Montgomery,30.138056,-95.4925,1686,,20
+6053814,Gulf Coast,Montgomery,30.157223,-95.446111,1010,Public Supply,18
+6053826,Gulf Coast,Montgomery,30.165834,-95.441945,1014,Public Supply,18
+6053827,Gulf Coast,Montgomery,30.140556,-95.451389,570,Public Supply,17
+6053829,Gulf Coast,Montgomery,30.155834,-95.454167,1686,Public Supply,20
+6053830,Gulf Coast,Montgomery,30.155834,-95.454167,1025,Public Supply,20
+6053902,Gulf Coast,Montgomery,30.1311111,-95.4125,425,Public Supply,16
+6053903,Gulf Coast,Montgomery,30.1444444,-95.4130556,558,Public Supply,17
+6054613,Gulf Coast,Montgomery,30.1708333,-95.2822222,1737,Public Supply,17
+6055313,Gulf Coast,Montgomery,30.2453611,-95.1570556,1375,Public Supply,22
+6055315,Gulf Coast,Montgomery,30.2386111,-95.1594444,440,Public Supply,16
+6055605,Gulf Coast,Montgomery,30.177778,-95.161667,1315,Public Supply,19
+6055710,Gulf Coast,Montgomery,30.1469444,-95.2422222,600,Unused,24
+6055712,Gulf Coast,Montgomery,30.1352778,-95.2172222,660,Public Supply,16
+6055714,Gulf Coast,Montgomery,30.141945,-95.239167,,,16
+6057109,Gulf Coast,Waller,30.098889,-95.985834,585,,22
+6057110,Gulf Coast,Waller,30.095556,-95.985278,587,,21
+6057112,Gulf Coast,Waller,30.096389,-95.993889,572,,20
+6057113,Gulf Coast,Waller,30.096389,-95.9775,600,,19
+6057402,Gulf Coast,Waller,30.072222,-95.986945,645,Public Supply,16
+6057405,Gulf Coast,Waller,30.0708333,-95.9822222,,,16
+6057506,Gulf Coast,Waller,30.055001,-95.942778,558,Public Supply,16
+6057509,Gulf Coast,Waller,30.0611111,-95.9313889,538,Public Supply,16
+6058303,Gulf Coast,Montgomery,30.121389,-95.776667,195,Domestic,17
+6058501,Gulf Coast,Harris,30.069167,-95.813334,1160,Irrigation,18
+6058711,Gulf Coast,Harris,30.029722,-95.851389,332,De-watering,18
+6059102,Gulf Coast,Montgomery,30.116112,-95.742778,298,,16
+6060103,Gulf Coast,Harris,30.089445,-95.614445,412,Public Supply,19
+6060306,Gulf Coast,Harris,30.099167,-95.511667,1612,Public Supply,19
+6060406,Gulf Coast,Harris,30.051945,-95.599445,530,Public Supply,18
+6060407,Gulf Coast,Harris,30.0469444,-95.5991667,1856,Public Supply,19
+6060409,Gulf Coast,Harris,30.0363889,-95.5836111,1856,Public Supply,19
+6060712,Gulf Coast,Harris,30.0019444,-95.5963889,305,Domestic,16
+6060715,Gulf Coast,Harris,30.017778,-95.614167,1842,Public Supply,19
+6060716,Gulf Coast,Harris,30.0369444,-95.5836111,1856,Public Supply,17
+6060804,Gulf Coast,Harris,30.0158333,-95.5658333,962,Public Supply,15
+6061101,Gulf Coast,Harris,30.085556,-95.4675,1000,Public Supply,19
+6061308,Gulf Coast,Montgomery,30.095556,-95.3875,1182,Public Supply,16
+6061528,Gulf Coast,Harris,30.047778,-95.448611,1074,Public Supply,22
+6061601,Gulf Coast,Harris,30.0827778,-95.4163889,225,Public Supply,18
+6061713,Gulf Coast,Harris,30.015278,-95.464445,1165,Public Supply,18
+6061727,Gulf Coast,Harris,30.012633,-95.492616,2052,,17
+6061826,Gulf Coast,Harris,30.0233333,-95.4461111,1030,Public Supply,19
+6061841,Gulf Coast,Harris,30.015171,-95.455315,2204,Public Supply,17
+6061905,Gulf Coast,Harris,30.0288889,-95.4052778,560,Public Supply,20
+6061914,Gulf Coast,Harris,30.0052778,-95.3827778,990,Public Supply,19
+6062401,Gulf Coast,Harris,30.0430556,-95.3577778,725,Public Supply,19
+6062716,Gulf Coast,Harris,30.016944,-95.353612,346,,15
+6063205,Gulf Coast,Montgomery,30.0988889,-95.1908333,900,Public Supply,18
+6063404,Gulf Coast,Harris,30.042222,-95.226667,351,Public Supply,20
+6063503,Gulf Coast,Harris,30.069167,-95.198334,1060,Public Supply,16
+6063504,Gulf Coast,Harris,30.063056,-95.189445,1100,Public Supply,18
+6063505,Gulf Coast,Harris,30.050001,-95.176944,1136,Public Supply,19
+6063507,Gulf Coast,Montgomery,30.080833,-95.204167,1190,Public Supply,17
+6063508,Gulf Coast,Harris,30.045556,-95.189722,918,Public Supply,19
+6063511,Gulf Coast,Harris,30.053889,-95.188611,1044,Public Supply,19
+6063512,Gulf Coast,Harris,30.0680556,-95.1891667,839,Public Supply,16
+6063602,Gulf Coast,Harris,30.0655556,-95.16,1160,Public Supply,16
+6063603,Gulf Coast,Harris,30.058889,-95.156112,900,Public Supply,15
+6063604,Gulf Coast,Harris,30.065278,-95.152501,1130,Public Supply,20
+6063712,Gulf Coast,Harris,30.0402778,-95.2497222,1012,Public Supply,15
+6063714,Gulf Coast,Harris,30.0194444,-95.2225,666,Public Supply,17
+6063904,Gulf Coast,Harris,30.010556,-95.146945,1205,Public Supply,19
+6064301,Gulf Coast,Liberty,30.111667,-95.008889,1006,Irrigation,16
+6064303,Gulf Coast,Liberty,30.1225,-95.014723,580,Irrigation,15
+6064406,Gulf Coast,Harris,30.058889,-95.095278,1032,Public Supply,20
+6064407,Gulf Coast,Harris,30.0558333,-95.1005556,1014,Public Supply,20
+6064602,Gulf Coast,Liberty,30.070555,-95.006389,1017,Irrigation,21
+6064713,Gulf Coast,Harris,30.0269444,-95.115,1010,Public Supply,20
+6064715,Gulf Coast,Harris,30.022778,-95.110001,1080,Public Supply,16
+6101908,Gulf Coast,Polk,30.9083111,-94.9037,40,Unused,20
+6103706,Gulf Coast,Polk,30.904723,-94.709445,16,Unused,20
+6104401,Gulf Coast,Tyler,30.946111,-94.617222,860,Unused,22
+6108101,Gulf Coast,Jasper,30.9922222,-94.0875,,Plugged or Destroyed,20
+6112606,Gulf Coast,Tyler,30.833333,-94.540834,250,Unused,20
+6113802,Gulf Coast,Tyler,30.7822222,-94.4216667,582,Unused,22
+6115101,Gulf Coast,Tyler,30.849167,-94.235,68,Domestic,22
+6115205,Gulf Coast,Jasper,30.8675,-94.178889,442,Public Supply,21
+6116204,Gulf Coast,Jasper,30.860556,-94.048889,220,Unused,22
+6117302,Gulf Coast,Polk,30.7116667,-94.9127778,528,Domestic,20
+6119909,Gulf Coast,Polk,30.626667,-94.642778,79,Domestic,20
+6121110,Gulf Coast,Tyler,30.7183333,-94.4919444,18,Unused,18
+6129203,Gulf Coast,Tyler,30.617222,-94.451389,30,Domestic,22
+6129804,Gulf Coast,Tyler,30.5330556,-94.4425,580,Public Supply,16
+6130419,Gulf Coast,Tyler,30.578611,-94.356667,22,Domestic,22
+6131901,Gulf Coast,Hardin,30.504723,-94.164167,53,Unused,22
+6133102,Gulf Coast,San Jacinto,30.4993111,-94.9965694,420,Public Supply,15
+6133701,Gulf Coast,Liberty,30.3983333,-94.9938889,835,Irrigation,19
+6133710,Gulf Coast,Liberty,30.409445,-94.961389,365,,22
+6133712,Gulf Coast,Liberty,30.408056,-94.964167,287,,22
+6133806,Gulf Coast,Liberty,30.412778,-94.957223,370,Public Supply,19
+6141101,Gulf Coast,Liberty,30.3652778,-94.9855556,502,Irrigation,19
+6141407,Gulf Coast,Liberty,30.311389,-94.962778,347,Public Supply,21
+6141409,Gulf Coast,Liberty,30.311389,-94.962778,469,Public Supply,21
+6141410,Gulf Coast,Liberty,30.3236111,-94.9822222,523,Public Supply,19
+6141411,Gulf Coast,Liberty,30.3275,-94.9822222,530,Public Supply,18
+6144708,Gulf Coast,Hardin,30.250834,-94.607501,72,Unused,22
+6148801,Gulf Coast,Jasper,30.291389,-94.053612,1084,Unused,24
+6149807,Gulf Coast,Liberty,30.1308333,-94.9311111,401,Irrigation,21
+6151101,Gulf Coast,Liberty,30.235834,-94.739722,1150,Irrigation,21
+6151102,Gulf Coast,Liberty,30.2366667,-94.7241667,660,Irrigation,20
+6151111,Gulf Coast,Liberty,30.2394444,-94.7402778,812,Public Supply,17
+6151717,Gulf Coast,Liberty,30.1561111,-94.7416667,760,Public Supply,20
+6152601,Gulf Coast,Hardin,30.182222,-94.508056,764,Unused,22
+6154702,Gulf Coast,Hardin,30.139167,-94.348889,1027,Domestic,22
+6154902,Gulf Coast,Jefferson,30.1591667,-94.2711111,450,Public Supply,17
+6154904,Gulf Coast,Jefferson,30.1616667,-94.2702778,530,Stock,20
+6155707,Gulf Coast,Jefferson,30.1532694,-94.2324917,500,Public Supply,16
+6156117,Gulf Coast,Orange,30.2330556,-94.0894444,220,Domestic,19
+6157506,Gulf Coast,Liberty,30.0452778,-94.9494444,940,Irrigation,20
+6157611,Gulf Coast,Liberty,30.0486111,-94.8886111,1314,Public Supply,17
+6157703,Gulf Coast,Liberty,30.0038889,-94.9694444,837,Irrigation,21
+6159501,Gulf Coast,Liberty,30.0716667,-94.6802778,1180,Irrigation,20
+6161907,Gulf Coast,Jefferson,30.0305556,-94.4086111,145,Domestic,21
+6163904,Gulf Coast,Jefferson,30.0172222,-94.1475,220,Unused,21
+6201803,Gulf Coast,Jasper,30.9153889,-93.943075,884,Public Supply,21
+6203204,Gulf Coast,Newton,30.995834,-93.707778,645,Public Supply,21
+6203301,Gulf Coast,Newton,30.996389,-93.663889,1050,Public Supply,23
+6203704,Gulf Coast,Newton,30.9097222,-93.7152778,640,Unused,24
+6209105,Gulf Coast,Jasper,30.861112,-93.973889,15,Domestic,24
+6209704,Gulf Coast,Jasper,30.787778,-93.993056,40,Unused,23
+6209902,Gulf Coast,Jasper,30.757223,-93.8875,40,Unused,23
+6210309,Gulf Coast,Newton,30.851389,-93.752501,1218,Public Supply,19
+6210901,Gulf Coast,Newton,30.756389,-93.778611,300,Industrial,24
+6217102,Gulf Coast,Jasper,30.749167,-93.996945,80,Unused,15
+6217510,Gulf Coast,Jasper,30.673055,-93.933611,140,Unused,24
+6217606,Gulf Coast,Jasper,30.701112,-93.908056,70,Unused,24
+6217707,Gulf Coast,Jasper,30.642778,-93.977222,28,Unused,22
+6218103,Gulf Coast,Newton,30.738056,-93.861667,208,Domestic,23
+6225405,Gulf Coast,Jasper,30.567778,-93.992778,120,Unused,24
+6233603,Gulf Coast,Jasper,30.437222,-93.893334,18,Domestic,24
+6242909,Gulf Coast,Newton,30.258334,-93.765556,600,Public Supply,21
+6243406,Gulf Coast,Newton,30.2925,-93.741667,598,Public Supply,23
+6249302,Gulf Coast,Orange,30.2204583,-93.8892333,350,Public Supply,16
+6250107,Gulf Coast,Orange,30.2267444,-93.8494472,730,Public Supply,16
+6250304,Gulf Coast,Newton,30.249167,-93.758056,420,Public Supply,20
+6257406,Gulf Coast,Orange,30.0711111,-93.9741667,482,Unused,19
+6258304,Gulf Coast,Orange,30.0847222,-93.7505556,719,Public Supply,16
+6259101,Gulf Coast,Orange,30.1063889,-93.7433333,735,Public Supply,19
+6405502,Gulf Coast,Jefferson,29.9372222,-94.43,160,Industrial,20
+6408201,Gulf Coast,Jefferson,29.9725,-94.0541667,580,Unused,20
+6409307,Gulf Coast,Chambers,29.833889,-94.912501,922,Industrial,17
+6409505,Gulf Coast,Harris,29.825833,-94.920833,375,Unused,19
+6409811,Gulf Coast,Chambers,29.751667,-94.925278,403,Public Supply,15
+6409921,Gulf Coast,Chambers,29.756945,-94.913056,405,Industrial,16
+6409924,Gulf Coast,Chambers,29.7561111,-94.9163889,409,Industrial,17
+6414105,Gulf Coast,Jefferson,29.8338889,-94.3419444,164,Domestic,22
+6433101,Gulf Coast,Galveston,29.4833333,-94.9825,664,Industrial,17
+6433102,Gulf Coast,Galveston,29.4869444,-94.9786111,666,Industrial,18
+6433103,Gulf Coast,Galveston,29.4808333,-94.9836111,660,Industrial,19
+6433109,Gulf Coast,Galveston,29.480278,-94.983611,651,Industrial,19
+6433213,Gulf Coast,Galveston,29.494722,-94.941667,670,Public Supply,16
+6433501,Gulf Coast,Galveston,29.4302778,-94.9491667,692,Unused,16
+6433701,Gulf Coast,Galveston,29.390278,-94.960834,737,Public Supply,18
+6433802,Gulf Coast,Galveston,29.3875,-94.941945,702,Public Supply,18
+6433804,Gulf Coast,Galveston,29.4111111,-94.9255556,785,Public Supply,18
+6433807,Gulf Coast,Galveston,29.384445,-94.925833,695,Public Supply,18
+6433901,Gulf Coast,Galveston,29.393889,-94.908056,772,Public Supply,18
+6433912,Gulf Coast,Galveston,29.376111,-94.904445,771,Industrial,15
+6433915,Gulf Coast,Galveston,29.416389,-94.895278,210,Unused,22
+6433916,Gulf Coast,Galveston,29.416389,-94.895278,302,Unused,19
+6433917,Gulf Coast,Galveston,29.416389,-94.895278,400,Unused,22
+6433918,Gulf Coast,Galveston,29.416389,-94.895278,535,Unused,22
+6433919,Gulf Coast,Galveston,29.4163889,-94.8952778,1060,Unused,22
+6433920,Gulf Coast,Galveston,29.416325,-94.8950028,790,Unused,24
+6433921,Gulf Coast,Galveston,29.416389,-94.895278,24,Unused,22
+6441312,Gulf Coast,Galveston,29.3688889,-94.9113889,645,Industrial,18
+6501302,Gulf Coast,Harris,29.975555,-95.885834,1007,Irrigation,19
+6501816,Gulf Coast,Waller,29.888056,-95.941389,898,Irrigation,19
+6502603,Gulf Coast,Harris,29.929167,-95.773611,968,Domestic,20
+6502612,Gulf Coast,Harris,29.9183333,-95.7730556,565,Irrigation,17
+6503810,Gulf Coast,Harris,29.876389,-95.691667,967,Public Supply,18
+6503906,Gulf Coast,Harris,29.883889,-95.661112,1145,Public Supply,21
+6503907,Gulf Coast,Harris,29.894445,-95.6425,990,Public Supply,22
+6503915,Gulf Coast,Harris,29.878055,-95.6325,1375,Public Supply,20
+6503916,Gulf Coast,Harris,29.878889,-95.642222,1385,Public Supply,22
+6504218,Gulf Coast,Harris,29.970555,-95.546667,824,Public Supply,19
+6504320,Gulf Coast,Harris,29.9875,-95.5208333,2076,,20
+6504423,Gulf Coast,Harris,29.956112,-95.622222,895,Public Supply,19
+6504522,Gulf Coast,Harris,29.956667,-95.5675,1020,Public Supply,21
+6504526,Gulf Coast,Harris,29.9533333,-95.5508333,730,Public Supply,20
+6504614,Gulf Coast,Harris,29.953056,-95.535,795,Public Supply,21
+6504615,Gulf Coast,Harris,29.951667,-95.534167,784,Public Supply,21
+6504723,Gulf Coast,Harris,29.879722,-95.587222,1514,Public Supply,22
+6504727,Gulf Coast,Harris,29.881944,-95.605556,1444,Public Supply,20
+6504728,Gulf Coast,Harris,29.880555,-95.613334,1438,Public Supply,20
+6504729,Gulf Coast,Harris,29.879722,-95.618055,1080,Public Supply,22
+6504811,Gulf Coast,Harris,29.88,-95.58,1480,Public Supply,20
+6504901,Gulf Coast,Harris,29.8813222,-95.5009611,952,Public Supply,18
+6505517,Gulf Coast,Harris,29.9458333,-95.4363889,1050,Public Supply,19
+6505828,Gulf Coast,Harris,29.880833,-95.445834,1698,Public Supply,19
+6505829,Gulf Coast,Harris,29.885,-95.4513889,1480,Public Supply,19
+6506102,Gulf Coast,Harris,29.9822222,-95.3455556,1540,Public Supply,17
+6506103,Gulf Coast,Harris,29.980833,-95.337222,1545,Public Supply,19
+6506528,Gulf Coast,Harris,29.9322222,-95.3194444,1680,Public Supply,21
+6506530,Gulf Coast,Harris,29.9347222,-95.3145278,1108,Public Supply,22
+6507601,Gulf Coast,Harris,29.945556,-95.138056,512,Public Supply,21
+6507902,Gulf Coast,Harris,29.913889,-95.143056,196,Unused,22
+6507904,Gulf Coast,Harris,29.914445,-95.144445,540,Domestic,16
+6507905,Gulf Coast,Harris,29.9138889,-95.145,2592,Unused,24
+6507906,Gulf Coast,Harris,29.913889,-95.145,1503,Unused,22
+6507907,Gulf Coast,Harris,29.913889,-95.145,700,Unused,22
+6507908,Gulf Coast,Harris,29.9138889,-95.145,1048,Unused,22
+6507909,Gulf Coast,Harris,29.9132194,-95.1455278,1940,Unused,24
+6508103,Gulf Coast,Harris,29.971667,-95.115556,555,Public Supply,18
+6508506,Gulf Coast,Harris,29.925,-95.0766667,976,Public Supply,21
+6508708,Gulf Coast,Harris,29.883055,-95.115001,1560,Industrial,19
+6509204,Gulf Coast,Waller,29.8719444,-95.9577778,839,Irrigation,17
+6510518,Gulf Coast,Harris,29.802223,-95.813889,240,Unused,19
+6510611,Gulf Coast,Harris,29.7983333,-95.7613889,1170,Public Supply,21
+6510811,Gulf Coast,Fort Bend,29.763612,-95.804167,1022,Public Supply,20
+6510812,Gulf Coast,Fort Bend,29.7691944,-95.8223333,644,Public Supply,20
+6511407,Gulf Coast,Harris,29.796667,-95.746389,1210,Public Supply,22
+6511508,Gulf Coast,Harris,29.8330556,-95.6822222,1075,Public Supply,21
+6511514,Gulf Coast,Harris,29.791945,-95.695,1336,Public Supply,20
+6511803,Gulf Coast,Harris,29.7875,-95.669444,1394,Public Supply,19
+6511804,Gulf Coast,Harris,29.788334,-95.669444,1641,Public Supply,19
+6511914,Gulf Coast,Harris,29.7541667,-95.6366667,1135,Public Supply,17
+6511916,Gulf Coast,Harris,29.7825,-95.640556,1170,Public Supply,17
+6511917,Gulf Coast,Harris,29.784167,-95.661389,1288,Unused,21
+6511918,Gulf Coast,Harris,29.755556,-95.6425,1316,Public Supply,20
+6511920,Gulf Coast,Harris,29.789445,-95.641389,1238,Public Supply,19
+6512328,Gulf Coast,Harris,29.840834,-95.523055,1480,Public Supply,21
+6512516,Gulf Coast,Harris,29.8005556,-95.5780556,1165,Public Supply,17
+6512517,Gulf Coast,Harris,29.8056028,-95.5730444,1573,Public Supply,18
+6512519,Gulf Coast,Harris,29.8315667,-95.5741194,1200,Public Supply,18
+6512520,Gulf Coast,Harris,29.8244444,-95.5702361,1530,Public Supply,19
+6512521,Gulf Coast,Harris,29.793056,-95.577778,1370,Public Supply,17
+6512522,Gulf Coast,Harris,29.8122222,-95.5733333,1555,Public Supply,16
+6512619,Gulf Coast,Harris,29.8164361,-95.5224306,1451,Public Supply,22
+6512622,Gulf Coast,Harris,29.8307028,-95.5266333,1485,Public Supply,20
+6512633,Gulf Coast,Harris,29.8222528,-95.5242528,734,Public Supply,22
+6512634,Gulf Coast,Harris,29.8213222,-95.5297222,1461,Public Supply,22
+6512635,Gulf Coast,Harris,29.830555,-95.526944,1513,Public Supply,21
+6512717,Gulf Coast,Harris,29.789445,-95.588056,1575,Public Supply,20
+6512719,Gulf Coast,Harris,29.789445,-95.603056,1135,Public Supply,19
+6512725,Gulf Coast,Harris,29.7908333,-95.5866667,49,Unused,24
+6512726,Gulf Coast,Harris,29.7908333,-95.5861111,1802,Unused,24
+6512729,Gulf Coast,Harris,29.7908333,-95.5866667,237,Unused,24
+6512730,Gulf Coast,Harris,29.7899083,-95.6179722,1712,Public Supply,20
+6512731,Gulf Coast,Harris,29.763612,-95.624722,1190,Public Supply,18
+6512735,Gulf Coast,Harris,29.758056,-95.621667,1220,Irrigation,20
+6512801,Gulf Coast,Harris,29.760834,-95.579722,467,Irrigation,19
+6512820,Gulf Coast,Harris,29.748889,-95.569722,1345,,16
+6513214,Gulf Coast,Harris,29.8644444,-95.4305556,1520,Public Supply,20
+6513220,Gulf Coast,Harris,29.874625,-95.4417583,1668,Public Supply,20
+6513222,Gulf Coast,Harris,29.874722,-95.442222,1668,Power,20
+6513224,Gulf Coast,Harris,29.867778,-95.4375,1635,Public Supply,18
+6513225,Gulf Coast,Harris,29.8680556,-95.4372222,1075,Public Supply,17
+6513227,Gulf Coast,Harris,29.8675028,-95.4376306,565,Public Supply,19
+6514409,Gulf Coast,Harris,29.8172222,-95.3694444,1152,Unused,24
+6514735,Gulf Coast,Harris,29.791389,-95.333889,1597,Unused,22
+6514738,Gulf Coast,Harris,29.7913889,-95.3338889,487,Unused,24
+6514742,Gulf Coast,Harris,29.7913889,-95.3338889,1033,Unused,22
+6514745,Gulf Coast,Harris,29.791389,-95.333889,299,Unused,22
+6514746,Gulf Coast,Harris,29.7913889,-95.3338889,2170,Unused,23
+6514909,Gulf Coast,Harris,29.789722,-95.283055,897,Industrial,20
+6515304,Gulf Coast,Harris,29.875,-95.128333,1608,Industrial,19
+6515501,Gulf Coast,Harris,29.7925,-95.176389,1198,Public Supply,19
+6515507,Gulf Coast,Harris,29.8011111,-95.1827778,1160,Public Supply,21
+6515703,Gulf Coast,Harris,29.7722222,-95.2411111,1007,Public Supply,21
+6515806,Gulf Coast,Harris,29.7794444,-95.1791667,1220,Public Supply,20
+6515914,Gulf Coast,Harris,29.7502778,-95.1263889,1230,Industrial,20
+6515917,Gulf Coast,Harris,29.7675,-95.156945,210,Unused,19
+6515920,Gulf Coast,Harris,29.7675,-95.156945,310,Unused,19
+6516109,Gulf Coast,Harris,29.874722,-95.114445,1625,Industrial,20
+6516110,Gulf Coast,Harris,29.874167,-95.121944,1625,Industrial,19
+6516111,Gulf Coast,Harris,29.874722,-95.107778,1568,Industrial,18
+6516504,Gulf Coast,Harris,29.823611,-95.045556,510,Public Supply,20
+6516602,Gulf Coast,Harris,29.803612,-95.025278,498,Public Supply,20
+6516814,Gulf Coast,Harris,29.7672222,-95.0722222,462,Industrial,21
+6516904,Gulf Coast,Harris,29.757778,-95.030555,512,Public Supply,22
+6516905,Gulf Coast,Harris,29.777222,-95.041389,500,Public Supply,21
+6516922,Gulf Coast,Harris,29.757778,-95.030555,110,Unused,22
+6516923,Gulf Coast,Harris,29.757778,-95.030555,170,Unused,22
+6516925,Gulf Coast,Harris,29.757778,-95.030555,324,Unused,22
+6516930,Gulf Coast,Harris,29.7577778,-95.0305556,430,Unused,23
+6516931,Gulf Coast,Harris,29.7577778,-95.0305556,1475,Unused,23
+6516932,Gulf Coast,Harris,29.757778,-95.030555,1365,Unused,22
+6516933,Gulf Coast,Harris,29.757778,-95.030555,60,Unused,22
+6517401,Gulf Coast,Fort Bend,29.705556,-95.976944,378,Irrigation,20
+6517505,Gulf Coast,Fort Bend,29.675555,-95.928611,450,Public Supply,20
+6518609,Gulf Coast,Fort Bend,29.7079444,-95.7869722,1105,Public Supply,18
+6518611,Gulf Coast,Fort Bend,29.686945,-95.773889,1200,Public Supply,17
+6519317,Gulf Coast,Harris,29.7325,-95.6544444,800,Public Supply,19
+6519319,Gulf Coast,Harris,29.731389,-95.648889,1420,Public Supply,21
+6519509,Gulf Coast,Fort Bend,29.6955556,-95.6833333,878,Public Supply,19
+6519707,Gulf Coast,Fort Bend,29.646945,-95.738056,872,Public Supply,17
+6519708,Gulf Coast,Fort Bend,29.655834,-95.737778,1370,Public Supply,16
+6519904,Gulf Coast,Fort Bend,29.6419444,-95.6258333,1775,Plugged or Destroyed,19
+6519907,Gulf Coast,Fort Bend,29.6663889,-95.6352778,902,Public Supply,17
+6519909,Gulf Coast,Fort Bend,29.636945,-95.636111,549,Recreation,18
+6520104,Gulf Coast,Harris,29.748056,-95.596111,1450,Public Supply,21
+6520123,Gulf Coast,Harris,29.718611,-95.621944,1305,Public Supply,19
+6520125,Gulf Coast,Harris,29.714723,-95.606112,1610,Public Supply,21
+6520126,Gulf Coast,Harris,29.7375,-95.611945,1340,Public Supply,20
+6520127,Gulf Coast,Harris,29.7119778,-95.6201361,1385,Plugged or Destroyed,17
+6520128,Gulf Coast,Harris,29.720555,-95.614445,1122,Public Supply,21
+6520224,Gulf Coast,Harris,29.7102194,-95.5731583,1075,Public Supply,16
+6520226,Gulf Coast,Harris,29.7166,-95.5721194,1610,Public Supply,18
+6520303,Gulf Coast,Harris,29.7221611,-95.5167167,1469,Public Supply,20
+6520304,Gulf Coast,Harris,29.7214111,-95.5239861,1612,Public Supply,19
+6520319,Gulf Coast,Harris,29.7299889,-95.5112917,1335,Public Supply,20
+6520321,Gulf Coast,Harris,29.7280556,-95.52,1415,Public Supply,20
+6520405,Gulf Coast,Harris,29.7005556,-95.5991667,1621,Public Supply,20
+6520407,Gulf Coast,Harris,29.692222,-95.602223,1650,Public Supply,20
+6520410,Gulf Coast,Harris,29.6747528,-95.5950056,1180,Public Supply,20
+6520414,Gulf Coast,Harris,29.6675,-95.5863889,1038,Public Supply,20
+6520416,Gulf Coast,Harris,29.6813306,-95.5998222,872,Public Supply,21
+6520417,Gulf Coast,Harris,29.669722,-95.585,1012,Public Supply,20
+6520418,Gulf Coast,Harris,29.6963611,-95.6188417,1394,Plugged or Destroyed,16
+6520419,Gulf Coast,Harris,29.703612,-95.619444,1320,Public Supply,19
+6520421,Gulf Coast,Harris,29.686945,-95.604723,1684,Public Supply,20
+6520422,Gulf Coast,Harris,29.686945,-95.604723,995,Public Supply,21
+6520423,Gulf Coast,Harris,29.695556,-95.586667,1445,Public Supply,18
+6520424,Gulf Coast,Harris,29.696389,-95.608056,1550,Public Supply,18
+6520516,Gulf Coast,Harris,29.68,-95.5825,960,Public Supply,21
+6520519,Gulf Coast,Harris,29.6907278,-95.5730889,1450,Public Supply,20
+6520520,Gulf Coast,Harris,29.6858333,-95.5466667,785,Irrigation,16
+6520522,Gulf Coast,Harris,29.6961111,-95.5788889,1407,Public Supply,18
+6520602,Gulf Coast,Harris,29.7043917,-95.5043417,972,Public Supply,19
+6520614,Gulf Coast,Harris,29.7042111,-95.5377417,1510,Public Supply,17
+6520619,Gulf Coast,Harris,29.6786583,-95.5028528,1770,Public Supply,19
+6520626,Gulf Coast,Harris,29.7041,-95.5044861,1550,Public Supply,21
+6520706,Gulf Coast,Harris,29.6605639,-95.5852472,1102,Public Supply,19
+6520711,Gulf Coast,Fort Bend,29.626944,-95.615556,1665,Public Supply,17
+6520712,Gulf Coast,Fort Bend,29.63685,-95.6185056,1500,Public Supply,19
+6520811,Gulf Coast,Harris,29.6600194,-95.5727083,1030,Public Supply,18
+6520911,Gulf Coast,Harris,29.6261694,-95.5026333,1200,Public Supply,19
+6521143,Gulf Coast,Harris,29.7262083,-95.4658806,1510,Public Supply,20
+6521144,Gulf Coast,Harris,29.7241306,-95.4921722,1397,Public Supply,20
+6521148,Gulf Coast,Harris,29.7252,-95.4799722,1505,Public Supply,18
+6521149,Gulf Coast,Harris,29.7249389,-95.4848167,1518,Public Supply,18
+6521150,Gulf Coast,Harris,29.7249306,-95.4799583,646,Public Supply,19
+6521201,Gulf Coast,Harris,29.7278417,-95.4511333,1051,Public Supply,18
+6521202,Gulf Coast,Harris,29.7305111,-95.4511722,1965,Public Supply,18
+6521226,Gulf Coast,Harris,29.7269444,-95.4508333,2358,Unused,23
+6521227,Gulf Coast,Harris,29.7275,-95.451389,1433,Unused,21
+6521228,Gulf Coast,Harris,29.7275,-95.451389,253,Unused,21
+6521229,Gulf Coast,Harris,29.7275,-95.4513889,627,Unused,20
+6521230,Gulf Coast,Harris,29.7275,-95.4513889,1943,Unused,24
+6521417,Gulf Coast,Harris,29.6791667,-95.4683333,1490,Public Supply,17
+6521701,Gulf Coast,Harris,29.6618806,-95.4755694,1735,Public Supply,19
+6521708,Gulf Coast,Harris,29.6263889,-95.4938889,1204,Public Supply,21
+6521709,Gulf Coast,Harris,29.6267111,-95.4817194,1190,Public Supply,19
+6522317,Gulf Coast,Harris,29.7377778,-95.2816667,900,Unused,16
+6522618,Gulf Coast,Harris,29.6852778,-95.2869444,876,Unused,18
+6522622,Gulf Coast,Harris,29.7019444,-95.2741667,995,Unused,24
+6522623,Gulf Coast,Harris,29.701945,-95.274167,64,Unused,22
+6523103,Gulf Coast,Harris,29.7344444,-95.2386111,1201,Public Supply,20
+6523104,Gulf Coast,Harris,29.7461111,-95.2366667,1350,Public Supply,20
+6523320,Gulf Coast,Harris,29.710556,-95.159167,390,Unused,22
+6523321,Gulf Coast,Harris,29.710556,-95.159167,100,Unused,22
+6523322,Gulf Coast,Harris,29.7101583,-95.159275,2831,Unused,24
+6523323,Gulf Coast,Harris,29.710556,-95.159167,1328,Unused,22
+6523324,Gulf Coast,Harris,29.7105556,-95.1591667,936,Unused,22
+6523325,Gulf Coast,Harris,29.710556,-95.159167,1817,Unused,22
+6523326,Gulf Coast,Harris,29.7105556,-95.1591667,730,Unused,22
+6523708,Gulf Coast,Harris,29.6519444,-95.2272222,1170,Public Supply,16
+6523709,Gulf Coast,Harris,29.660556,-95.212778,1210,Public Supply,16
+6523727,Gulf Coast,Harris,29.661667,-95.230833,1212,Public Supply,17
+6523809,Gulf Coast,Harris,29.6661111,-95.2005556,1380,Unused,19
+6524202,Gulf Coast,Harris,29.723055,-95.071667,542,Industrial,15
+6524209,Gulf Coast,Harris,29.7497222,-95.0797222,521,Public Supply,18
+6524211,Gulf Coast,Harris,29.728611,-95.063056,560,Industrial,16
+6524216,Gulf Coast,Harris,29.742778,-95.08,129,Unused,19
+6524217,Gulf Coast,Harris,29.742778,-95.08,86,Unused,19
+6524501,Gulf Coast,Harris,29.699722,-95.046667,591,Unused,19
+6524811,Gulf Coast,Harris,29.663889,-95.045556,585,Public Supply,17
+6524902,Gulf Coast,Harris,29.653334,-95.023055,578,Public Supply,20
+6526105,Gulf Coast,Fort Bend,29.5913889,-95.8661111,422,Irrigation,17
+6526202,Gulf Coast,Fort Bend,29.5852778,-95.8033333,305,Irrigation,16
+6526406,Gulf Coast,Fort Bend,29.542778,-95.846111,1178,Industrial,19
+6526520,Gulf Coast,Fort Bend,29.5538889,-95.7963889,1604,Public Supply,19
+6526603,Gulf Coast,Fort Bend,29.5830917,-95.7622583,518,Public Supply,19
+6526605,Gulf Coast,Fort Bend,29.582778,-95.761945,433,Public Supply,17
+6526613,Gulf Coast,Fort Bend,29.5608333,-95.7555556,500,Irrigation,17
+6526812,Gulf Coast,Fort Bend,29.538889,-95.816112,1316,Public Supply,17
+6526908,Gulf Coast,Fort Bend,29.540834,-95.788056,1580,Public Supply,19
+6527106,Gulf Coast,Fort Bend,29.625,-95.734445,1410,Public Supply,20
+6527107,Gulf Coast,Fort Bend,29.625,-95.7425,314,Irrigation,20
+6527324,Gulf Coast,Fort Bend,29.6225,-95.636667,1025,Industrial,16
+6527326,Gulf Coast,Fort Bend,29.5961111,-95.6302778,1724,Public Supply,16
+6527505,Gulf Coast,Fort Bend,29.5461111,-95.6969444,840,Public Supply,19
+6527506,Gulf Coast,Fort Bend,29.558889,-95.688334,1942,Public Supply,20
+6527507,Gulf Coast,Fort Bend,29.561112,-95.668055,1964,Public Supply,20
+6527509,Gulf Coast,Fort Bend,29.565556,-95.683055,1784,Public Supply,15
+6527609,Gulf Coast,Fort Bend,29.582222,-95.632778,463,Recreation,19
+6528312,Gulf Coast,Fort Bend,29.6080556,-95.5247222,1262,Public Supply,20
+6528505,Gulf Coast,Fort Bend,29.5619444,-95.5602778,1074,Public Supply,19
+6528506,Gulf Coast,Fort Bend,29.573611,-95.552223,1200,Public Supply,19
+6528508,Gulf Coast,Fort Bend,29.5736111,-95.5522222,1320,Public Supply,18
+6528510,Gulf Coast,Fort Bend,29.553612,-95.563056,1065,Public Supply,20
+6528604,Gulf Coast,Fort Bend,29.5763889,-95.5211111,1314,Public Supply,17
+6529109,Gulf Coast,Fort Bend,29.595556,-95.463889,1220,Public Supply,20
+6529209,Gulf Coast,Fort Bend,29.5919444,-95.455,1050,Public Supply,19
+6529405,Gulf Coast,Fort Bend,29.581667,-95.476667,565,Public Supply,19
+6529706,Gulf Coast,Fort Bend,29.525833,-95.476111,1320,Public Supply,17
+6529709,Gulf Coast,Fort Bend,29.500556,-95.463056,524,Industrial,16
+6530604,Gulf Coast,Brazoria,29.546111,-95.281111,845,Public Supply,17
+6530615,Gulf Coast,Brazoria,29.550001,-95.255834,620,Public Supply,15
+6530902,Gulf Coast,Brazoria,29.501667,-95.255278,591,Stock,19
+6531402,Gulf Coast,Brazoria,29.5483333,-95.2361111,617,Public Supply,16
+6531605,Gulf Coast,Harris,29.562778,-95.14,635,Public Supply,18
+6532104,Gulf Coast,Harris,29.5933333,-95.0980556,610,Public Supply,19
+6532401,Gulf Coast,Harris,29.5518611,-95.0960278,770,Unused,22
+6532405,Gulf Coast,Harris,29.567222,-95.095556,629,Public Supply,19
+6532407,Gulf Coast,Harris,29.546667,-95.096389,680,Public Supply,20
+6532410,Gulf Coast,Harris,29.566112,-95.119167,630,Public Supply,19
+6532422,Gulf Coast,Harris,29.551945,-95.085834,680,Public Supply,20
+6532424,Gulf Coast,Harris,29.5638889,-95.1194444,1740,Public Supply,22
+6532425,Gulf Coast,Harris,29.563612,-95.118611,1232,Unused,16
+6532426,Gulf Coast,Harris,29.563612,-95.118611,392,Unused,22
+6532427,Gulf Coast,Harris,29.563612,-95.118611,957,Unused,22
+6532428,Gulf Coast,Harris,29.5633333,-95.1188889,3072,Unused,24
+6532430,Gulf Coast,Harris,29.546111,-95.123611,694,Public Supply,18
+6532519,Gulf Coast,Harris,29.579722,-95.061112,660,Public Supply,19
+6532625,Gulf Coast,Harris,29.5647944,-95.0214556,1360,Unused,24
+6532626,Gulf Coast,Harris,29.5647222,-95.0213889,1381,Unused,22
+6532627,Gulf Coast,Harris,29.564723,-95.021389,1308,Unused,21
+6532628,Gulf Coast,Harris,29.564723,-95.021389,150,Unused,22
+6532629,Gulf Coast,Harris,29.564723,-95.021389,300,Unused,22
+6532630,Gulf Coast,Harris,29.5647222,-95.0213889,920,Unused,22
+6532631,Gulf Coast,Harris,29.564723,-95.021389,24,Unused,22
+6532713,Gulf Coast,Galveston,29.512223,-95.092778,710,Public Supply,17
+6532726,Gulf Coast,Galveston,29.5122222,-95.0927778,701,,17
+6532739,Gulf Coast,Harris,29.534167,-95.117778,645,Public Supply,19
+6532902,Gulf Coast,Galveston,29.54,-95.034167,590,Public Supply,15
+6533210,Gulf Coast,Fort Bend,29.4958333,-95.9169444,965,Public Supply,20
+6533502,Gulf Coast,Fort Bend,29.435,-95.953889,590,Irrigation,20
+6533801,Gulf Coast,Fort Bend,29.415834,-95.933889,564,Irrigation,20
+6534901,Gulf Coast,Fort Bend,29.416389,-95.755556,636,Unused,21
+6536201,Gulf Coast,Fort Bend,29.497778,-95.564723,375,Industrial,20
+6537701,Gulf Coast,Brazoria,29.400278,-95.491667,537,Public Supply,20
+6538201,Gulf Coast,Brazoria,29.491111,-95.333055,480,Domestic,19
+6538609,Gulf Coast,Brazoria,29.4347222,-95.2533333,702,Public Supply,17
+6539310,Gulf Coast,Galveston,29.4898333,-95.15525,730,Public Supply,18
+6540411,Gulf Coast,Galveston,29.4388889,-95.1019444,750,Public Supply,19
+6540503,Gulf Coast,Galveston,29.426389,-95.079444,810,Public Supply,19
+6540704,Gulf Coast,Galveston,29.4011111,-95.0908333,771,Public Supply,19
+6540707,Gulf Coast,Galveston,29.3941667,-95.1102778,870,Unused,20
+6540802,Gulf Coast,Galveston,29.412223,-95.081389,781,Public Supply,19
+6541401,Gulf Coast,Wharton,29.2955556,-95.9869444,90,Unused,22
+6541402,Gulf Coast,Wharton,29.3036111,-95.97,338,Irrigation,18
+6541707,Gulf Coast,Wharton,29.2761111,-95.9641667,499,Domestic,22
+6542501,Gulf Coast,Fort Bend,29.322222,-95.814445,871,Irrigation,21
+6543201,Gulf Coast,Fort Bend,29.3630556,-95.6844444,1158,Irrigation,16
+6544101,Gulf Coast,Fort Bend,29.348611,-95.620555,874,Irrigation,22
+6545102,Gulf Coast,Brazoria,29.368055,-95.470555,923,Irrigation,19
+6546301,Gulf Coast,Brazoria,29.3486111,-95.2888889,473,Unused,18
+6546702,Gulf Coast,Brazoria,29.262778,-95.340278,514,Unused,20
+6547401,Gulf Coast,Brazoria,29.330278,-95.231944,400,Unused,20
+6548204,Gulf Coast,Galveston,29.369167,-95.074444,775,Public Supply,18
+6548316,Gulf Coast,Galveston,29.343889,-95.018333,1080,Public Supply,17
+6548502,Gulf Coast,Galveston,29.330833,-95.046945,756,Public Supply,17
+6549901,Gulf Coast,Matagorda,29.145278,-95.893334,375,Industrial,23
+6550504,Gulf Coast,Brazoria,29.2030556,-95.8113889,473,Unused,16
+6551901,Gulf Coast,Brazoria,29.143056,-95.645,659,Public Supply,19
+6552103,Gulf Coast,Brazoria,29.218333,-95.589722,867,Irrigation,19
+6553513,Gulf Coast,Brazoria,29.1941667,-95.4390111,835,Public Supply,20
+6554101,Gulf Coast,Brazoria,29.229167,-95.3475,304,Public Supply,17
+6554407,Gulf Coast,Brazoria,29.2005556,-95.3355556,960,Irrigation,20
+6559501,Gulf Coast,Brazoria,29.063056,-95.687222,150,Unused,19
+6602402,Gulf Coast,Fayette,29.9243306,-96.8462139,54,Domestic,17
+6603806,Gulf Coast,Fayette,29.9112528,-96.6670722,71,Domestic,19
+6604601,Gulf Coast,Austin,29.9497222,-96.5344444,119,Domestic,18
+6606614,Gulf Coast,Austin,29.9472222,-96.2627778,850,Unused,18
+6609707,Gulf Coast,Fayette,29.7577778,-96.9668361,347,Domestic,18
+6612204,Gulf Coast,Colorado,29.8672917,-96.5689889,140,Domestic,23
+6614204,Gulf Coast,Austin,29.8469444,-96.3266667,118,Domestic,18
+6614703,Gulf Coast,Colorado,29.7855556,-96.3647222,71,Domestic,21
+6615905,Gulf Coast,Austin,29.7769444,-96.1511111,462,Public Supply,18
+6616407,Gulf Coast,Austin,29.8163889,-96.1116667,165,Public Supply,21
+6617807,Gulf Coast,Fayette,29.6328861,-96.9553028,280,Domestic,18
+6618601,Gulf Coast,Colorado,29.701675,-96.78185,602,Unused,23
+6619804,Gulf Coast,Colorado,29.6451444,-96.6867611,140,Domestic,23
+6620602,Gulf Coast,Colorado,29.7053694,-96.5377583,312,Unused,19
+6620901,Gulf Coast,Colorado,29.6433333,-96.5305556,800,Unused,22
+6621603,Gulf Coast,Colorado,29.6698806,-96.3960111,812,Irrigation,20
+6622201,Gulf Coast,Colorado,29.7269444,-96.3213889,995,Irrigation,22
+6623203,Gulf Coast,Austin,29.7244444,-96.1752778,400,Unused,22
+6625103,Gulf Coast,Lavaca,29.5997222,-96.96,43,Plugged or Destroyed,16
+6626202,Gulf Coast,Colorado,29.5931361,-96.8323611,126,Domestic,20
+6628702,Gulf Coast,Colorado,29.5161111,-96.5847222,565,Recreation,22
+6631504,Gulf Coast,Wharton,29.5466667,-96.1836111,178,Unused,23
+6632809,Gulf Coast,Wharton,29.5205556,-96.0619444,320,Public Supply,19
+6632902,Gulf Coast,Fort Bend,29.5208333,-96.0030556,304,Irrigation,16
+6632905,Gulf Coast,Fort Bend,29.5022222,-96.0058333,270,Irrigation,17
+6633510,Gulf Coast,Lavaca,29.4526722,-96.9366694,636,Public Supply,18
+6633513,Gulf Coast,Lavaca,29.4492472,-96.9243472,998,Public Supply,19
+6634201,Gulf Coast,Lavaca,29.4673111,-96.8128639,48,Unused,23
+6634202,Gulf Coast,Lavaca,29.4654194,-96.8188556,61,Unused,21
+6634207,Gulf Coast,Lavaca,29.4803333,-96.7937889,120,Domestic,21
+6635901,Gulf Coast,Lavaca,29.3969444,-96.6652778,840,Unused,21
+6637607,Gulf Coast,Colorado,29.4567611,-96.4168583,318,Irrigation,23
+6638202,Gulf Coast,Wharton,29.4630833,-96.3095278,65,Unused,22
+6638302,Gulf Coast,Wharton,29.49,-96.2680556,698,Irrigation,16
+6638304,Gulf Coast,Wharton,29.4625,-96.2891667,113,Unused,24
+6638801,Gulf Coast,Wharton,29.4030556,-96.3002778,116,Unused,22
+6639801,Gulf Coast,Wharton,29.3840222,-96.183725,300,Unused,19
+6640401,Gulf Coast,Wharton,29.4475,-96.1144444,442,Irrigation,21
+6640505,Gulf Coast,Wharton,29.457223,-96.074167,,,21
+6641203,Gulf Coast,Lavaca,29.3730167,-96.9533778,80,Unused,23
+6641703,Gulf Coast,Lavaca,29.2588889,-96.9927778,164,Domestic,16
+6641903,Gulf Coast,Lavaca,29.2605778,-96.8948389,335,Unused,23
+6643704,Gulf Coast,Lavaca,29.2741667,-96.7138889,34,Unused,21
+6643803,Gulf Coast,Lavaca,29.2733333,-96.6797222,1023,Unused,22
+6644402,Gulf Coast,Lavaca,29.3241667,-96.6213889,880,Domestic,16
+6644702,Gulf Coast,Colorado,29.2808333,-96.5966667,676,Stock,22
+6645601,Gulf Coast,Wharton,29.33,-96.4025,429,Irrigation,21
+6645916,Gulf Coast,Wharton,29.2811111,-96.3902778,125,Unused,24
+6646201,Gulf Coast,Wharton,29.3635278,-96.323,200,Unused,15
+6646402,Gulf Coast,Wharton,29.3069444,-96.3480556,366,Irrigation,19
+6646601,Gulf Coast,Wharton,29.3322222,-96.2913889,186,Unused,24
+6647101,Gulf Coast,Wharton,29.3341667,-96.2255556,319,Unused,17
+6647201,Gulf Coast,Wharton,29.3511111,-96.1952778,244,Unused,24
+6647703,Gulf Coast,Wharton,29.2691667,-96.2327778,242,Irrigation,21
+6647904,Gulf Coast,Wharton,29.2583806,-96.1552778,340,Public Supply,15
+6648502,Gulf Coast,Wharton,29.328889,-96.067778,70,Irrigation,24
+6648701,Gulf Coast,Wharton,29.2786111,-96.0844444,90,Irrigation,24
+6648802,Gulf Coast,Wharton,29.27,-96.0658333,564,Unused,23
+6648907,Gulf Coast,Wharton,29.2525,-96.0038889,630,Irrigation,19
+6648908,Gulf Coast,Wharton,29.2622222,-96.0080556,55,Domestic,21
+6649701,Gulf Coast,Lavaca,29.1595694,-96.9665833,1082,Stock,22
+6649901,Gulf Coast,Lavaca,29.1654444,-96.9113611,272,Unused,23
+6651505,Gulf Coast,Jackson,29.2083333,-96.6825,627,Unused,17
+6652603,Gulf Coast,Wharton,29.1938889,-96.5197222,515,Irrigation,16
+6652801,Gulf Coast,Jackson,29.128055,-96.580555,620,Irrigation,16
+6653503,Gulf Coast,Wharton,29.1788889,-96.4294444,338,Unused,16
+6653804,Gulf Coast,Wharton,29.1258333,-96.4533333,495,Irrigation,22
+6654108,Gulf Coast,Wharton,29.2113889,-96.3347222,360,Unused,21
+6654906,Gulf Coast,Wharton,29.1288889,-96.2638889,461,Irrigation,20
+6655603,Gulf Coast,Wharton,29.202501,-96.143889,100,,21
+6656302,Gulf Coast,Wharton,29.2097222,-96.0127778,490,Irrigation,16
+6656304,Gulf Coast,Wharton,29.2477778,-96.0169444,356,Unused,24
+6656403,Gulf Coast,Wharton,29.174167,-96.121389,275,,21
+6657406,Gulf Coast,Victoria,29.066944,-96.986667,270,Fire,20
+6658402,Gulf Coast,Jackson,29.0763889,-96.8552778,702,Unused,15
+6658601,Gulf Coast,Jackson,29.060834,-96.758056,76,Unused,16
+6660205,Gulf Coast,Jackson,29.106112,-96.543611,224,Irrigation,17
+6660401,Gulf Coast,Jackson,29.0627778,-96.6238889,286,Irrigation,16
+6660613,Gulf Coast,Jackson,29.0419444,-96.5130556,850,Public Supply,20
+6660708,Gulf Coast,Jackson,29.038889,-96.621111,38,Unused,20
+6661302,Gulf Coast,Wharton,29.1088889,-96.4094444,528,Unused,21
+6661305,Gulf Coast,Wharton,29.1041667,-96.4083333,600,Unused,22
+6662104,Gulf Coast,Wharton,29.1061111,-96.3380556,371,Irrigation,24
+6662307,Gulf Coast,Wharton,29.0997222,-96.2580556,180,Unused,22
+6662313,Gulf Coast,Wharton,29.1186944,-96.2718889,480,Irrigation,18
+6662603,Gulf Coast,Wharton,29.0702778,-96.2752778,310,Plugged or Destroyed,18
+6662805,Gulf Coast,Wharton,29.0188889,-96.3069444,398,Unused,16
+6663105,Gulf Coast,Wharton,29.0933333,-96.2194444,342,Unused,18
+6663507,Gulf Coast,Wharton,29.0566667,-96.2075,48,Domestic,19
+6724509,Gulf Coast,Fayette,29.6823333,-97.08215,295,Public Supply,16
+6731604,Gulf Coast,Lavaca,29.5515167,-97.1543083,380,Unused,18
+6732105,Gulf Coast,Lavaca,29.6187361,-97.1041528,265,Unused,16
+6732704,Gulf Coast,Lavaca,29.5116667,-97.095,130,Domestic,22
+6732903,Gulf Coast,Lavaca,29.530425,-97.0402,45,Domestic,21
+6739306,Gulf Coast,Lavaca,29.4838556,-97.1489333,100,Domestic,19
+6739517,Gulf Coast,Lavaca,29.4305667,-97.1700972,988,Public Supply,19
+6739603,Gulf Coast,Lavaca,29.4242056,-97.1292722,150,Irrigation,15
+6740301,Gulf Coast,Lavaca,29.4832278,-97.0049833,45,Domestic,22
+6740503,Gulf Coast,Lavaca,29.4476472,-97.0555667,320,Domestic,21
+6740504,Gulf Coast,Lavaca,29.4482028,-97.0542306,155,Domestic,21
+6746705,Gulf Coast,DeWitt,29.2708333,-97.3725,260,Domestic,15
+6761402,Gulf Coast,DeWitt,29.0608333,-97.4627778,142,Stock,15
+7839902,Gulf Coast,Live Oak,28.401667,-98.160834,262,Unused,20
+7847308,Gulf Coast,Live Oak,28.3516667,-98.1616667,360,Domestic,20
+7852908,Gulf Coast,McMullen,28.1308333,-98.5344444,210,Domestic,19
+7862102,Gulf Coast,McMullen,28.0880556,-98.34,73,Domestic,15
+7863101,Gulf Coast,Live Oak,28.1171056,-98.2164417,193,Unused,21
+7864301,Gulf Coast,Live Oak,28.1096028,-98.0362389,246,Stock,17
+7905606,Gulf Coast,Goliad,28.922222,-97.409445,154,,20
+7905903,Gulf Coast,Goliad,28.893611,-97.378611,280,Unused,18
+7905904,Gulf Coast,Goliad,28.895556,-97.377778,164,Unused,19
+7905905,Gulf Coast,Goliad,28.894445,-97.381389,314,,19
+7905906,Gulf Coast,Goliad,28.8822222,-97.3961111,277,,17
+7905907,Gulf Coast,Goliad,28.8905556,-97.3775,261,,18
+7906706,Gulf Coast,Goliad,28.886389,-97.361112,152,,18
+7907305,Gulf Coast,Victoria,28.961945,-97.138056,419,Unused,18
+7907703,Gulf Coast,Victoria,28.9127778,-97.2094444,170,Domestic,18
+7907902,Gulf Coast,Victoria,28.893611,-97.135278,853,Industrial,19
+7908201,Gulf Coast,Victoria,28.965834,-97.07,350,Domestic,18
+7908805,Gulf Coast,Victoria,28.875833,-97.048334,169,Irrigation,22
+7912305,Gulf Coast,Goliad,28.8502778,-97.5122222,166,,19
+7913110,Gulf Coast,Goliad,28.8622222,-97.4755556,,,20
+7913223,Gulf Coast,Goliad,28.841945,-97.424722,93,Stock,23
+7913224,Gulf Coast,Goliad,28.843889,-97.431667,24,,20
+7913225,Gulf Coast,Goliad,28.844167,-97.431667,65,,22
+7913226,Gulf Coast,Goliad,28.869444,-97.454723,210,,15
+7913229,Gulf Coast,Goliad,28.8480556,-97.4411111,152,,20
+7913406,Gulf Coast,Goliad,28.8166667,-97.4688889,87,Plugged or Destroyed,18
+7913507,Gulf Coast,Goliad,28.8286111,-97.4408333,250,,21
+7913513,Gulf Coast,Goliad,28.7978194,-97.4231306,230,,22
+7913611,Gulf Coast,Goliad,28.8291667,-97.4127778,275,,16
+7915702,Gulf Coast,Goliad,28.7747222,-97.2147222,174,,19
+7915903,Gulf Coast,Victoria,28.758889,-97.145,112,Fire,23
+7916608,Gulf Coast,Victoria,28.820833,-97.023611,327,Irrigation,18
+7916701,Gulf Coast,Victoria,28.773333,-97.086667,578,Public Supply,17
+7916702,Gulf Coast,Victoria,28.7755556,-97.0866667,588,Public Supply,17
+7917801,Gulf Coast,Bee,28.6652861,-97.9178417,150,Stock,20
+7922206,Gulf Coast,Goliad,28.7211111,-97.3136111,226,,17
+7922508,Gulf Coast,Goliad,28.6938889,-97.325,263,,18
+7923303,Gulf Coast,Victoria,28.7277778,-97.1444444,194,Fire,23
+7924102,Gulf Coast,Victoria,28.7125,-97.0869444,100,Fire,21
+7924702,Gulf Coast,Victoria,28.6575,-97.1177778,180,Fire,18
+7925608,Gulf Coast,Bee,28.5811333,-97.9113861,252,Domestic,15
+7928302,Gulf Coast,Goliad,28.5930556,-97.5016389,235,,18
+7928303,Gulf Coast,Goliad,28.5933333,-97.5108333,95,Unused,17
+7931901,Gulf Coast,Refugio,28.523611,-97.133889,946,Unused,18
+7932802,Gulf Coast,Refugio,28.5280556,-97.0452778,165,Unused,22
+7935101,Gulf Coast,Bee,28.4595778,-97.7178278,130,Domestic,16
+7937911,Gulf Coast,Goliad,28.4025,-97.3919444,146,,15
+7941401,Gulf Coast,Live Oak,28.3150833,-97.9948972,269,Stock,22
+7942703,Gulf Coast,Bee,28.2768861,-97.8482194,230,Domestic,21
+7946601,Gulf Coast,Refugio,28.3219444,-97.29,525,Unused,16
+7950106,Gulf Coast,Live Oak,28.2172694,-97.8386889,500,Unused,23
+7954803,Gulf Coast,Refugio,28.147222,-97.307223,331,Domestic,19
+7957605,Gulf Coast,San Patricio,28.0702778,-97.8830556,198,Plugged or Destroyed,16
+7957606,Gulf Coast,San Patricio,28.0683333,-97.8855556,410,Plugged or Destroyed,17
+7957905,Gulf Coast,Jim Wells,28.0188889,-97.9094444,220,Domestic,20
+7958201,Gulf Coast,San Patricio,28.1016667,-97.8227778,521,Unused,22
+7964701,Gulf Coast,Aransas,28.0233333,-97.1152778,130,Unused,21
+8001301,Gulf Coast,Victoria,28.990834,-96.907778,670,Irrigation,23
+8002102,Gulf Coast,Victoria,28.973333,-96.855001,366,Unused,24
+8002804,Gulf Coast,Victoria,28.901389,-96.797778,92,Irrigation,23
+8004101,Gulf Coast,Jackson,28.986667,-96.608334,383,Unused,18
+8004403,Gulf Coast,Jackson,28.9525,-96.6005556,681,Unused,16
+8004504,Gulf Coast,Jackson,28.9555556,-96.55,277,Public Supply,21
+8004601,Gulf Coast,Jackson,28.956667,-96.503612,378,Unused,17
+8005701,Gulf Coast,Jackson,28.905278,-96.498889,429,Unused,16
+8006101,Gulf Coast,Jackson,28.997778,-96.363612,550,Unused,16
+8006703,Gulf Coast,Jackson,28.877778,-96.335,590,Unused,17
+8007102,Gulf Coast,Matagorda,28.985,-96.2411111,1020,Unused,23
+8008504,Gulf Coast,Matagorda,28.9583333,-96.0702778,690,Public Supply,18
+8010101,Gulf Coast,Victoria,28.866667,-96.860834,880,Irrigation,15
+8010401,Gulf Coast,Victoria,28.828333,-96.833334,654,Unused,15
+8011201,Gulf Coast,Jackson,28.8669444,-96.6783333,579,Unused,22
+8011202,Gulf Coast,Jackson,28.841945,-96.683334,500,Unused,19
+8011301,Gulf Coast,Jackson,28.866389,-96.625278,365,Unused,16
+8011502,Gulf Coast,Jackson,28.830555,-96.683889,300,Unused,22
+8014801,Gulf Coast,Matagorda,28.7691556,-96.3073361,719,Unused,23
+8015301,Gulf Coast,Matagorda,28.853056,-96.144445,570,Unused,23
+8017101,Gulf Coast,Victoria,28.726111,-96.966389,703,Unused,15
+8017502,Gulf Coast,Victoria,28.6842306,-96.9489361,1026,Unused,24
+8017905,Gulf Coast,Victoria,28.6475,-96.895278,1010,Public Supply,19
+8018401,Gulf Coast,Victoria,28.671111,-96.855001,450,Unused,21
+8018402,Gulf Coast,Victoria,28.673889,-96.843611,336,Domestic,24
+8019503,Gulf Coast,Calhoun,28.6711833,-96.6978444,265,Domestic,17
+8019506,Gulf Coast,Calhoun,28.6788306,-96.6787472,280,Domestic,17
+8022204,Gulf Coast,Matagorda,28.7183333,-96.2922222,360,Domestic,19
+8024201,Gulf Coast,Matagorda,28.7175,-96.0663889,490,Unused,22
+8026501,Gulf Coast,Calhoun,28.5490722,-96.8023167,267,Unused,24
+8027601,Gulf Coast,Calhoun,28.5566167,-96.6363194,273,Unused,17
+8101102,Gulf Coast,Matagorda,28.98,-95.9752778,1032,Public Supply,20
+8101205,Gulf Coast,Matagorda,28.964445,-95.920833,480,Domestic,22
+8104202,Gulf Coast,Brazoria,28.9888889,-95.5813889,506,Unused,15
+8106214,Gulf Coast,Brazoria,29.0,-95.3238889,232,Unused,20
+8106406,Gulf Coast,Brazoria,28.948889,-95.364445,249,Public Supply,20
+8106408,Gulf Coast,Brazoria,28.927222,-95.361389,224,Stock,18
+8111901,Gulf Coast,Matagorda,28.775,-95.6325,527,Unused,24
+8301514,Gulf Coast,Jim Wells,27.9569444,-97.9408333,745,Public Supply,21
+8301605,Gulf Coast,Jim Wells,27.9583333,-97.8941667,250,Unused,18
+8301901,Gulf Coast,Nueces,27.8809,-97.9045028,290,Domestic,20
+8309703,Gulf Coast,Jim Wells,27.7794444,-97.9827778,640,Unused,23
+8310602,Gulf Coast,Nueces,27.7955556,-97.7892333,623,Domestic,23
+8311101,Gulf Coast,Nueces,27.8736111,-97.7163889,222,Industrial,21
+8317901,Gulf Coast,Nueces,27.6466667,-97.915,753,Unused,23
+8322801,Gulf Coast,Nueces,27.6483333,-97.2975,181,Unused,19
+8325501,Gulf Coast,Kleberg,27.5737028,-97.9389917,485,Stock,22
+8325701,Gulf Coast,Kleberg,27.5388889,-97.9966667,498,Stock,16
+8326701,Gulf Coast,Kleberg,27.5388889,-97.8469444,623,Unused,22
+8327802,Gulf Coast,Kleberg,27.5347222,-97.6683333,948,Industrial,19
+8329201,Gulf Coast,Nueces,27.5911944,-97.4549444,1173,Irrigation,23
+8329401,Gulf Coast,Nueces,27.5726389,-97.4706694,1258,Domestic,21
+8333201,Gulf Coast,Kleberg,27.4905556,-97.9247222,508,Stock,17
+8334305,Gulf Coast,Kleberg,27.4942944,-97.7593917,600,Stock,17
+8334701,Gulf Coast,Kleberg,27.4044444,-97.8541667,800,Unused,24
+8334902,Gulf Coast,Kleberg,27.3802778,-97.7688889,866,Stock,22
+8335201,Gulf Coast,Kleberg,27.4688889,-97.6972222,957,Unused,21
+8336401,Gulf Coast,Kleberg,27.4575,-97.6047222,945,Stock,21
+8341401,Gulf Coast,Kleberg,27.3094444,-97.9863889,600,Stock,22
+8342701,Gulf Coast,Kleberg,27.2583333,-97.8633333,500,Stock,18
+8349204,Gulf Coast,Kenedy,27.2344444,-97.9252778,550,Stock,20
+8349702,Gulf Coast,Kenedy,27.1622222,-97.9713889,588,Stock,22
+8350601,Gulf Coast,Kenedy,27.1919444,-97.7636111,710,Stock,20
+8351902,Gulf Coast,Kenedy,27.1622222,-97.6313889,1052,Stock,20
+8358202,Gulf Coast,Kenedy,27.1022222,-97.7941667,718,Domestic,20
+8412106,Gulf Coast,Duval,27.8677778,-98.6186111,600,Unused,23
+8412301,Gulf Coast,Duval,27.8594444,-98.5377778,503,Domestic,22
+8413102,Gulf Coast,Duval,27.8358333,-98.475,300,Unused,17
+8414906,Gulf Coast,Duval,27.7688889,-98.2541667,260,Domestic,15
+8415702,Gulf Coast,Duval,27.7583333,-98.2413889,509,Unused,21
+8422801,Gulf Coast,Duval,27.6319444,-98.2927778,90,Unused,22
+8430501,Gulf Coast,Duval,27.5781944,-98.308825,90,Unused,20
+8431102,Gulf Coast,Duval,27.6130556,-98.2497222,70,Unused,19
+8431502,Gulf Coast,Jim Wells,27.5788889,-98.1927778,64,Unused,23
+8432401,Gulf Coast,Jim Wells,27.5519111,-98.0966222,503,Stock,21
+8434404,Gulf Coast,Webb,27.4282222,-98.8408472,320,Unused,20
+8436605,Gulf Coast,Duval,27.4441667,-98.5288889,800,Public Supply,16
+8436606,Gulf Coast,Duval,27.4455556,-98.5286111,280,Domestic,17
+8438902,Gulf Coast,Duval,27.3872222,-98.2669444,310,Unused,21
+8445506,Gulf Coast,Duval,27.3016667,-98.4416667,300,Domestic,18
+8447313,Gulf Coast,Jim Wells,27.3530556,-98.1265389,578,Unused,23
+8448302,Gulf Coast,Kleberg,27.3391667,-98.0177778,550,Stock,18
+8455204,Gulf Coast,Brooks,27.2388889,-98.1719444,601,Unused,22
+8455310,Gulf Coast,Brooks,27.2302778,-98.1558333,,Unused,24
+8455329,Gulf Coast,Brooks,27.2366667,-98.1572222,600,Domestic,18
+8455901,Gulf Coast,Brooks,27.16,-98.1497222,647,Stock,17
+8460402,Gulf Coast,Jim Hogg,27.0763889,-98.6072222,455,Domestic,21
+8463602,Gulf Coast,Brooks,27.0775,-98.1438889,640,Domestic,19
+8701601,Gulf Coast,Jim Hogg,26.9561111,-98.9111111,711,Stock,17
+8704402,Gulf Coast,Jim Hogg,26.9361111,-98.5961111,95,Domestic,22
+8711601,Gulf Coast,Jim Hogg,26.7947222,-98.6286111,250,Stock,21
+8713503,Gulf Coast,Brooks,26.8,-98.4186111,641,Unused,19
+8720703,Gulf Coast,Starr,26.64,-98.5880556,280,Stock,23
+8721105,Gulf Coast,Starr,26.7302778,-98.4783333,90,Domestic,20
+8731503,Gulf Coast,Hidalgo,26.5525,-98.1847222,86,Plugged or Destroyed,22
+8731804,Gulf Coast,Hidalgo,26.5150556,-98.1776389,80,Unused,22
+8731907,Gulf Coast,Hidalgo,26.5175,-98.1438889,75,Unused,19
+8744501,Gulf Coast,Hidalgo,26.3127778,-98.5552778,130,Domestic,20
+8755602,Gulf Coast,Hidalgo,26.1866667,-98.1544444,350,Public Supply,18
+8801101,Gulf Coast,Kenedy,26.9841667,-97.9830556,765,Stock,17
+8826303,Gulf Coast,Willacy,26.5955556,-97.7691667,871,Domestic,20
+8834101,Gulf Coast,Willacy,26.4808333,-97.8408333,870,Unused,21
+8857301,Gulf Coast,Hidalgo,26.1095,-97.9010556,150,Unused,23
+8858302,Gulf Coast,Cameron,26.0909167,-97.7564722,166,Unused,17
+8858502,Gulf Coast,Cameron,26.0727778,-97.8313889,180,Unused,20
+8860101,Gulf Coast,Cameron,26.0930556,-97.6177778,174,Unused,21
+8904602,Gulf Coast,Cameron,25.9416667,-97.5258333,200,Unused,17
+0148902,Ogallala (High Plains),Dallam,36.2513889,-103.0041667,235,Irrigation,22
+0164301,Ogallala (High Plains),Dallam,36.1197222,-103.0011111,298,Irrigation,19
+0237701,Ogallala (High Plains),Dallam,36.4008333,-102.4836111,320,Stock,15
+0239602,Ogallala (High Plains),Sherman,36.444167,-102.152223,452,Irrigation,18
+0239902,Ogallala (High Plains),Sherman,36.3841667,-102.1338889,454,Irrigation,15
+0240403,Ogallala (High Plains),Sherman,36.443889,-102.098611,454,Irrigation,19
+0240601,Ogallala (High Plains),Sherman,36.4402778,-102.0266667,366,Irrigation,15
+0241304,Ogallala (High Plains),Dallam,36.345,-102.8825,,Power,20
+0242903,Ogallala (High Plains),Dallam,36.279167,-102.759167,340,Unused,19
+0244601,Ogallala (High Plains),Dallam,36.321944,-102.525278,366,Stock,20
+0245101,Ogallala (High Plains),Dallam,36.347778,-102.463056,398,Unused,17
+0245301,Ogallala (High Plains),Dallam,36.370833,-102.393889,400,Stock,18
+0247603,Ogallala (High Plains),Sherman,36.312778,-102.146389,548,Irrigation,19
+0247609,Ogallala (High Plains),Sherman,36.2992667,-102.1283306,510,Irrigation,18
+0248102,Ogallala (High Plains),Sherman,36.370278,-102.109167,365,Irrigation,19
+0248901,Ogallala (High Plains),Sherman,36.284722,-102.016944,396,Irrigation,19
+0249201,Ogallala (High Plains),Dallam,36.241389,-102.932778,300,Irrigation,17
+0249801,Ogallala (High Plains),Dallam,36.148611,-102.941111,360,Irrigation,15
+0249901,Ogallala (High Plains),Dallam,36.126111,-102.896111,418,Irrigation,16
+0250701,Ogallala (High Plains),Dallam,36.160556,-102.850556,358,Irrigation,20
+0252801,Ogallala (High Plains),Dallam,36.156389,-102.582222,484,Irrigation,16
+0253201,Ogallala (High Plains),Dallam,36.2197222,-102.4477778,515,Unused,15
+0253601,Ogallala (High Plains),Dallam,36.197222,-102.396111,455,Unused,16
+0254701,Ogallala (High Plains),Dallam,36.1469444,-102.3580556,426,Irrigation,15
+0255301,Ogallala (High Plains),Sherman,36.241389,-102.133055,435,Irrigation,24
+0255802,Ogallala (High Plains),Dallam,36.127222,-102.186945,550,Unused,16
+0256201,Ogallala (High Plains),Sherman,36.241389,-102.053056,396,Irrigation,17
+0256601,Ogallala (High Plains),Sherman,36.1975,-102.007778,439,Irrigation,16
+0256709,Ogallala (High Plains),Sherman,36.139445,-102.097222,516,Irrigation,21
+0258102,Ogallala (High Plains),Dallam,36.086389,-102.860278,430,Unused,18
+0258803,Ogallala (High Plains),Hartley,36.0225,-102.8158333,463,Irrigation,17
+0346604,Ogallala (High Plains),Hansford,36.313612,-101.291389,414,Irrigation,17
+0347104,Ogallala (High Plains),Hansford,36.3733333,-101.2202778,529,Irrigation,15
+0347601,Ogallala (High Plains),Hansford,36.325,-101.1288889,656,Irrigation,18
+0347902,Ogallala (High Plains),Hansford,36.271389,-101.156667,,Irrigation,16
+0348202,Ogallala (High Plains),Ochiltree,36.36,-101.0513889,299,Unused,22
+0542101,Ogallala (High Plains),Gray,35.3472222,-100.8566667,290,Stock,16
+0542201,Ogallala (High Plains),Gray,35.3713889,-100.8119444,151,Stock,15
+0542202,Ogallala (High Plains),Gray,35.355,-100.8072222,298,Unused,20
+0542301,Ogallala (High Plains),Gray,35.3497222,-100.7663889,165,Industrial,17
+0542401,Ogallala (High Plains),Gray,35.3072222,-100.8569444,218,Stock,17
+0542702,Ogallala (High Plains),Gray,35.253334,-100.840556,220,Stock,17
+0542801,Ogallala (High Plains),Gray,35.2797222,-100.8311111,105,Stock,15
+0543703,Ogallala (High Plains),Gray,35.2898389,-100.7474056,152,Irrigation,19
+0543705,Ogallala (High Plains),Gray,35.266112,-100.7275,122,Stock,16
+0544305,Ogallala (High Plains),Wheeler,35.3547222,-100.5380556,172,Plugged or Destroyed,15
+0544610,Ogallala (High Plains),Gray,35.2983889,-100.5396778,230,Stock,20
+0544703,Ogallala (High Plains),Gray,35.2677778,-100.5872222,199,Irrigation,16
+0544705,Ogallala (High Plains),Gray,35.284167,-100.621389,150,Stock,19
+0544714,Ogallala (High Plains),Gray,35.2611111,-100.61,200,Stock,18
+0544801,Ogallala (High Plains),Gray,35.2705556,-100.5519444,162,Stock,22
+0544906,Ogallala (High Plains),Wheeler,35.2772222,-100.5316667,200,Unused,18
+0545103,Ogallala (High Plains),Wheeler,35.3438889,-100.4897222,71,Unused,16
+0545408,Ogallala (High Plains),Wheeler,35.2922222,-100.4972222,200,Irrigation,18
+0545505,Ogallala (High Plains),Wheeler,35.3097222,-100.435,150,Stock,17
+0549302,Ogallala (High Plains),Gray,35.2394444,-100.8855556,360,Stock,15
+0550202,Ogallala (High Plains),Gray,35.2494444,-100.8025,200,Irrigation,17
+0550203,Ogallala (High Plains),Gray,35.231111,-100.832778,116,Stock,16
+0550204,Ogallala (High Plains),Gray,35.231389,-100.805001,100,Stock,19
+0550302,Ogallala (High Plains),Gray,35.2444444,-100.7825,228,Unused,16
+0550502,Ogallala (High Plains),Donley,35.176667,-100.804445,155,Stock,15
+0550701,Ogallala (High Plains),Donley,35.1583333,-100.8588889,160,Stock,15
+0550903,Ogallala (High Plains),Donley,35.14,-100.754445,265,Irrigation,19
+0551101,Ogallala (High Plains),Gray,35.2130556,-100.7294444,310,Public Supply,18
+0551103,Ogallala (High Plains),Gray,35.2388889,-100.7175,220,Irrigation,17
+0551202,Ogallala (High Plains),Gray,35.220833,-100.684167,268,Irrigation,19
+0551203,Ogallala (High Plains),Gray,35.2438889,-100.6758333,182,Unused,19
+0551303,Ogallala (High Plains),Gray,35.2413889,-100.6269444,124,Unused,19
+0551715,Ogallala (High Plains),Donley,35.164723,-100.749722,265,Unused,19
+0551801,Ogallala (High Plains),Donley,35.139167,-100.686389,140,Irrigation,19
+0552111,Ogallala (High Plains),Gray,35.2211111,-100.6141667,193,Unused,19
+0552303,Ogallala (High Plains),Wheeler,35.2258333,-100.5055556,75,Domestic,16
+0552307,Ogallala (High Plains),Wheeler,35.2169444,-100.5072222,120,Stock,18
+0552308,Ogallala (High Plains),Gray,35.239445,-100.541389,133,Industrial,19
+0552401,Ogallala (High Plains),Gray,35.1872222,-100.62,97,Stock,15
+0552452,Ogallala (High Plains),Gray,35.2080556,-100.5930556,143,Unused,19
+0552603,Ogallala (High Plains),Gray,35.207778,-100.538889,86,Irrigation,19
+0552851,Ogallala (High Plains),Donley,35.163889,-100.558889,,Stock,16
+0553102,Ogallala (High Plains),Wheeler,35.227778,-100.466389,200,Unused,18
+0553302,Ogallala (High Plains),Wheeler,35.2430556,-100.4080556,140,Unused,19
+0553404,Ogallala (High Plains),Wheeler,35.197222,-100.490556,79,Irrigation,18
+0553450,Ogallala (High Plains),Wheeler,35.2041667,-100.4936111,180,Unused,15
+0557512,Ogallala (High Plains),Donley,35.0677778,-100.9238889,,Stock,16
+0557803,Ogallala (High Plains),Donley,35.005834,-100.937778,132,Stock,17
+0558403,Ogallala (High Plains),Donley,35.0622222,-100.8491667,,Stock,17
+0559403,Ogallala (High Plains),Donley,35.0597222,-100.7213889,93,Domestic,17
+0601201,Ogallala (High Plains),Moore,35.9955556,-101.9352778,308,Plugged or Destroyed,20
+0601603,Ogallala (High Plains),Moore,35.923333,-101.891667,419,Irrigation,23
+0601803,Ogallala (High Plains),Moore,35.875555,-101.9275,435,Irrigation,21
+0602114,Ogallala (High Plains),Moore,35.996111,-101.864445,477,Irrigation,15
+0602701,Ogallala (High Plains),Moore,35.908056,-101.842222,417,Irrigation,19
+0602802,Ogallala (High Plains),Moore,35.904167,-101.810834,423,Irrigation,21
+0602903,Ogallala (High Plains),Moore,35.905834,-101.757778,466,Irrigation,24
+0603402,Ogallala (High Plains),Moore,35.918333,-101.721667,398,Irrigation,19
+0603803,Ogallala (High Plains),Moore,35.907778,-101.668055,459,Irrigation,21
+0604102,Ogallala (High Plains),Hutchinson,35.996111,-101.614723,362,Irrigation,17
+0604903,Ogallala (High Plains),Hutchinson,35.900278,-101.519722,520,Irrigation,19
+0605502,Ogallala (High Plains),Hutchinson,35.951389,-101.451112,508,Irrigation,16
+0605601,Ogallala (High Plains),Hutchinson,35.950834,-101.409445,532,Irrigation,20
+0605802,Ogallala (High Plains),Hutchinson,35.8775,-101.456667,609,Irrigation,20
+0606102,Ogallala (High Plains),Hutchinson,35.9658333,-101.3552778,598,Irrigation,19
+0608201,Ogallala (High Plains),Roberts,35.997222,-101.083055,180,Stock,15
+0608304,Ogallala (High Plains),Roberts,35.9863889,-101.0283333,740,Unused,15
+0608501,Ogallala (High Plains),Roberts,35.954167,-101.071389,135,Unused,21
+0608601,Ogallala (High Plains),Roberts,35.936389,-101.023611,70,Stock,18
+0609202,Ogallala (High Plains),Moore,35.850834,-101.936945,390,Irrigation,19
+0609312,Ogallala (High Plains),Moore,35.8722222,-101.89,,Irrigation,16
+0610102,Ogallala (High Plains),Moore,35.8688889,-101.8566667,475,Unused,23
+0610201,Ogallala (High Plains),Moore,35.871389,-101.8175,450,Irrigation,21
+0611103,Ogallala (High Plains),Moore,35.855834,-101.738889,470,Irrigation,16
+0611204,Ogallala (High Plains),Moore,35.866944,-101.700556,445,Irrigation,21
+0611601,Ogallala (High Plains),Moore,35.827222,-101.653612,429,Irrigation,18
+0612105,Ogallala (High Plains),Hutchinson,35.8638889,-101.6158333,490,Irrigation,16
+0613703,Ogallala (High Plains),Hutchinson,35.7859028,-101.4906889,260,Stock,18
+0615301,Ogallala (High Plains),Hutchinson,35.848334,-101.135556,,Stock,16
+0615804,Ogallala (High Plains),Hutchinson,35.7530556,-101.1697222,,Stock,15
+0615901,Ogallala (High Plains),Hutchinson,35.7727778,-101.1422222,,Stock,16
+0615902,Ogallala (High Plains),Hutchinson,35.7836111,-101.1272222,,,16
+0616201,Ogallala (High Plains),Roberts,35.8661111,-101.055,,,16
+0616301,Ogallala (High Plains),Roberts,35.874167,-101.008612,495,Irrigation,18
+0616352,Ogallala (High Plains),Roberts,35.8725,-101.0188889,510,Unused,21
+0616401,Ogallala (High Plains),Hutchinson,35.805834,-101.097222,,Stock,18
+0616601,Ogallala (High Plains),Roberts,35.81,-101.0275,365,Unused,22
+0616702,Ogallala (High Plains),Hutchinson,35.7811111,-101.0919444,560,Unused,23
+0616904,Ogallala (High Plains),Roberts,35.784625,-101.0219917,460,Public Supply,23
+0617601,Ogallala (High Plains),Moore,35.693056,-101.899445,412,Irrigation,18
+0618501,Ogallala (High Plains),Moore,35.6872222,-101.7966667,180,Stock,19
+0622901,Ogallala (High Plains),Hutchinson,35.6547222,-101.2669444,180,Unused,18
+0623205,Ogallala (High Plains),Hutchinson,35.7341667,-101.2011111,,,16
+0623303,Ogallala (High Plains),Hutchinson,35.7305556,-101.1408333,,Stock,17
+0623304,Ogallala (High Plains),Hutchinson,35.7363889,-101.1658333,,Stock,15
+0623503,Ogallala (High Plains),Hutchinson,35.6827778,-101.1880556,295,Unused,22
+0624203,Ogallala (High Plains),Roberts,35.7494444,-101.0652778,,Monitor,21
+0624304,Ogallala (High Plains),Roberts,35.7225,-101.0152778,480,Unused,22
+0624353,Ogallala (High Plains),Roberts,35.7463889,-101.0130556,698,Unused,22
+0624357,Ogallala (High Plains),Roberts,35.7463889,-101.0130556,545,Unused,19
+0624358,Ogallala (High Plains),Roberts,35.7463889,-101.0130556,385,Unused,19
+0624602,Ogallala (High Plains),Roberts,35.683889,-101.009723,569,Stock,15
+0624801,Ogallala (High Plains),Roberts,35.64,-101.069722,311,Unused,16
+0624901,Ogallala (High Plains),Roberts,35.654723,-101.019167,,Stock,19
+0625101,Ogallala (High Plains),Potter,35.6102778,-101.9891667,,,15
+0625201,Ogallala (High Plains),Potter,35.6019444,-101.9458333,,,16
+0625501,Ogallala (High Plains),Potter,35.561389,-101.925833,,Stock,21
+0625601,Ogallala (High Plains),Potter,35.5505556,-101.8866667,,Stock,15
+0625801,Ogallala (High Plains),Potter,35.536667,-101.923055,112,Unused,18
+0627504,Ogallala (High Plains),Potter,35.551389,-101.673889,80,Domestic,20
+0627605,Ogallala (High Plains),Potter,35.546389,-101.642222,,Domestic,21
+0628102,Ogallala (High Plains),Carson,35.598056,-101.589445,272,Public Supply,16
+0628402,Ogallala (High Plains),Carson,35.543889,-101.603056,286,Stock,15
+0628601,Ogallala (High Plains),Carson,35.570555,-101.5325,164,Irrigation,19
+0628701,Ogallala (High Plains),Carson,35.5158333,-101.5916667,468,Irrigation,19
+0630901,Ogallala (High Plains),Carson,35.5325,-101.2783333,735,Stock,16
+0631203,Ogallala (High Plains),Carson,35.591667,-101.173889,416,Industrial,18
+0631301,Ogallala (High Plains),Carson,35.591111,-101.135834,303,Unused,16
+0631701,Ogallala (High Plains),Carson,35.5008333,-101.2472222,447,Domestic,17
+0631803,Ogallala (High Plains),Carson,35.501945,-101.184167,531,Irrigation,15
+0631957,Ogallala (High Plains),Carson,35.5269444,-101.1283333,,Stock,16
+0632606,Ogallala (High Plains),Gray,35.574722,-101.032778,637,Irrigation,20
+0632803,Ogallala (High Plains),Gray,35.5027778,-101.0555556,504,Irrigation,18
+0635401,Ogallala (High Plains),Potter,35.4475,-101.71,,Stock,17
+0635501,Ogallala (High Plains),Potter,35.4444444,-101.6838889,520,Unused,21
+0636154,Ogallala (High Plains),Carson,35.4833333,-101.6147222,780,Unknown,21
+0636602,Ogallala (High Plains),Carson,35.4263889,-101.5302778,767,Unused,22
+0636608,Ogallala (High Plains),Carson,35.419167,-101.521389,770,Irrigation,18
+0636919,Ogallala (High Plains),Carson,35.3880556,-101.5197222,755,Irrigation,16
+0637301,Ogallala (High Plains),Carson,35.461667,-101.388889,380,Stock,15
+0637405,Ogallala (High Plains),Carson,35.425278,-101.47,725,Irrigation,19
+0637458,Ogallala (High Plains),Carson,35.4580556,-101.4869444,620,Irrigation,16
+0637705,Ogallala (High Plains),Carson,35.3977778,-101.4863889,780,Irrigation,15
+0637710,Ogallala (High Plains),Carson,35.3833333,-101.4869444,685,,17
+0638601,Ogallala (High Plains),Carson,35.443056,-101.268889,447,Irrigation,17
+0638701,Ogallala (High Plains),Carson,35.411667,-101.364167,554,Irrigation,19
+0638711,Ogallala (High Plains),Carson,35.3975,-101.3455556,667,Irrigation,16
+0638807,Ogallala (High Plains),Carson,35.3913889,-101.2927778,500,Unused,18
+0638811,Ogallala (High Plains),Carson,35.383889,-101.310834,760,Irrigation,18
+0638916,Ogallala (High Plains),Carson,35.401112,-101.290278,755,Irrigation,20
+0639301,Ogallala (High Plains),Carson,35.481667,-101.136667,473,Irrigation,20
+0639501,Ogallala (High Plains),Carson,35.421389,-101.203334,496,Irrigation,20
+0639605,Ogallala (High Plains),Carson,35.4444444,-101.1455556,510,Domestic,18
+0639606,Ogallala (High Plains),Carson,35.4319444,-101.1363889,,Unused,17
+0639607,Ogallala (High Plains),Carson,35.4297222,-101.1363889,,Unused,15
+0639608,Ogallala (High Plains),Carson,35.4297222,-101.1491667,,Unused,18
+0639909,Ogallala (High Plains),Carson,35.405278,-101.151389,660,Irrigation,19
+0639956,Ogallala (High Plains),Carson,35.4127778,-101.1369444,630,Irrigation,20
+0640205,Ogallala (High Plains),Gray,35.4727778,-101.0655556,519,Irrigation,18
+0640306,Ogallala (High Plains),Gray,35.4725,-101.0144444,500,Irrigation,18
+0640501,Ogallala (High Plains),Gray,35.4408333,-101.0597222,522,Irrigation,18
+0640802,Ogallala (High Plains),Gray,35.399445,-101.057501,540,Irrigation,19
+0642502,Ogallala (High Plains),Potter,35.300556,-101.816389,165,Public Supply,17
+0643606,Ogallala (High Plains),Potter,35.2983333,-101.6544444,385,Unused,15
+0644311,Ogallala (High Plains),Carson,35.339167,-101.538889,650,Irrigation,21
+0644315,Ogallala (High Plains),Carson,35.341075,-101.5036528,700,Irrigation,17
+0644618,Ogallala (High Plains),Carson,35.3175,-101.5108333,762,Irrigation,17
+0644656,Ogallala (High Plains),Carson,35.3011111,-101.5058333,500,Domestic,18
+0644701,Ogallala (High Plains),Carson,35.266389,-101.596111,325,Domestic,19
+0644763,Ogallala (High Plains),Carson,35.266112,-101.603612,296,Domestic,18
+0644767,Ogallala (High Plains),Carson,35.269444,-101.585278,275,Domestic,19
+0644768,Ogallala (High Plains),Carson,35.2797222,-101.6188889,350,Domestic,20
+0644853,Ogallala (High Plains),Carson,35.2811111,-101.5491667,372,Stock,17
+0644959,Ogallala (High Plains),Carson,35.2541667,-101.5388889,230,Domestic,20
+0645104,Ogallala (High Plains),Carson,35.3544444,-101.4905556,730,Domestic,21
+0645201,Ogallala (High Plains),Carson,35.355001,-101.4275,667,Irrigation,20
+0645305,Ogallala (High Plains),Carson,35.3666667,-101.3947222,782,Irrigation,17
+0645513,Ogallala (High Plains),Carson,35.328055,-101.444445,597,Irrigation,20
+0646162,Ogallala (High Plains),Carson,35.3338889,-101.3375,718,Plugged or Destroyed,18
+0646302,Ogallala (High Plains),Carson,35.348889,-101.256112,511,Irrigation,19
+0646504,Ogallala (High Plains),Carson,35.326111,-101.307223,605,Irrigation,18
+0646552,Ogallala (High Plains),Carson,35.3038889,-101.3113889,592,Domestic,20
+0646601,Ogallala (High Plains),Carson,35.3094444,-101.2747222,535,Unused,17
+0646701,Ogallala (High Plains),Carson,35.2561111,-101.3630556,430,Irrigation,18
+0646757,Ogallala (High Plains),Carson,35.2725,-101.360278,610,Irrigation,19
+0646904,Ogallala (High Plains),Carson,35.2780556,-101.2569444,547,Irrigation,19
+0647205,Ogallala (High Plains),Carson,35.368889,-101.167778,501,Irrigation,18
+0647308,Ogallala (High Plains),Carson,35.349445,-101.163334,410,Unused,18
+0647554,Ogallala (High Plains),Carson,35.2977778,-101.1863889,410,Irrigation,19
+0647604,Ogallala (High Plains),Carson,35.2961111,-101.1413889,418,Unused,19
+0647806,Ogallala (High Plains),Carson,35.262223,-101.189167,579,Irrigation,18
+0648253,Ogallala (High Plains),Gray,35.3366667,-101.0466667,572,Irrigation,18
+0649503,Ogallala (High Plains),Potter,35.1916667,-101.9522222,256,Plugged or Destroyed,18
+0650209,Ogallala (High Plains),Potter,35.2119444,-101.7988889,312,Stock,15
+0650610,Ogallala (High Plains),Randall,35.1747222,-101.7611111,316,Unused,19
+0651301,Ogallala (High Plains),Potter,35.220833,-101.643334,311,Stock,15
+0652101,Ogallala (High Plains),Carson,35.22,-101.600834,260,Stock,16
+0652301,Ogallala (High Plains),Carson,35.211667,-101.539167,243,Stock,19
+0652501,Ogallala (High Plains),Armstrong,35.176389,-101.559723,263,Irrigation,20
+0652508,Ogallala (High Plains),Carson,35.208056,-101.561945,218,Stock,18
+0652906,Ogallala (High Plains),Armstrong,35.138056,-101.529444,285,Unused,16
+0653403,Ogallala (High Plains),Armstrong,35.17,-101.471389,223,Irrigation,18
+0653703,Ogallala (High Plains),Armstrong,35.165001,-101.485278,230,Irrigation,20
+0654611,Ogallala (High Plains),Armstrong,35.1722222,-101.2508333,378,Stock,15
+0654701,Ogallala (High Plains),Armstrong,35.156112,-101.3475,299,Domestic,18
+0654801,Ogallala (High Plains),Armstrong,35.1338889,-101.3191667,332,Irrigation,16
+0655113,Ogallala (High Plains),Carson,35.2266667,-101.2258333,,Irrigation,18
+0655156,Ogallala (High Plains),Carson,35.222778,-101.238611,,Domestic,15
+0655504,Ogallala (High Plains),Armstrong,35.1811111,-101.1691667,500,Unused,19
+0655511,Ogallala (High Plains),Armstrong,35.1788889,-101.17,,Stock,19
+0655615,Ogallala (High Plains),Armstrong,35.1801278,-101.1255694,448,Irrigation,19
+0655617,Ogallala (High Plains),Armstrong,35.1777778,-101.1433333,452,Unused,17
+0655801,Ogallala (High Plains),Armstrong,35.1577778,-101.2036111,147,Stock,15
+0655901,Ogallala (High Plains),Armstrong,35.1541667,-101.1436111,341,Monitor,18
+0656306,Ogallala (High Plains),Gray,35.2305556,-101.0277778,392,Irrigation,17
+0656404,Ogallala (High Plains),Armstrong,35.18,-101.1044444,520,Irrigation,20
+0656506,Ogallala (High Plains),Donley,35.1707833,-101.0635528,505,Irrigation,18
+0656701,Ogallala (High Plains),Armstrong,35.1663889,-101.0988889,505,Irrigation,15
+0656702,Ogallala (High Plains),Armstrong,35.1586111,-101.0988889,502,Irrigation,19
+0657202,Ogallala (High Plains),Randall,35.115556,-101.953612,257,Irrigation,22
+0657304,Ogallala (High Plains),Randall,35.094445,-101.893611,228,Irrigation,19
+0657421,Ogallala (High Plains),Randall,35.0728333,-101.9907,262,Unused,22
+0657505,Ogallala (High Plains),Randall,35.046667,-101.934445,290,Irrigation,20
+0657535,Ogallala (High Plains),Randall,35.064723,-101.918333,225,Irrigation,22
+0657716,Ogallala (High Plains),Randall,35.036111,-101.980833,202,Unused,21
+0657802,Ogallala (High Plains),Randall,35.0255556,-101.9361111,230,Plugged or Destroyed,18
+0657906,Ogallala (High Plains),Randall,35.0241667,-101.895,160,Domestic,17
+0658403,Ogallala (High Plains),Randall,35.0433333,-101.8658333,222,Unused,20
+0658601,Ogallala (High Plains),Randall,35.0752778,-101.7730556,250,Unused,17
+0659101,Ogallala (High Plains),Randall,35.0886111,-101.7230556,,Unused,20
+0659104,Ogallala (High Plains),Randall,35.1191667,-101.7319444,280,Unused,15
+0659201,Ogallala (High Plains),Randall,35.1033333,-101.6858333,260,Domestic,19
+0659307,Ogallala (High Plains),Randall,35.1022222,-101.6641667,321,Stock,18
+0661101,Ogallala (High Plains),Armstrong,35.104445,-101.480833,284,Irrigation,18
+0661204,Ogallala (High Plains),Armstrong,35.1241667,-101.4177778,238,Irrigation,16
+0661301,Ogallala (High Plains),Armstrong,35.1180556,-101.3975,304,Irrigation,15
+0661311,Ogallala (High Plains),Armstrong,35.085834,-101.3925,265,Irrigation,16
+0661601,Ogallala (High Plains),Armstrong,35.0580556,-101.4161111,212,Irrigation,17
+0661608,Ogallala (High Plains),Armstrong,35.044445,-101.383334,230,Domestic,18
+0661801,Ogallala (High Plains),Armstrong,35.0205556,-101.4580556,234,Stock,15
+0661802,Ogallala (High Plains),Armstrong,35.03,-101.4313889,195,Stock,16
+0662101,Ogallala (High Plains),Armstrong,35.0938889,-101.3633333,306,Irrigation,15
+0662201,Ogallala (High Plains),Armstrong,35.09,-101.321389,270,Irrigation,18
+0662301,Ogallala (High Plains),Armstrong,35.111667,-101.2775,315,Stock,16
+0662402,Ogallala (High Plains),Armstrong,35.075,-101.3691667,250,Irrigation,19
+0662501,Ogallala (High Plains),Armstrong,35.060834,-101.2925,297,Irrigation,18
+0663203,Ogallala (High Plains),Armstrong,35.1047222,-101.1863889,315,Irrigation,20
+0663204,Ogallala (High Plains),Armstrong,35.0938806,-101.1865389,308,Irrigation,19
+0663601,Ogallala (High Plains),Armstrong,35.052778,-101.140556,130,Stock,18
+0663802,Ogallala (High Plains),Armstrong,35.014167,-101.168611,344,Irrigation,19
+0664404,Ogallala (High Plains),Armstrong,35.0558833,-101.0905583,238,Irrigation,16
+0664501,Ogallala (High Plains),Donley,35.046111,-101.077778,254,Unused,18
+0664701,Ogallala (High Plains),Armstrong,35.0336111,-101.1102778,276,Irrigation,20
+0664702,Ogallala (High Plains),Armstrong,35.0116667,-101.1138889,280,Irrigation,19
+0664811,Ogallala (High Plains),Donley,35.0272222,-101.0638889,203,Irrigation,17
+0664951,Ogallala (High Plains),Donley,35.0025,-101.0125,,Stock,20
+0705101,Ogallala (High Plains),Hartley,35.971389,-102.4775,500,Irrigation,19
+0705613,Ogallala (High Plains),Hartley,35.924444,-102.388611,,Irrigation,24
+0707101,Ogallala (High Plains),Hartley,35.9680556,-102.2122222,491,Irrigation,17
+0707402,Ogallala (High Plains),Hartley,35.9358333,-102.2125,535,Irrigation,17
+0708802,Ogallala (High Plains),Moore,35.905834,-102.07,480,Irrigation,18
+0711601,Ogallala (High Plains),Hartley,35.800278,-102.651389,433,Irrigation,18
+0712401,Ogallala (High Plains),Hartley,35.8058972,-102.6137889,326,Unused,24
+0712402,Ogallala (High Plains),Hartley,35.822222,-102.598056,390,Irrigation,21
+0713601,Ogallala (High Plains),Hartley,35.825,-102.4163889,485,Irrigation,18
+1133103,Ogallala (High Plains),Swisher,34.464167,-101.990278,345,Unused,23
+1133201,Ogallala (High Plains),Swisher,34.465278,-101.9375,304,Irrigation,21
+1133502,Ogallala (High Plains),Swisher,34.4275,-101.954167,342,Irrigation,18
+1133602,Ogallala (High Plains),Swisher,34.445,-101.881389,260,Irrigation,20
+1134501,Ogallala (High Plains),Swisher,34.445556,-101.823611,254,Irrigation,19
+1134601,Ogallala (High Plains),Swisher,34.424167,-101.758334,209,Stock,21
+1134801,Ogallala (High Plains),Swisher,34.411389,-101.833334,290,Unused,19
+1134807,Ogallala (High Plains),Swisher,34.383889,-101.795834,297,Irrigation,21
+1135209,Ogallala (High Plains),Swisher,34.476667,-101.673889,200,Unused,23
+1135305,Ogallala (High Plains),Swisher,34.462778,-101.641667,165,Irrigation,22
+1135406,Ogallala (High Plains),Swisher,34.439445,-101.726667,210,Stock,20
+1135601,Ogallala (High Plains),Swisher,34.43,-101.663056,221,Unused,20
+1135702,Ogallala (High Plains),Swisher,34.3866667,-101.7263889,196,Unused,15
+1135805,Ogallala (High Plains),Swisher,34.375555,-101.697778,205,Irrigation,23
+1136108,Ogallala (High Plains),Swisher,34.479722,-101.610278,150,Irrigation,23
+1136402,Ogallala (High Plains),Swisher,34.448056,-101.608334,198,Irrigation,23
+1136405,Ogallala (High Plains),Swisher,34.4383333,-101.5966667,187,Stock,15
+1136708,Ogallala (High Plains),Swisher,34.375278,-101.618889,218,Irrigation,20
+1136801,Ogallala (High Plains),Swisher,34.415556,-101.575,300,Irrigation,21
+1136802,Ogallala (High Plains),Swisher,34.394167,-101.575,203,Irrigation,22
+1136901,Ogallala (High Plains),Swisher,34.396111,-101.531389,,Irrigation,22
+1137112,Ogallala (High Plains),Swisher,34.470833,-101.4925,185,Irrigation,18
+1137501,Ogallala (High Plains),Briscoe,34.4561111,-101.4527778,190,Irrigation,19
+1137601,Ogallala (High Plains),Briscoe,34.4491667,-101.4155556,200,Unused,18
+1137701,Ogallala (High Plains),Briscoe,34.3909278,-101.4609667,218,Irrigation,23
+1137914,Ogallala (High Plains),Briscoe,34.3913889,-101.4111111,232,Irrigation,22
+1138109,Ogallala (High Plains),Briscoe,34.4822222,-101.34,205,Irrigation,22
+1138402,Ogallala (High Plains),Briscoe,34.4205556,-101.3497222,212,Irrigation,24
+1138728,Ogallala (High Plains),Briscoe,34.3775,-101.3472222,180,Irrigation,24
+1138921,Ogallala (High Plains),Briscoe,34.3769444,-101.2833333,148,Unused,24
+1139201,Ogallala (High Plains),Briscoe,34.4682028,-101.1900778,217,Irrigation,24
+1139605,Ogallala (High Plains),Briscoe,34.4577778,-101.155,267,Unused,23
+1141108,Ogallala (High Plains),Castro,34.362778,-101.999445,350,Irrigation,23
+1141404,Ogallala (High Plains),Swisher,34.319444,-101.973889,348,Irrigation,23
+1141506,Ogallala (High Plains),Hale,34.306389,-101.929722,345,Irrigation,23
+1141602,Ogallala (High Plains),Hale,34.296945,-101.883055,288,Irrigation,22
+1142315,Ogallala (High Plains),Swisher,34.3545833,-101.7584944,231,Unused,24
+1142505,Ogallala (High Plains),Swisher,34.325,-101.811945,325,Irrigation,21
+1142609,Ogallala (High Plains),Hale,34.305556,-101.768055,,Irrigation,21
+1142704,Ogallala (High Plains),Hale,34.267222,-101.865556,287,Stock,20
+1142804,Ogallala (High Plains),Hale,34.274167,-101.796111,,Irrigation,19
+1143202,Ogallala (High Plains),Swisher,34.346389,-101.702778,237,Irrigation,22
+1143306,Ogallala (High Plains),Swisher,34.346389,-101.649445,225,Stock,23
+1143501,Ogallala (High Plains),Swisher,34.316944,-101.6975,208,Unused,20
+1143707,Ogallala (High Plains),Hale,34.279167,-101.720555,,Irrigation,22
+1144401,Ogallala (High Plains),Swisher,34.328889,-101.610278,292,Irrigation,21
+1144602,Ogallala (High Plains),Swisher,34.317778,-101.540556,290,Irrigation,19
+1144714,Ogallala (High Plains),Hale,34.255278,-101.608612,311,Irrigation,22
+1144904,Ogallala (High Plains),Floyd,34.279444,-101.538889,247,Irrigation,23
+1145314,Ogallala (High Plains),Briscoe,34.3624167,-101.3865472,230,Unused,23
+1145407,Ogallala (High Plains),Swisher,34.332778,-101.475833,294,Irrigation,23
+1145408,Ogallala (High Plains),Floyd,34.303612,-101.4675,279,Irrigation,23
+1145512,Ogallala (High Plains),Briscoe,34.3183333,-101.4458333,262,Irrigation,21
+1145607,Ogallala (High Plains),Briscoe,34.3188889,-101.4033333,,Irrigation,18
+1145802,Ogallala (High Plains),Floyd,34.2844444,-101.4322222,219,Irrigation,20
+1145806,Ogallala (High Plains),Floyd,34.251112,-101.450834,217,Irrigation,21
+1145905,Ogallala (High Plains),Floyd,34.259167,-101.412778,220,Unused,23
+1146101,Ogallala (High Plains),Briscoe,34.3491667,-101.3336111,219,Irrigation,24
+1146606,Ogallala (High Plains),Floyd,34.300001,-101.250278,305,Unused,22
+1146701,Ogallala (High Plains),Floyd,34.285834,-101.364723,270,Irrigation,23
+1146802,Ogallala (High Plains),Floyd,34.290278,-101.293889,302,Irrigation,23
+1147703,Ogallala (High Plains),Floyd,34.266944,-101.217778,303,Irrigation,21
+1149101,Ogallala (High Plains),Hale,34.241667,-101.987778,300,Irrigation,22
+1149404,Ogallala (High Plains),Hale,34.195278,-101.991111,334,Irrigation,23
+1149801,Ogallala (High Plains),Hale,34.159723,-101.952501,330,Irrigation,22
+1149904,Ogallala (High Plains),Hale,34.159445,-101.895278,,Irrigation,22
+1150203,Ogallala (High Plains),Hale,34.2393889,-101.7952778,280,Irrigation,22
+1150204,Ogallala (High Plains),Hale,34.217778,-101.828889,322,Irrigation,22
+1150605,Ogallala (High Plains),Hale,34.1775,-101.767778,305,Unused,23
+1150703,Ogallala (High Plains),Hale,34.151667,-101.852778,,Irrigation,22
+1150906,Ogallala (High Plains),Hale,34.156667,-101.781111,,Irrigation,23
+1151102,Ogallala (High Plains),Hale,34.238889,-101.737778,318,Irrigation,21
+1151104,Ogallala (High Plains),Hale,34.216944,-101.7425,276,Irrigation,21
+1151303,Ogallala (High Plains),Hale,34.249722,-101.659167,,Irrigation,23
+1151403,Ogallala (High Plains),Hale,34.1922222,-101.7272222,298,Unused,24
+1151604,Ogallala (High Plains),Hale,34.198334,-101.635556,,Irrigation,18
+1151703,Ogallala (High Plains),Hale,34.139722,-101.739722,295,Unused,23
+1152105,Ogallala (High Plains),Hale,34.213056,-101.589445,,Irrigation,20
+1152305,Ogallala (High Plains),Floyd,34.228889,-101.525833,252,Irrigation,23
+1152714,Ogallala (High Plains),Hale,34.166389,-101.598611,,Irrigation,22
+1152908,Ogallala (High Plains),Floyd,34.1388889,-101.5186111,401,Irrigation,16
+1152913,Ogallala (High Plains),Floyd,34.165556,-101.520278,,Irrigation,18
+1153102,Ogallala (High Plains),Floyd,34.214445,-101.480555,278,Irrigation,21
+1153205,Ogallala (High Plains),Floyd,34.236945,-101.441945,,Irrigation,23
+1153503,Ogallala (High Plains),Floyd,34.197222,-101.441667,301,Irrigation,23
+1153802,Ogallala (High Plains),Floyd,34.149445,-101.421389,277,Irrigation,23
+1153904,Ogallala (High Plains),Floyd,34.156667,-101.3875,210,Unused,23
+1154101,Ogallala (High Plains),Floyd,34.228333,-101.345,261,Unused,23
+1154402,Ogallala (High Plains),Floyd,34.191111,-101.359723,210,Stock,23
+1154601,Ogallala (High Plains),Floyd,34.186111,-101.289445,331,Irrigation,23
+1154802,Ogallala (High Plains),Floyd,34.142222,-101.332778,200,Irrigation,22
+1155501,Ogallala (High Plains),Floyd,34.1825,-101.205001,363,Irrigation,23
+1155901,Ogallala (High Plains),Floyd,34.158334,-101.159445,341,Irrigation,23
+1157202,Ogallala (High Plains),Hale,34.108056,-101.945834,298,Irrigation,23
+1157303,Ogallala (High Plains),Hale,34.115556,-101.888056,,Irrigation,22
+1157401,Ogallala (High Plains),Hale,34.065001,-101.97,339,Irrigation,23
+1157601,Ogallala (High Plains),Hale,34.0608333,-101.9055556,325,Unused,16
+1157702,Ogallala (High Plains),Hale,34.028611,-101.985556,,Irrigation,22
+1157901,Ogallala (High Plains),Hale,34.032222,-101.905556,315,Irrigation,23
+1158103,Ogallala (High Plains),Hale,34.110834,-101.853056,336,Irrigation,21
+1158205,Ogallala (High Plains),Hale,34.109167,-101.796667,345,Irrigation,22
+1158801,Ogallala (High Plains),Hale,34.032222,-101.817222,255,Unused,23
+1158901,Ogallala (High Plains),Hale,34.006945,-101.757501,225,Stock,23
+1159110,Ogallala (High Plains),Hale,34.097778,-101.748611,,Irrigation,20
+1159202,Ogallala (High Plains),Hale,34.118889,-101.676111,315,Irrigation,22
+1159306,Ogallala (High Plains),Hale,34.093611,-101.646945,,Irrigation,20
+1159404,Ogallala (High Plains),Hale,34.079167,-101.739722,320,Irrigation,20
+1159405,Ogallala (High Plains),Hale,34.042778,-101.748611,,Unused,22
+1159503,Ogallala (High Plains),Hale,34.046111,-101.682778,150,Irrigation,22
+1159806,Ogallala (High Plains),Hale,34.021111,-101.69,,Unused,23
+1160107,Ogallala (High Plains),Hale,34.085278,-101.622222,,Irrigation,20
+1160204,Ogallala (High Plains),Hale,34.0925,-101.578055,271,Irrigation,23
+1160209,Ogallala (High Plains),Hale,34.119722,-101.581944,,Irrigation,17
+1160302,Ogallala (High Plains),Floyd,34.1155556,-101.5261111,,Irrigation,23
+1160502,Ogallala (High Plains),Floyd,34.058612,-101.559445,350,Irrigation,24
+1160605,Ogallala (High Plains),Floyd,34.048611,-101.525833,414,Irrigation,24
+1160803,Ogallala (High Plains),Hale,34.016944,-101.582222,,Irrigation,22
+1160804,Ogallala (High Plains),Floyd,34.0053,-101.5580667,351,Irrigation,24
+1160902,Ogallala (High Plains),Floyd,34.026111,-101.508056,417,Irrigation,24
+1161204,Ogallala (High Plains),Floyd,34.108334,-101.445556,289,Irrigation,17
+1161406,Ogallala (High Plains),Floyd,34.055278,-101.471667,405,Irrigation,22
+1161605,Ogallala (High Plains),Floyd,34.079444,-101.392778,159,Irrigation,24
+1161801,Ogallala (High Plains),Floyd,34.036945,-101.437222,279,Irrigation,21
+1162201,Ogallala (High Plains),Floyd,34.102223,-101.309167,185,Irrigation,24
+1162301,Ogallala (High Plains),Floyd,34.107501,-101.256667,184,Unused,23
+1162401,Ogallala (High Plains),Floyd,34.0811111,-101.3711111,100,Unused,23
+1162601,Ogallala (High Plains),Floyd,34.068889,-101.256389,243,Irrigation,24
+1162702,Ogallala (High Plains),Floyd,34.037778,-101.350278,200,Irrigation,23
+1162801,Ogallala (High Plains),Floyd,34.024722,-101.325,246,Irrigation,24
+1163401,Ogallala (High Plains),Floyd,34.055278,-101.220833,,Stock,23
+1163502,Ogallala (High Plains),Floyd,34.071111,-101.171111,321,Irrigation,24
+1163601,Ogallala (High Plains),Floyd,34.074167,-101.125278,350,Irrigation,23
+1163801,Ogallala (High Plains),Floyd,34.022222,-101.202501,270,Irrigation,23
+1163901,Ogallala (High Plains),Floyd,34.0225,-101.158056,395,Irrigation,21
+1164701,Ogallala (High Plains),Floyd,34.0311111,-101.0872222,356,Irrigation,23
+1164911,Ogallala (High Plains),Motley,34.0144444,-101.0347222,,Unused,16
+1201102,Ogallala (High Plains),Donley,34.969722,-100.960278,88,Irrigation,16
+1201107,Ogallala (High Plains),Donley,34.981944,-100.962778,118,Irrigation,18
+1201131,Ogallala (High Plains),Donley,34.9686111,-100.9961111,116,Irrigation,17
+1201206,Ogallala (High Plains),Donley,34.959445,-100.936389,144,Irrigation,17
+1201301,Ogallala (High Plains),Donley,34.9711111,-100.9055556,160,Irrigation,18
+1201306,Ogallala (High Plains),Donley,34.962223,-100.888334,152,Irrigation,19
+1201502,Ogallala (High Plains),Donley,34.934722,-100.953889,205,Irrigation,17
+1201617,Ogallala (High Plains),Donley,34.9208333,-100.9102778,177,Domestic,18
+1201624,Ogallala (High Plains),Donley,34.9180556,-100.8822222,165,Irrigation,19
+1201655,Ogallala (High Plains),Donley,34.9302778,-100.8886111,111,Unused,19
+1201904,Ogallala (High Plains),Donley,34.901112,-100.896667,232,Stock,20
+1202210,Ogallala (High Plains),Donley,34.9683,-100.8251,190,Irrigation,16
+1202306,Ogallala (High Plains),Donley,34.9716667,-100.7763889,80,Stock,16
+1202604,Ogallala (High Plains),Donley,34.9286111,-100.7905556,192,Irrigation,18
+1202607,Ogallala (High Plains),Donley,34.9319444,-100.7536111,,Irrigation,17
+1202812,Ogallala (High Plains),Donley,34.9092389,-100.8067194,128,Irrigation,19
+1202907,Ogallala (High Plains),Donley,34.89,-100.755556,116,Irrigation,22
+1202931,Ogallala (High Plains),Donley,34.8960389,-100.7548694,122,Irrigation,20
+1202958,Ogallala (High Plains),Donley,34.8822222,-100.7555556,80,Irrigation,15
+1203207,Ogallala (High Plains),Donley,34.960556,-100.697222,119,Stock,17
+1203405,Ogallala (High Plains),Donley,34.9302778,-100.7338889,144,Irrigation,22
+1203601,Ogallala (High Plains),Donley,34.9402778,-100.6663889,129,Irrigation,23
+1203603,Ogallala (High Plains),Donley,34.9552778,-100.6263889,130,Stock,15
+1203806,Ogallala (High Plains),Donley,34.9102778,-100.6747222,150,Stock,15
+1204451,Ogallala (High Plains),Donley,34.9475917,-100.6018,230,Irrigation,16
+1204805,Ogallala (High Plains),Donley,34.8944444,-100.5705556,59,Plugged or Destroyed,20
+1210218,Ogallala (High Plains),Donley,34.871667,-100.794722,134,Irrigation,20
+1210301,Ogallala (High Plains),Donley,34.858612,-100.762501,128,Irrigation,21
+1210305,Ogallala (High Plains),Donley,34.851389,-100.753334,160,Irrigation,20
+1210310,Ogallala (High Plains),Donley,34.851389,-100.7675,130,Irrigation,19
+1210353,Ogallala (High Plains),Donley,34.8697222,-100.7658333,,Irrigation,15
+1210401,Ogallala (High Plains),Donley,34.825,-100.872778,137,Stock,17
+1210513,Ogallala (High Plains),Donley,34.8211111,-100.8286111,,Stock,17
+1211207,Ogallala (High Plains),Donley,34.87,-100.7052778,195,Irrigation,21
+1211310,Ogallala (High Plains),Donley,34.8490861,-100.6347917,182,Irrigation,21
+1211353,Ogallala (High Plains),Donley,34.8375,-100.662778,213,Unused,21
+1211404,Ogallala (High Plains),Donley,34.829722,-100.7325,210,Irrigation,20
+1211508,Ogallala (High Plains),Donley,34.8327778,-100.6866667,205,Irrigation,15
+1212104,Ogallala (High Plains),Donley,34.8594444,-100.6111111,217,Irrigation,18
+1212112,Ogallala (High Plains),Donley,34.840834,-100.611389,,,16
+1212552,Ogallala (High Plains),Donley,34.8327778,-100.5491667,,Domestic,15
+2217102,Ogallala (High Plains),Dickens,33.7336111,-100.9947222,421,Domestic,15
+2301401,Ogallala (High Plains),Hale,33.929722,-101.969722,350,Irrigation,23
+2301704,Ogallala (High Plains),Hale,33.913889,-101.995,,Irrigation,23
+2301802,Ogallala (High Plains),Hale,33.915278,-101.940556,345,Irrigation,22
+2301901,Ogallala (High Plains),Hale,33.883889,-101.888611,202,Unused,23
+2302104,Ogallala (High Plains),Hale,33.9775,-101.853056,330,Irrigation,24
+2302302,Ogallala (High Plains),Hale,33.963334,-101.780278,162,Unused,23
+2302411,Ogallala (High Plains),Hale,33.931389,-101.853056,,Irrigation,21
+2302501,Ogallala (High Plains),Hale,33.933611,-101.809723,351,Irrigation,22
+2302703,Ogallala (High Plains),Hale,33.875833,-101.846389,,Unused,23
+2302801,Ogallala (High Plains),Hale,33.876111,-101.796667,220,Irrigation,23
+2302901,Ogallala (High Plains),Hale,33.911667,-101.765834,374,Irrigation,22
+2303103,Ogallala (High Plains),Hale,33.981667,-101.720833,140,Unused,23
+2303201,Ogallala (High Plains),Hale,33.977778,-101.676944,201,Irrigation,23
+2303304,Ogallala (High Plains),Hale,33.969444,-101.635556,200,Irrigation,23
+2303513,Ogallala (High Plains),Hale,33.948889,-101.684167,,Irrigation,20
+2303702,Ogallala (High Plains),Hale,33.906667,-101.731389,238,Irrigation,23
+2303802,Ogallala (High Plains),Hale,33.879167,-101.700278,,Irrigation,24
+2303903,Ogallala (High Plains),Hale,33.898334,-101.660278,,Unused,24
+2304106,Ogallala (High Plains),Hale,33.963056,-101.591945,320,Irrigation,23
+2304405,Ogallala (High Plains),Hale,33.934445,-101.623333,,Unused,23
+2304504,Ogallala (High Plains),Floyd,33.9505556,-101.5511111,384,Irrigation,16
+2304602,Ogallala (High Plains),Floyd,33.940556,-101.531111,325,Irrigation,24
+2304603,Ogallala (High Plains),Floyd,33.921944,-101.535556,388,Irrigation,21
+2304701,Ogallala (High Plains),Hale,33.886111,-101.606667,180,Unused,23
+2304802,Ogallala (High Plains),Floyd,33.900278,-101.548334,388,Irrigation,23
+2305202,Ogallala (High Plains),Floyd,33.977222,-101.444445,412,Irrigation,23
+2305301,Ogallala (High Plains),Floyd,33.981389,-101.394445,331,Irrigation,21
+2305602,Ogallala (High Plains),Floyd,33.952778,-101.376667,365,Irrigation,23
+2305701,Ogallala (High Plains),Floyd,33.910278,-101.4875,440,Irrigation,22
+2305803,Ogallala (High Plains),Floyd,33.891667,-101.428333,426,Irrigation,23
+2306113,Ogallala (High Plains),Floyd,33.9930556,-101.3422222,210,Unknown,23
+2306303,Ogallala (High Plains),Floyd,33.992778,-101.273333,264,Irrigation,23
+2306503,Ogallala (High Plains),Floyd,33.948611,-101.314167,373,Irrigation,24
+2306504,Ogallala (High Plains),Floyd,33.919722,-101.306112,397,Irrigation,18
+2306601,Ogallala (High Plains),Floyd,33.934445,-101.271667,360,Irrigation,22
+2306704,Ogallala (High Plains),Floyd,33.905001,-101.351945,400,Irrigation,22
+2307105,Ogallala (High Plains),Floyd,33.989722,-101.220278,360,Unused,21
+2307404,Ogallala (High Plains),Floyd,33.928889,-101.230555,353,Irrigation,23
+2307501,Ogallala (High Plains),Floyd,33.9311111,-101.1733333,,Irrigation,22
+2307505,Ogallala (High Plains),Floyd,33.925278,-101.185,367,Irrigation,19
+2307702,Ogallala (High Plains),Floyd,33.8888889,-101.2466667,310,Unused,17
+2307901,Ogallala (High Plains),Floyd,33.898611,-101.159723,391,Irrigation,23
+2308201,Ogallala (High Plains),Floyd,33.973611,-101.059167,355,Irrigation,24
+2308401,Ogallala (High Plains),Floyd,33.950556,-101.115556,376,Irrigation,24
+2308503,Ogallala (High Plains),Floyd,33.934445,-101.064167,385,Irrigation,24
+2308701,Ogallala (High Plains),Floyd,33.906112,-101.114167,358,Irrigation,24
+2309106,Ogallala (High Plains),Hale,33.861667,-101.961112,186,Irrigation,22
+2309201,Ogallala (High Plains),Hale,33.839167,-101.920833,142,Unused,23
+2309501,Ogallala (High Plains),Lubbock,33.8094444,-101.9577778,215,Unused,22
+2309601,Ogallala (High Plains),Lubbock,33.8225,-101.9155556,160,Unused,21
+2310112,Ogallala (High Plains),Hale,33.846945,-101.866944,,Irrigation,22
+2310203,Ogallala (High Plains),Hale,33.837222,-101.794722,,Irrigation,21
+2310502,Ogallala (High Plains),Lubbock,33.798334,-101.814723,300,Irrigation,22
+2310703,Ogallala (High Plains),Lubbock,33.7725,-101.853612,200,Irrigation,22
+2311103,Ogallala (High Plains),Hale,33.837778,-101.726111,280,Irrigation,23
+2311401,Ogallala (High Plains),Lubbock,33.810834,-101.726111,,Irrigation,22
+2311601,Ogallala (High Plains),Lubbock,33.7986111,-101.6361111,342,Irrigation,22
+2311702,Ogallala (High Plains),Lubbock,33.781667,-101.748334,300,Irrigation,22
+2311801,Ogallala (High Plains),Lubbock,33.766389,-101.705834,350,Irrigation,23
+2311904,Ogallala (High Plains),Lubbock,33.764445,-101.630833,291,Irrigation,17
+2312102,Ogallala (High Plains),Hale,33.860001,-101.595278,340,Unused,22
+2312401,Ogallala (High Plains),Lubbock,33.7955556,-101.6125,365,Irrigation,22
+2312402,Ogallala (High Plains),Lubbock,33.8252778,-101.5947222,,Irrigation,19
+2312608,Ogallala (High Plains),Crosby,33.819722,-101.521111,375,Irrigation,19
+2312801,Ogallala (High Plains),Crosby,33.7613889,-101.5602778,320,Irrigation,23
+2312803,Ogallala (High Plains),Lubbock,33.751112,-101.565001,278,Irrigation,22
+2312902,Ogallala (High Plains),Crosby,33.7672222,-101.5077778,350,Irrigation,22
+2313102,Ogallala (High Plains),Floyd,33.865001,-101.465556,410,Irrigation,18
+2313302,Ogallala (High Plains),Floyd,33.868333,-101.406945,400,Irrigation,22
+2313303,Ogallala (High Plains),Floyd,33.836389,-101.3875,340,Irrigation,22
+2313402,Ogallala (High Plains),Crosby,33.814723,-101.483055,,Irrigation,21
+2313502,Ogallala (High Plains),Crosby,33.821111,-101.444167,355,Irrigation,21
+2313805,Ogallala (High Plains),Crosby,33.7725,-101.457223,,Irrigation,21
+2313904,Ogallala (High Plains),Crosby,33.772778,-101.403056,,Irrigation,21
+2314101,Ogallala (High Plains),Floyd,33.854167,-101.335834,375,Irrigation,20
+2314202,Ogallala (High Plains),Floyd,33.870278,-101.300834,392,Irrigation,19
+2314403,Ogallala (High Plains),Crosby,33.799167,-101.364723,353,Irrigation,21
+2314602,Ogallala (High Plains),Crosby,33.7975,-101.283611,,Irrigation,22
+2314803,Ogallala (High Plains),Crosby,33.769167,-101.316944,,Irrigation,21
+2315204,Ogallala (High Plains),Floyd,33.860834,-101.168611,418,Irrigation,24
+2315403,Ogallala (High Plains),Crosby,33.829444,-101.249722,,Unused,22
+2315501,Ogallala (High Plains),Crosby,33.8213889,-101.205,400,Irrigation,20
+2315606,Ogallala (High Plains),Crosby,33.814723,-101.1325,,Irrigation,22
+2315701,Ogallala (High Plains),Crosby,33.756389,-101.220833,,Irrigation,22
+2315801,Ogallala (High Plains),Crosby,33.7516667,-101.1680556,350,Unused,17
+2316101,Ogallala (High Plains),Floyd,33.861112,-101.116389,398,Irrigation,24
+2316501,Ogallala (High Plains),Crosby,33.816112,-101.065834,408,Unused,22
+2316801,Ogallala (High Plains),Crosby,33.7837722,-101.0698056,,Irrigation,21
+2316912,Ogallala (High Plains),Dickens,33.7505556,-101.0205556,416,Unused,18
+2317104,Ogallala (High Plains),Lubbock,33.718889,-101.983055,171,Irrigation,21
+2317202,Ogallala (High Plains),Lubbock,33.7338889,-101.9397222,212,Irrigation,22
+2317406,Ogallala (High Plains),Lubbock,33.671111,-101.961945,140,Irrigation,21
+2317506,Ogallala (High Plains),Lubbock,33.679167,-101.925,148,Irrigation,21
+2317704,Ogallala (High Plains),Lubbock,33.650556,-101.973333,,Irrigation,21
+2317901,Ogallala (High Plains),Lubbock,33.628055,-101.916389,,Irrigation,21
+2318109,Ogallala (High Plains),Lubbock,33.7330556,-101.8361111,210,Irrigation,18
+2318409,Ogallala (High Plains),Lubbock,33.699445,-101.845278,194,Irrigation,21
+2318704,Ogallala (High Plains),Lubbock,33.636111,-101.869722,,Irrigation,22
+2318712,Ogallala (High Plains),Lubbock,33.654723,-101.838334,198,Unused,20
+2318802,Ogallala (High Plains),Lubbock,33.646111,-101.792778,212,Irrigation,22
+2319103,Ogallala (High Plains),Lubbock,33.708889,-101.740556,,Irrigation,21
+2319304,Ogallala (High Plains),Lubbock,33.7366667,-101.6538889,300,Unused,20
+2319501,Ogallala (High Plains),Lubbock,33.7038889,-101.6772222,300,Unused,17
+2319601,Ogallala (High Plains),Lubbock,33.6937472,-101.6394944,357,Irrigation,22
+2319818,Ogallala (High Plains),Lubbock,33.6472722,-101.6668889,,Irrigation,21
+2320201,Ogallala (High Plains),Crosby,33.710278,-101.543611,,Irrigation,22
+2320305,Ogallala (High Plains),Crosby,33.734722,-101.526389,,Irrigation,22
+2320401,Ogallala (High Plains),Lubbock,33.707501,-101.595,335,Irrigation,19
+2320509,Ogallala (High Plains),Crosby,33.681944,-101.550278,,Irrigation,21
+2320615,Ogallala (High Plains),Crosby,33.68,-101.511945,,Unused,21
+2320701,Ogallala (High Plains),Lubbock,33.6525,-101.625,262,Unused,15
+2320805,Ogallala (High Plains),Lubbock,33.665001,-101.578611,324,Irrigation,22
+2320906,Ogallala (High Plains),Crosby,33.651112,-101.505834,,Irrigation,21
+2321101,Ogallala (High Plains),Crosby,33.7211111,-101.4825,,Irrigation,22
+2321706,Ogallala (High Plains),Crosby,33.665556,-101.483055,345,Irrigation,22
+2321801,Ogallala (High Plains),Crosby,33.665834,-101.434445,367,Irrigation,22
+2321903,Ogallala (High Plains),Crosby,33.660125,-101.403025,,Irrigation,22
+2322102,Ogallala (High Plains),Crosby,33.74,-101.350556,,Irrigation,22
+2322305,Ogallala (High Plains),Crosby,33.7186111,-101.2625,,Irrigation,22
+2322502,Ogallala (High Plains),Crosby,33.696111,-101.298056,,Unused,22
+2322704,Ogallala (High Plains),Crosby,33.645278,-101.335278,,Unused,21
+2322907,Ogallala (High Plains),Crosby,33.649167,-101.263334,,Irrigation,18
+2323302,Ogallala (High Plains),Crosby,33.715278,-101.164723,,Irrigation,22
+2324203,Ogallala (High Plains),Crosby,33.7394444,-101.0438889,,Irrigation,23
+2324505,Ogallala (High Plains),Crosby,33.703056,-101.059167,,Irrigation,22
+2325304,Ogallala (High Plains),Lubbock,33.592778,-101.898334,150,Unused,21
+2325401,Ogallala (High Plains),Lubbock,33.581944,-101.976111,208,Unused,20
+2325504,Ogallala (High Plains),Lubbock,33.563334,-101.939722,140,Irrigation,20
+2325803,Ogallala (High Plains),Lubbock,33.54,-101.957223,150,Unused,21
+2325904,Ogallala (High Plains),Lubbock,33.511667,-101.885834,108,Irrigation,19
+2325908,Ogallala (High Plains),Lubbock,33.535834,-101.905278,107,Unused,22
+2326207,Ogallala (High Plains),Lubbock,33.584722,-101.805556,118,Irrigation,22
+2326301,Ogallala (High Plains),Lubbock,33.608612,-101.768889,130,Irrigation,22
+2326604,Ogallala (High Plains),Lubbock,33.541945,-101.785834,112,Unused,22
+2326802,Ogallala (High Plains),Lubbock,33.5225,-101.816112,130,Irrigation,22
+2327207,Ogallala (High Plains),Lubbock,33.623889,-101.679444,253,Irrigation,22
+2327211,Ogallala (High Plains),Lubbock,33.600556,-101.678889,210,Irrigation,20
+2327302,Ogallala (High Plains),Lubbock,33.6077778,-101.6377778,210,Irrigation,15
+2327402,Ogallala (High Plains),Lubbock,33.543889,-101.727222,115,Irrigation,22
+2327601,Ogallala (High Plains),Lubbock,33.570833,-101.646667,160,Irrigation,22
+2327603,Ogallala (High Plains),Lubbock,33.546389,-101.655001,118,Unused,22
+2327721,Ogallala (High Plains),Lubbock,33.517778,-101.728611,135,Irrigation,22
+2328203,Ogallala (High Plains),Lubbock,33.609167,-101.581389,280,Irrigation,22
+2328310,Ogallala (High Plains),Crosby,33.6236111,-101.5266667,,Irrigation,22
+2328503,Ogallala (High Plains),Lubbock,33.569444,-101.582778,224,Irrigation,19
+2328602,Ogallala (High Plains),Crosby,33.5536111,-101.5313889,,Irrigation,22
+2328901,Ogallala (High Plains),Crosby,33.505556,-101.532222,,Irrigation,19
+2329201,Ogallala (High Plains),Crosby,33.5875,-101.435278,260,Unused,22
+2329302,Ogallala (High Plains),Crosby,33.602778,-101.393889,306,Irrigation,21
+2329402,Ogallala (High Plains),Crosby,33.569722,-101.475,,Irrigation,20
+2329602,Ogallala (High Plains),Crosby,33.552778,-101.396667,,Irrigation,21
+2329702,Ogallala (High Plains),Crosby,33.53,-101.462501,,Irrigation,20
+2330103,Ogallala (High Plains),Crosby,33.587675,-101.3417417,300,Irrigation,24
+2330201,Ogallala (High Plains),Crosby,33.616389,-101.310278,,Irrigation,22
+2330402,Ogallala (High Plains),Crosby,33.551389,-101.351389,,Irrigation,22
+2330502,Ogallala (High Plains),Crosby,33.561112,-101.299167,294,Unused,22
+2330901,Ogallala (High Plains),Crosby,33.522222,-101.269167,311,Irrigation,21
+2331101,Ogallala (High Plains),Crosby,33.608334,-101.2375,300,Unused,22
+2333301,Ogallala (High Plains),Lubbock,33.4897222,-101.8958333,152,Irrigation,15
+2333401,Ogallala (High Plains),Lubbock,33.4275,-101.996667,,Irrigation,21
+2333601,Ogallala (High Plains),Lubbock,33.420833,-101.898056,,Irrigation,20
+2333603,Ogallala (High Plains),Lubbock,33.4472222,-101.9116667,,Unused,16
+2333801,Ogallala (High Plains),Lubbock,33.415001,-101.949722,,Irrigation,22
+2333901,Ogallala (High Plains),Lubbock,33.406945,-101.875833,149,Irrigation,22
+2334202,Ogallala (High Plains),Lubbock,33.488889,-101.795834,173,Irrigation,22
+2334402,Ogallala (High Plains),Lubbock,33.4313889,-101.8641667,1499,Irrigation,22
+2334502,Ogallala (High Plains),Lubbock,33.421389,-101.803612,195,Irrigation,21
+2334801,Ogallala (High Plains),Lubbock,33.399167,-101.810834,185,Irrigation,22
+2334903,Ogallala (High Plains),Lynn,33.389722,-101.779167,199,Irrigation,22
+2335101,Ogallala (High Plains),Lubbock,33.475833,-101.728889,110,Irrigation,22
+2335502,Ogallala (High Plains),Lubbock,33.448611,-101.680833,,Irrigation,21
+2335503,Ogallala (High Plains),Lubbock,33.424722,-101.701945,275,Irrigation,22
+2335704,Ogallala (High Plains),Lynn,33.382222,-101.740278,280,Irrigation,20
+2335707,Ogallala (High Plains),Lubbock,33.399722,-101.723333,240,Irrigation,22
+2335710,Ogallala (High Plains),Lubbock,33.412223,-101.713889,274,Irrigation,22
+2335801,Ogallala (High Plains),Lynn,33.3777778,-101.6872222,115,Unused,21
+2335810,Ogallala (High Plains),Lubbock,33.4065167,-101.6907306,,Irrigation,22
+2335901,Ogallala (High Plains),Lynn,33.388889,-101.642778,,Irrigation,21
+2335902,Ogallala (High Plains),Lubbock,33.4102778,-101.6380556,274,Irrigation,22
+2336201,Ogallala (High Plains),Lubbock,33.496389,-101.580833,110,Irrigation,21
+2336301,Ogallala (High Plains),Crosby,33.4914139,-101.5100694,350,Irrigation,21
+2336401,Ogallala (High Plains),Lubbock,33.445278,-101.594167,150,Irrigation,22
+2336701,Ogallala (High Plains),Lubbock,33.411112,-101.590556,185,Irrigation,21
+2336702,Ogallala (High Plains),Lubbock,33.410834,-101.585278,304,Irrigation,22
+2336801,Ogallala (High Plains),Garza,33.376625,-101.5557583,166,Irrigation,19
+2336806,Ogallala (High Plains),Lynn,33.376667,-101.566944,218,Irrigation,22
+2338102,Ogallala (High Plains),Crosby,33.4958333,-101.3675,,Unused,17
+2341202,Ogallala (High Plains),Lynn,33.346389,-101.956945,178,Irrigation,20
+2341204,Ogallala (High Plains),Lynn,33.370555,-101.951389,138,Irrigation,21
+2341301,Ogallala (High Plains),Lynn,33.371944,-101.887222,194,Irrigation,20
+2341302,Ogallala (High Plains),Lynn,33.355834,-101.891111,151,Unused,23
+2341401,Ogallala (High Plains),Lynn,33.293611,-101.983055,132,Irrigation,22
+2341402,Ogallala (High Plains),Lynn,33.326944,-101.985556,135,Irrigation,22
+2341501,Ogallala (High Plains),Lynn,33.326111,-101.935834,,Irrigation,21
+2341804,Ogallala (High Plains),Lynn,33.2780444,-101.9460444,142,Irrigation,22
+2341901,Ogallala (High Plains),Lynn,33.285278,-101.909167,160,Irrigation,22
+2341902,Ogallala (High Plains),Lynn,33.282222,-101.886389,145,Irrigation,20
+2342101,Ogallala (High Plains),Lynn,33.365556,-101.842222,,Unused,23
+2342301,Ogallala (High Plains),Lynn,33.359723,-101.778611,156,Irrigation,22
+2342309,Ogallala (High Plains),Lynn,33.374167,-101.768889,188,Irrigation,21
+2342401,Ogallala (High Plains),Lynn,33.328889,-101.851389,152,Irrigation,23
+2342502,Ogallala (High Plains),Lynn,33.308889,-101.824444,124,Irrigation,23
+2342601,Ogallala (High Plains),Lynn,33.298334,-101.756112,93,Irrigation,21
+2342602,Ogallala (High Plains),Lynn,33.323611,-101.761112,136,Irrigation,22
+2342801,Ogallala (High Plains),Lynn,33.2830806,-101.8077417,103,Unused,20
+2342803,Ogallala (High Plains),Lynn,33.260278,-101.803056,98,Irrigation,21
+2343201,Ogallala (High Plains),Lynn,33.338334,-101.687778,97,Unused,21
+2343301,Ogallala (High Plains),Lynn,33.359445,-101.629167,,Irrigation,20
+2343502,Ogallala (High Plains),Lynn,33.309723,-101.704723,120,Irrigation,22
+2343504,Ogallala (High Plains),Lynn,33.300556,-101.670555,133,Irrigation,21
+2343601,Ogallala (High Plains),Lynn,33.316389,-101.634722,,Irrigation,21
+2343901,Ogallala (High Plains),Lynn,33.287222,-101.653056,,Irrigation,22
+2343902,Ogallala (High Plains),Lynn,33.265925,-101.6331917,50,Unused,21
+2344101,Ogallala (High Plains),Lynn,33.3613889,-101.6038889,103,Irrigation,20
+2344401,Ogallala (High Plains),Lynn,33.323889,-101.588611,150,Unused,18
+2344702,Ogallala (High Plains),Lynn,33.285278,-101.593334,,Irrigation,22
+2344904,Ogallala (High Plains),Garza,33.2548722,-101.5312722,127,Domestic,19
+2349101,Ogallala (High Plains),Lynn,33.2466667,-101.9802778,140,Irrigation,21
+2349801,Ogallala (High Plains),Lynn,33.1633333,-101.9238889,85,Unused,15
+2350506,Ogallala (High Plains),Lynn,33.1925,-101.806667,,Irrigation,23
+2350802,Ogallala (High Plains),Lynn,33.153612,-101.801667,,Irrigation,21
+2350901,Ogallala (High Plains),Lynn,33.1647222,-101.7563889,,Irrigation,21
+2351101,Ogallala (High Plains),Lynn,33.210001,-101.725,,Unused,22
+2351505,Ogallala (High Plains),Lynn,33.180555,-101.705278,,Irrigation,22
+2351901,Ogallala (High Plains),Lynn,33.13,-101.631944,75,Irrigation,22
+2352101,Ogallala (High Plains),Lynn,33.229444,-101.596111,98,Irrigation,22
+2352701,Ogallala (High Plains),Lynn,33.166112,-101.615834,60,Irrigation,21
+2352803,Ogallala (High Plains),Lynn,33.151389,-101.560278,,Irrigation,22
+2353703,Ogallala (High Plains),Garza,33.13575,-101.4755556,,Stock,17
+2353901,Ogallala (High Plains),Garza,33.1399306,-101.4116417,180,Industrial,18
+2357302,Ogallala (High Plains),Lynn,33.122222,-101.916389,70,Unused,22
+2357705,Ogallala (High Plains),Lynn,33.021667,-101.960001,,Irrigation,21
+2358702,Ogallala (High Plains),Lynn,33.005834,-101.854167,,Unused,22
+2358902,Ogallala (High Plains),Lynn,33.0054472,-101.7718972,69,Unused,22
+2359101,Ogallala (High Plains),Lynn,33.111389,-101.736389,85,Irrigation,20
+2359602,Ogallala (High Plains),Lynn,33.070555,-101.631111,,Irrigation,21
+2359801,Ogallala (High Plains),Lynn,33.0238889,-101.7002778,80,Irrigation,18
+2401104,Ogallala (High Plains),Bailey,33.960278,-102.992778,,Unused,22
+2401201,Ogallala (High Plains),Bailey,33.974444,-102.951112,,Unused,20
+2401501,Ogallala (High Plains),Bailey,33.930555,-102.940278,200,Irrigation,21
+2401601,Ogallala (High Plains),Bailey,33.944722,-102.909445,175,Irrigation,22
+2401701,Ogallala (High Plains),Bailey,33.9016667,-102.9638889,193,Unused,21
+2402301,Ogallala (High Plains),Bailey,33.998056,-102.784445,80,Unused,22
+2402501,Ogallala (High Plains),Bailey,33.936945,-102.830555,,Stock,22
+2402701,Ogallala (High Plains),Bailey,33.904167,-102.850556,95,Unused,22
+2402702,Ogallala (High Plains),Bailey,33.900834,-102.867778,83,Unused,21
+2403102,Ogallala (High Plains),Bailey,33.986667,-102.716944,95,Stock,20
+2403201,Ogallala (High Plains),Bailey,33.9725,-102.67,,Irrigation,19
+2403501,Ogallala (High Plains),Bailey,33.956667,-102.700556,,Unused,22
+2403602,Ogallala (High Plains),Bailey,33.934445,-102.663056,,Irrigation,20
+2403901,Ogallala (High Plains),Bailey,33.892778,-102.6475,68,Unused,18
+2404301,Ogallala (High Plains),Lamb,33.966667,-102.536667,150,Irrigation,22
+2404501,Ogallala (High Plains),Lamb,33.949167,-102.570555,,Irrigation,20
+2404801,Ogallala (High Plains),Lamb,33.911389,-102.560001,,Unused,19
+2405102,Ogallala (High Plains),Lamb,33.965834,-102.481667,110,Irrigation,22
+2405304,Ogallala (High Plains),Lamb,33.987222,-102.411667,131,Unused,20
+2405502,Ogallala (High Plains),Lamb,33.930555,-102.418611,132,Unused,22
+2405801,Ogallala (High Plains),Lamb,33.906389,-102.419444,,Unused,20
+2406102,Ogallala (High Plains),Lamb,33.991389,-102.354167,188,Unused,22
+2406301,Ogallala (High Plains),Lamb,33.9955556,-102.2866667,,Irrigation,22
+2406402,Ogallala (High Plains),Lamb,33.946667,-102.360556,176,Irrigation,22
+2406512,Ogallala (High Plains),Lamb,33.926111,-102.306945,,Irrigation,22
+2406903,Ogallala (High Plains),Lamb,33.885556,-102.268055,148,Irrigation,22
+2407101,Ogallala (High Plains),Lamb,33.9852139,-102.2425056,213,Irrigation,21
+2407203,Ogallala (High Plains),Lamb,33.9675,-102.18,250,Irrigation,22
+2407402,Ogallala (High Plains),Lamb,33.9555556,-102.2472222,192,Irrigation,21
+2407605,Ogallala (High Plains),Lamb,33.931111,-102.153889,203,Irrigation,21
+2407701,Ogallala (High Plains),Lamb,33.914445,-102.216112,178,Irrigation,22
+2408205,Ogallala (High Plains),Hale,33.999167,-102.052223,,Irrigation,21
+2408301,Ogallala (High Plains),Hale,33.9925,-102.014723,341,Irrigation,22
+2408402,Ogallala (High Plains),Lamb,33.9533333,-102.1011111,197,Unused,23
+2408501,Ogallala (High Plains),Hale,33.943056,-102.054445,271,Irrigation,23
+2408602,Ogallala (High Plains),Hale,33.941111,-102.010556,331,Irrigation,24
+2408902,Ogallala (High Plains),Hale,33.885278,-102.013056,302,Irrigation,23
+2409103,Ogallala (High Plains),Bailey,33.857501,-102.978611,219,Irrigation,22
+2409302,Ogallala (High Plains),Bailey,33.8725,-102.887778,173,Unused,22
+2409401,Ogallala (High Plains),Cochran,33.7983333,-102.9722222,150,Unused,17
+2409501,Ogallala (High Plains),Bailey,33.831944,-102.933055,217,Irrigation,21
+2409801,Ogallala (High Plains),Cochran,33.761945,-102.956389,177,Irrigation,21
+2409901,Ogallala (High Plains),Cochran,33.765001,-102.896945,193,Irrigation,20
+2410101,Ogallala (High Plains),Bailey,33.855278,-102.863889,138,Irrigation,21
+2410102,Ogallala (High Plains),Bailey,33.855834,-102.839445,270,Irrigation,22
+2410201,Ogallala (High Plains),Bailey,33.870278,-102.828055,207,Irrigation,22
+2410303,Ogallala (High Plains),Bailey,33.846111,-102.762501,162,Irrigation,22
+2410503,Ogallala (High Plains),Cochran,33.811667,-102.810001,134,Irrigation,22
+2410702,Ogallala (High Plains),Cochran,33.791111,-102.87,147,Irrigation,19
+2410903,Ogallala (High Plains),Cochran,33.778889,-102.791389,151,Unused,20
+2411202,Ogallala (High Plains),Bailey,33.846111,-102.707501,,Irrigation,22
+2411203,Ogallala (High Plains),Bailey,33.872778,-102.701112,139,Unused,19
+2411301,Ogallala (High Plains),Bailey,33.852778,-102.641111,70,Irrigation,22
+2411302,Ogallala (High Plains),Bailey,33.833889,-102.654167,105,Irrigation,21
+2411501,Ogallala (High Plains),Cochran,33.793889,-102.680278,,Irrigation,21
+2411803,Ogallala (High Plains),Cochran,33.753334,-102.669722,192,Irrigation,22
+2411805,Ogallala (High Plains),Cochran,33.790556,-102.703612,181,Irrigation,21
+2412101,Ogallala (High Plains),Lamb,33.8391667,-102.5958333,98,Unused,20
+2414101,Ogallala (High Plains),Lamb,33.861667,-102.345556,120,Domestic,19
+2414301,Ogallala (High Plains),Lamb,33.840556,-102.263612,108,Irrigation,22
+2414501,Ogallala (High Plains),Hockley,33.816112,-102.308056,143,Irrigation,23
+2414502,Ogallala (High Plains),Hockley,33.793611,-102.3325,,Irrigation,23
+2414601,Ogallala (High Plains),Hockley,33.791945,-102.264167,181,Irrigation,22
+2414701,Ogallala (High Plains),Hockley,33.762501,-102.364445,103,Irrigation,22
+2414903,Ogallala (High Plains),Hockley,33.7658333,-102.2813889,145,Irrigation,22
+2415108,Ogallala (High Plains),Lamb,33.874444,-102.208612,200,Irrigation,22
+2415504,Ogallala (High Plains),Hockley,33.799722,-102.172778,100,Unused,23
+2415507,Ogallala (High Plains),Hockley,33.815278,-102.204723,115,Irrigation,23
+2415605,Ogallala (High Plains),Hockley,33.804723,-102.143056,114,Irrigation,22
+2415701,Ogallala (High Plains),Hockley,33.778055,-102.212778,156,Unused,23
+2415802,Ogallala (High Plains),Hockley,33.7524528,-102.1737917,,Irrigation,23
+2415901,Ogallala (High Plains),Hockley,33.791667,-102.155001,85,Irrigation,23
+2416208,Ogallala (High Plains),Hale,33.838889,-102.08,,Unused,23
+2416311,Ogallala (High Plains),Hale,33.836945,-102.001667,181,Unused,23
+2416405,Ogallala (High Plains),Hockley,33.805278,-102.088334,164,Irrigation,22
+2416601,Ogallala (High Plains),Lubbock,33.8225,-102.038611,,Unused,21
+2416706,Ogallala (High Plains),Hockley,33.784445,-102.121111,112,Unused,23
+2416707,Ogallala (High Plains),Hockley,33.757501,-102.104445,,Unused,23
+2416708,Ogallala (High Plains),Hockley,33.777222,-102.086667,,Irrigation,17
+2416901,Ogallala (High Plains),Lubbock,33.779167,-102.024167,196,Unused,22
+2417604,Ogallala (High Plains),Cochran,33.6863889,-102.9125,200,Irrigation,15
+2417701,Ogallala (High Plains),Cochran,33.643334,-102.965834,,Unused,22
+2417801,Ogallala (High Plains),Cochran,33.638056,-102.921667,203,Irrigation,22
+2417903,Ogallala (High Plains),Cochran,33.661945,-102.882778,,Unused,22
+2418103,Ogallala (High Plains),Cochran,33.726111,-102.866389,190,Unused,20
+2418201,Ogallala (High Plains),Cochran,33.714723,-102.824444,254,Irrigation,22
+2418202,Ogallala (High Plains),Cochran,33.749445,-102.821944,190,Irrigation,22
+2418301,Ogallala (High Plains),Cochran,33.748611,-102.779167,181,Irrigation,22
+2418312,Ogallala (High Plains),Cochran,33.72,-102.774444,,Irrigation,20
+2418401,Ogallala (High Plains),Cochran,33.688611,-102.864723,194,Unused,22
+2418502,Ogallala (High Plains),Cochran,33.6802778,-102.83,248,Irrigation,18
+2418601,Ogallala (High Plains),Cochran,33.6884444,-102.7827472,238,Irrigation,22
+2418801,Ogallala (High Plains),Cochran,33.6566667,-102.8186111,,Irrigation,17
+2418901,Ogallala (High Plains),Cochran,33.660556,-102.770278,189,Irrigation,20
+2418904,Ogallala (High Plains),Cochran,33.643889,-102.765278,214,Irrigation,20
+2419301,Ogallala (High Plains),Cochran,33.7202778,-102.655,,Irrigation,20
+2419601,Ogallala (High Plains),Cochran,33.680833,-102.665556,,Irrigation,21
+2419702,Ogallala (High Plains),Cochran,33.636111,-102.731389,198,Irrigation,22
+2419703,Ogallala (High Plains),Cochran,33.663889,-102.721944,195,Irrigation,22
+2419902,Ogallala (High Plains),Cochran,33.642222,-102.644445,200,Irrigation,19
+2420102,Ogallala (High Plains),Hockley,33.733334,-102.607778,,Irrigation,22
+2420201,Ogallala (High Plains),Hockley,33.741111,-102.556112,230,Irrigation,23
+2420202,Ogallala (High Plains),Hockley,33.725,-102.541945,207,Irrigation,23
+2420603,Ogallala (High Plains),Hockley,33.671389,-102.534167,280,Irrigation,22
+2420701,Ogallala (High Plains),Hockley,33.647778,-102.588056,200,Irrigation,23
+2420901,Ogallala (High Plains),Hockley,33.637222,-102.531389,,Irrigation,22
+2421201,Ogallala (High Plains),Hockley,33.7411111,-102.4375,90,Unused,16
+2421301,Ogallala (High Plains),Hockley,33.717222,-102.383334,140,Irrigation,23
+2421401,Ogallala (High Plains),Hockley,33.693611,-102.459445,,Irrigation,23
+2421402,Ogallala (High Plains),Hockley,33.703334,-102.488889,,Unused,22
+2421702,Ogallala (High Plains),Hockley,33.6544444,-102.4880556,255,Irrigation,22
+2421803,Ogallala (High Plains),Hockley,33.639167,-102.453056,224,Irrigation,19
+2421904,Ogallala (High Plains),Hockley,33.656389,-102.402501,247,Irrigation,22
+2421905,Ogallala (High Plains),Hockley,33.6405556,-102.3752778,218,Irrigation,16
+2422201,Ogallala (High Plains),Hockley,33.7380556,-102.3222222,116,Irrigation,19
+2422202,Ogallala (High Plains),Hockley,33.730833,-102.293334,116,Irrigation,23
+2422602,Ogallala (High Plains),Hockley,33.6772222,-102.2577778,135,Irrigation,16
+2422802,Ogallala (High Plains),Hockley,33.646389,-102.305556,163,Irrigation,23
+2423102,Ogallala (High Plains),Hockley,33.734445,-102.222222,167,Irrigation,23
+2423304,Ogallala (High Plains),Hockley,33.718889,-102.165278,162,Irrigation,23
+2423305,Ogallala (High Plains),Hockley,33.726389,-102.1375,200,Irrigation,23
+2423502,Ogallala (High Plains),Hockley,33.690278,-102.208334,176,Irrigation,23
+2423701,Ogallala (High Plains),Hockley,33.652223,-102.227778,150,Irrigation,23
+2424301,Ogallala (High Plains),Lubbock,33.726111,-102.031944,176,Irrigation,21
+2424402,Ogallala (High Plains),Hockley,33.696667,-102.113334,190,Irrigation,21
+2424602,Ogallala (High Plains),Lubbock,33.689167,-102.001112,117,Irrigation,22
+2424703,Ogallala (High Plains),Hockley,33.642222,-102.12,202,Unused,23
+2424804,Ogallala (High Plains),Lubbock,33.6505556,-102.0438889,207,Irrigation,15
+2424903,Ogallala (High Plains),Lubbock,33.6576611,-102.0093472,199,Irrigation,15
+2425401,Ogallala (High Plains),Cochran,33.5638889,-102.9886111,,Stock,19
+2426101,Ogallala (High Plains),Cochran,33.621111,-102.862778,206,Irrigation,22
+2426501,Ogallala (High Plains),Cochran,33.5722222,-102.8275,,Irrigation,22
+2426702,Ogallala (High Plains),Cochran,33.511945,-102.868611,,Unused,22
+2427201,Ogallala (High Plains),Cochran,33.619444,-102.675555,,Irrigation,23
+2427301,Ogallala (High Plains),Cochran,33.601389,-102.641389,,Irrigation,21
+2427901,Ogallala (High Plains),Cochran,33.529167,-102.638056,,Unused,23
+2428103,Ogallala (High Plains),Hockley,33.604723,-102.601112,212,Irrigation,23
+2428203,Ogallala (High Plains),Hockley,33.610556,-102.544722,219,Irrigation,22
+2428303,Ogallala (High Plains),Hockley,33.595556,-102.502778,210,Unused,22
+2428401,Ogallala (High Plains),Cochran,33.571944,-102.618055,283,Irrigation,22
+2428501,Ogallala (High Plains),Hockley,33.560278,-102.565834,244,Irrigation,22
+2428601,Ogallala (High Plains),Hockley,33.567222,-102.511667,231,Irrigation,22
+2428801,Ogallala (High Plains),Hockley,33.5204833,-102.5666,,Irrigation,16
+2428901,Ogallala (High Plains),Hockley,33.511112,-102.514723,232,Irrigation,22
+2429308,Ogallala (High Plains),Hockley,33.6022222,-102.4038889,207,Unused,22
+2429401,Ogallala (High Plains),Hockley,33.544167,-102.470278,212,Irrigation,22
+2429603,Ogallala (High Plains),Hockley,33.550834,-102.401389,173,Unused,22
+2429901,Ogallala (High Plains),Hockley,33.509723,-102.378055,,Irrigation,22
+2430108,Ogallala (High Plains),Hockley,33.602223,-102.338611,,Irrigation,16
+2430409,Ogallala (High Plains),Hockley,33.573055,-102.358056,230,Irrigation,23
+2430502,Ogallala (High Plains),Hockley,33.581944,-102.299722,186,Irrigation,22
+2430801,Ogallala (High Plains),Hockley,33.520278,-102.321667,268,Irrigation,22
+2430901,Ogallala (High Plains),Hockley,33.523333,-102.267778,210,Irrigation,22
+2431101,Ogallala (High Plains),Hockley,33.607223,-102.236945,132,Irrigation,22
+2431304,Ogallala (High Plains),Hockley,33.614445,-102.155834,140,Irrigation,22
+2431402,Ogallala (High Plains),Hockley,33.549722,-102.241389,,Irrigation,22
+2431501,Ogallala (High Plains),Hockley,33.556112,-102.181667,140,Irrigation,23
+2431601,Ogallala (High Plains),Hockley,33.583055,-102.127778,146,Unused,23
+2431902,Ogallala (High Plains),Hockley,33.534167,-102.145278,161,Unused,23
+2432203,Ogallala (High Plains),Lubbock,33.621111,-102.072222,,Unused,21
+2432317,Ogallala (High Plains),Lubbock,33.5875,-102.013612,199,Irrigation,22
+2432318,Ogallala (High Plains),Lubbock,33.609445,-102.035,150,Unused,21
+2432406,Ogallala (High Plains),Hockley,33.558334,-102.090278,145,Irrigation,23
+2432502,Ogallala (High Plains),Lubbock,33.582778,-102.076389,190,Irrigation,21
+2432608,Ogallala (High Plains),Lubbock,33.548611,-102.020555,203,Irrigation,22
+2432702,Ogallala (High Plains),Hockley,33.506945,-102.115834,176,Irrigation,23
+2433401,Ogallala (High Plains),Cochran,33.454167,-102.968611,,Unused,22
+2433502,Ogallala (High Plains),Cochran,33.447778,-102.950278,232,Irrigation,20
+2433703,Ogallala (High Plains),Cochran,33.411389,-102.995278,,Irrigation,22
+2433801,Ogallala (High Plains),Yoakum,33.385834,-102.952223,,Irrigation,18
+2433802,Ogallala (High Plains),Cochran,33.396389,-102.939445,223,Irrigation,21
+2434401,Ogallala (High Plains),Cochran,33.457778,-102.853056,,Irrigation,21
+2434801,Ogallala (High Plains),Cochran,33.403612,-102.813056,,Stock,21
+2435305,Ogallala (High Plains),Cochran,33.474167,-102.660556,,Irrigation,22
+2435401,Ogallala (High Plains),Cochran,33.4258333,-102.7272222,,Unused,18
+2435503,Ogallala (High Plains),Cochran,33.456945,-102.686945,,Mining,22
+2435601,Ogallala (High Plains),Cochran,33.443889,-102.631111,,Unused,22
+2436103,Ogallala (High Plains),Hockley,33.4933333,-102.5869444,,Stock,15
+2436302,Ogallala (High Plains),Hockley,33.477222,-102.519444,224,Unused,22
+2437101,Ogallala (High Plains),Hockley,33.461945,-102.475555,207,Irrigation,22
+2437204,Ogallala (High Plains),Hockley,33.498889,-102.449722,235,Unused,21
+2437308,Ogallala (High Plains),Hockley,33.478055,-102.392778,203,Irrigation,22
+2437502,Ogallala (High Plains),Hockley,33.4563889,-102.4202778,196,Irrigation,22
+2437703,Ogallala (High Plains),Terry,33.385,-102.490278,,,22
+2437901,Ogallala (High Plains),Hockley,33.4007278,-102.4024333,175,Irrigation,18
+2437903,Ogallala (High Plains),Hockley,33.401112,-102.389722,,,22
+2437904,Ogallala (High Plains),Terry,33.384722,-102.383611,,,21
+2438203,Ogallala (High Plains),Hockley,33.493611,-102.303889,262,Irrigation,22
+2438404,Ogallala (High Plains),Hockley,33.4458333,-102.3680556,195,Irrigation,19
+2438603,Ogallala (High Plains),Hockley,33.455556,-102.254167,,Irrigation,22
+2438701,Ogallala (High Plains),Hockley,33.4055278,-102.3649778,,Domestic,18
+2438801,Ogallala (High Plains),Hockley,33.415001,-102.310001,213,Irrigation,21
+2438902,Ogallala (High Plains),Terry,33.386667,-102.288889,,,20
+2439101,Ogallala (High Plains),Hockley,33.485556,-102.216112,208,Irrigation,22
+2439302,Ogallala (High Plains),Hockley,33.478333,-102.148889,196,Irrigation,23
+2439502,Ogallala (High Plains),Hockley,33.441111,-102.189167,,Irrigation,23
+2439702,Ogallala (High Plains),Hockley,33.4074056,-102.2331917,176,Irrigation,23
+2439803,Ogallala (High Plains),Terry,33.386667,-102.205278,,,19
+2439901,Ogallala (High Plains),Hockley,33.408889,-102.155556,,Irrigation,23
+2439904,Ogallala (High Plains),Terry,33.376944,-102.152778,150,Unused,18
+2440102,Ogallala (High Plains),Hockley,33.460834,-102.091389,,Irrigation,20
+2440207,Ogallala (High Plains),Lubbock,33.484167,-102.053612,195,Irrigation,19
+2440311,Ogallala (High Plains),Lubbock,33.483334,-102.013334,,Irrigation,22
+2440403,Ogallala (High Plains),Hockley,33.449722,-102.124444,205,Irrigation,22
+2440504,Ogallala (High Plains),Lubbock,33.441389,-102.0425,192,Irrigation,21
+2440603,Ogallala (High Plains),Lubbock,33.420833,-102.019167,146,Irrigation,22
+2440701,Ogallala (High Plains),Terry,33.384722,-102.1175,132,Irrigation,20
+2440703,Ogallala (High Plains),Hockley,33.407501,-102.098056,200,Irrigation,21
+2440903,Ogallala (High Plains),Lubbock,33.390278,-102.018055,,Irrigation,22
+2441402,Ogallala (High Plains),Yoakum,33.293611,-102.958889,220,Irrigation,16
+2441602,Ogallala (High Plains),Yoakum,33.300556,-102.899722,155,Irrigation,19
+2441802,Ogallala (High Plains),Yoakum,33.251389,-102.920278,118,Irrigation,18
+2441804,Ogallala (High Plains),Yoakum,33.255556,-102.939445,,Irrigation,19
+2442401,Ogallala (High Plains),Yoakum,33.331111,-102.874167,,Stock,16
+2442504,Ogallala (High Plains),Yoakum,33.315001,-102.818611,,,15
+2443403,Ogallala (High Plains),Yoakum,33.301667,-102.733055,,Unused,19
+2443501,Ogallala (High Plains),Yoakum,33.322778,-102.6975,,Stock,18
+2444101,Ogallala (High Plains),Yoakum,33.3441667,-102.61,,Stock,19
+2444201,Ogallala (High Plains),Terry,33.365001,-102.568333,,,23
+2444202,Ogallala (High Plains),Terry,33.359445,-102.545,,,23
+2444301,Ogallala (High Plains),Terry,33.358334,-102.521111,200,Irrigation,23
+2444501,Ogallala (High Plains),Terry,33.33,-102.565001,,Stock,23
+2444601,Ogallala (High Plains),Terry,33.323055,-102.518611,,,23
+2444602,Ogallala (High Plains),Terry,33.313889,-102.521389,,,22
+2444902,Ogallala (High Plains),Terry,33.271111,-102.501667,,,22
+2445201,Ogallala (High Plains),Terry,33.3541667,-102.4480556,,Plugged or Destroyed,18
+2445301,Ogallala (High Plains),Terry,33.336945,-102.410278,,Stock,23
+2445501,Ogallala (High Plains),Terry,33.308889,-102.443056,,Unused,23
+2445602,Ogallala (High Plains),Terry,33.320278,-102.412501,,Irrigation,23
+2445603,Ogallala (High Plains),Terry,33.292222,-102.394445,185,,23
+2445701,Ogallala (High Plains),Terry,33.279444,-102.468611,,,19
+2445902,Ogallala (High Plains),Terry,33.259445,-102.404723,160,Irrigation,23
+2446101,Ogallala (High Plains),Terry,33.357778,-102.344167,,Stock,23
+2446102,Ogallala (High Plains),Terry,33.354167,-102.362501,165,Irrigation,23
+2446201,Ogallala (High Plains),Terry,33.355556,-102.300556,,,19
+2446303,Ogallala (High Plains),Terry,33.340556,-102.280278,,Irrigation,20
+2446402,Ogallala (High Plains),Terry,33.2975,-102.348056,,,22
+2446403,Ogallala (High Plains),Terry,33.318333,-102.353889,,,17
+2446502,Ogallala (High Plains),Terry,33.316667,-102.300834,,,20
+2446802,Ogallala (High Plains),Terry,33.283334,-102.314167,168,Unused,21
+2446901,Ogallala (High Plains),Terry,33.281667,-102.253889,,,20
+2447201,Ogallala (High Plains),Terry,33.352223,-102.205001,88,Irrigation,20
+2447202,Ogallala (High Plains),Terry,33.333889,-102.186667,149,Irrigation,20
+2447301,Ogallala (High Plains),Terry,33.352778,-102.136945,,Irrigation,19
+2447402,Ogallala (High Plains),Terry,33.311667,-102.249445,,Irrigation,20
+2447501,Ogallala (High Plains),Terry,33.311389,-102.171944,132,Irrigation,20
+2447601,Ogallala (High Plains),Terry,33.311667,-102.149445,,Irrigation,19
+2447801,Ogallala (High Plains),Terry,33.2727778,-102.2052778,,Plugged or Destroyed,16
+2447903,Ogallala (High Plains),Terry,33.276389,-102.141667,,,19
+2448204,Ogallala (High Plains),Lynn,33.341389,-102.074167,152,Irrigation,21
+2448205,Ogallala (High Plains),Terry,33.362501,-102.0825,,,20
+2448302,Ogallala (High Plains),Lynn,33.347778,-102.014723,,Irrigation,21
+2448401,Ogallala (High Plains),Terry,33.324167,-102.102223,140,Irrigation,20
+2448402,Ogallala (High Plains),Terry,33.301112,-102.086389,,,17
+2448602,Ogallala (High Plains),Lynn,33.326389,-102.034722,120,Irrigation,20
+2448702,Ogallala (High Plains),Terry,33.261112,-102.090556,105,Unused,21
+2448901,Ogallala (High Plains),Lynn,33.255278,-102.009167,156,Irrigation,21
+2449101,Ogallala (High Plains),Yoakum,33.230278,-102.998334,,Unused,18
+2449201,Ogallala (High Plains),Yoakum,33.225,-102.931944,,Stock,16
+2449203,Ogallala (High Plains),Yoakum,33.211112,-102.952501,161,Irrigation,18
+2449303,Ogallala (High Plains),Yoakum,33.215556,-102.882778,,Stock,18
+2449401,Ogallala (High Plains),Yoakum,33.183889,-102.990834,165,Irrigation,15
+2449702,Ogallala (High Plains),Yoakum,33.148056,-102.960834,,Irrigation,17
+2449802,Ogallala (High Plains),Yoakum,33.1275,-102.9430556,,Unused,16
+2449903,Ogallala (High Plains),Yoakum,33.143889,-102.888611,,Domestic,17
+2450203,Ogallala (High Plains),Yoakum,33.215834,-102.826667,148,Domestic,16
+2450204,Ogallala (High Plains),Yoakum,33.246667,-102.816112,190,Stock,18
+2450402,Ogallala (High Plains),Yoakum,33.185834,-102.857778,,Irrigation,18
+2450501,Ogallala (High Plains),Yoakum,33.172778,-102.800834,80,Stock,17
+2450605,Ogallala (High Plains),Yoakum,33.185556,-102.762223,,,15
+2450801,Ogallala (High Plains),Yoakum,33.153056,-102.821389,,Domestic,19
+2451101,Ogallala (High Plains),Yoakum,33.245834,-102.73,,Irrigation,16
+2451201,Ogallala (High Plains),Yoakum,33.2111111,-102.68,,Unused,17
+2451602,Ogallala (High Plains),Yoakum,33.180278,-102.666112,,Irrigation,16
+2452202,Ogallala (High Plains),Terry,33.218333,-102.561112,,,21
+2452301,Ogallala (High Plains),Terry,33.214445,-102.528611,,Unused,23
+2452302,Ogallala (High Plains),Terry,33.246111,-102.516944,,,23
+2452401,Ogallala (High Plains),Terry,33.183055,-102.592778,123,,21
+2452701,Ogallala (High Plains),Yoakum,33.154723,-102.609445,130,Irrigation,16
+2452901,Ogallala (High Plains),Terry,33.136945,-102.535278,,,20
+2453101,Ogallala (High Plains),Terry,33.220833,-102.466944,,Irrigation,23
+2453202,Ogallala (High Plains),Terry,33.214723,-102.428333,225,,18
+2453401,Ogallala (High Plains),Terry,33.185834,-102.466389,143,Unused,21
+2453502,Ogallala (High Plains),Terry,33.167222,-102.429722,,,21
+2453602,Ogallala (High Plains),Terry,33.196389,-102.394167,,,22
+2453701,Ogallala (High Plains),Terry,33.150278,-102.481667,,,20
+2453901,Ogallala (High Plains),Terry,33.138334,-102.413334,150,Irrigation,22
+2453902,Ogallala (High Plains),Terry,33.1383333,-102.3808333,162,Plugged or Destroyed,19
+2454101,Ogallala (High Plains),Terry,33.228333,-102.356112,129,Irrigation,22
+2454103,Ogallala (High Plains),Terry,33.243611,-102.3725,,,18
+2454301,Ogallala (High Plains),Terry,33.239445,-102.256945,137,Irrigation,20
+2454304,Ogallala (High Plains),Terry,33.2425,-102.286945,,,21
+2454306,Ogallala (High Plains),Terry,33.212501,-102.288889,,,22
+2454401,Ogallala (High Plains),Terry,33.185,-102.364445,,Unused,20
+2454501,Ogallala (High Plains),Terry,33.198889,-102.325278,,,21
+2454702,Ogallala (High Plains),Terry,33.152501,-102.345834,,,22
+2454801,Ogallala (High Plains),Terry,33.155556,-102.309167,166,Unused,22
+2454901,Ogallala (High Plains),Terry,33.126667,-102.2875,160,Irrigation,21
+2454912,Ogallala (High Plains),Terry,33.166389,-102.250001,,,20
+2455101,Ogallala (High Plains),Terry,33.213334,-102.24,,Unused,19
+2455102,Ogallala (High Plains),Terry,33.248611,-102.226667,,Irrigation,20
+2455203,Ogallala (High Plains),Terry,33.245834,-102.175,,,20
+2455401,Ogallala (High Plains),Terry,33.184722,-102.225,110,Unused,21
+2455505,Ogallala (High Plains),Terry,33.181944,-102.174167,,,21
+2455703,Ogallala (High Plains),Terry,33.140834,-102.233334,,,21
+2455808,Ogallala (High Plains),Terry,33.163889,-102.204445,,,21
+2456101,Ogallala (High Plains),Terry,33.225,-102.118611,,Unused,19
+2456403,Ogallala (High Plains),Terry,33.196667,-102.098334,55,Stock,20
+2456501,Ogallala (High Plains),Lynn,33.174444,-102.059723,84,Irrigation,21
+2456706,Ogallala (High Plains),Terry,33.153334,-102.101389,,,15
+2456903,Ogallala (High Plains),Lynn,33.1480556,-102.0408333,,Domestic,16
+2457101,Ogallala (High Plains),Yoakum,33.12,-102.9902778,186,Irrigation,16
+2457301,Ogallala (High Plains),Yoakum,33.111945,-102.892222,146,Irrigation,19
+2457501,Ogallala (High Plains),Yoakum,33.0827778,-102.9297222,112,Unused,17
+2457502,Ogallala (High Plains),Yoakum,33.056112,-102.9425,,Irrigation,20
+2457601,Ogallala (High Plains),Yoakum,33.048334,-102.878889,132,Irrigation,20
+2457802,Ogallala (High Plains),Yoakum,33.030555,-102.936389,,Stock,21
+2457901,Ogallala (High Plains),Yoakum,33.016112,-102.888611,,Stock,19
+2458101,Ogallala (High Plains),Yoakum,33.106945,-102.8675,148,Unused,20
+2458201,Ogallala (High Plains),Yoakum,33.1047222,-102.8158333,,Unused,18
+2458401,Ogallala (High Plains),Yoakum,33.082778,-102.842222,,Irrigation,19
+2458508,Ogallala (High Plains),Yoakum,33.058889,-102.819167,,,16
+2458601,Ogallala (High Plains),Yoakum,33.060556,-102.751667,,Irrigation,17
+2459101,Ogallala (High Plains),Yoakum,33.123333,-102.7275,,Irrigation,17
+2459201,Ogallala (High Plains),Yoakum,33.110001,-102.693056,132,Unused,17
+2459301,Ogallala (High Plains),Yoakum,33.087222,-102.664167,,Irrigation,16
+2459801,Ogallala (High Plains),Yoakum,33.0380556,-102.6983333,,Plugged or Destroyed,15
+2460302,Ogallala (High Plains),Terry,33.108612,-102.537222,,Unused,21
+2460303,Ogallala (High Plains),Terry,33.108612,-102.510834,,,22
+2460402,Ogallala (High Plains),Yoakum,33.077778,-102.611667,,Irrigation,16
+2460406,Ogallala (High Plains),Terry,33.050278,-102.593611,,,21
+2460501,Ogallala (High Plains),Terry,33.050556,-102.543334,,Irrigation,22
+2460801,Ogallala (High Plains),Terry,33.002501,-102.5775,,,21
+2460903,Ogallala (High Plains),Terry,33.003612,-102.508334,,,20
+2461103,Ogallala (High Plains),Terry,33.1180556,-102.4638889,,,15
+2461506,Ogallala (High Plains),Terry,33.071389,-102.433334,,,21
+2461507,Ogallala (High Plains),Terry,33.044722,-102.419167,,,20
+2461702,Ogallala (High Plains),Terry,33.020833,-102.464723,,Irrigation,21
+2461901,Ogallala (High Plains),Terry,33.018055,-102.384167,152,Irrigation,21
+2462103,Ogallala (High Plains),Terry,33.1052778,-102.3741667,,Plugged or Destroyed,19
+2462203,Ogallala (High Plains),Terry,33.119444,-102.313056,,,21
+2462204,Ogallala (High Plains),Terry,33.090556,-102.3175,,,21
+2462403,Ogallala (High Plains),Terry,33.08,-102.343056,,,20
+2462404,Ogallala (High Plains),Terry,33.050834,-102.351389,,,20
+2462601,Ogallala (High Plains),Terry,33.0659778,-102.2910694,157,Unused,23
+2462602,Ogallala (High Plains),Terry,33.050834,-102.260834,,,20
+2462701,Ogallala (High Plains),Terry,33.028611,-102.349722,150,Irrigation,20
+2462901,Ogallala (High Plains),Terry,33.018333,-102.262778,,Unused,20
+2462902,Ogallala (High Plains),Terry,33.024722,-102.287778,130,Irrigation,20
+2463201,Ogallala (High Plains),Terry,33.1225,-102.188334,75,Unused,19
+2463202,Ogallala (High Plains),Terry,33.083611,-102.188056,94,Irrigation,20
+2463301,Ogallala (High Plains),Terry,33.083611,-102.149167,105,Irrigation,18
+2463321,Ogallala (High Plains),Terry,33.123889,-102.134722,58,Irrigation,20
+2463401,Ogallala (High Plains),Terry,33.065001,-102.213334,,,20
+2463603,Ogallala (High Plains),Terry,33.065001,-102.157501,,,20
+2463803,Ogallala (High Plains),Terry,33.034445,-102.1825,,,20
+2463902,Ogallala (High Plains),Terry,33.03,-102.134722,116,,20
+2464101,Ogallala (High Plains),Terry,33.123611,-102.100556,31,Domestic,20
+2464302,Ogallala (High Plains),Lynn,33.114723,-102.032222,,Stock,22
+2464403,Ogallala (High Plains),Terry,33.051112,-102.085556,,,21
+2464703,Ogallala (High Plains),Terry,33.016389,-102.09,55,,21
+2464802,Ogallala (High Plains),Lynn,33.035834,-102.058889,,Irrigation,21
+2464903,Ogallala (High Plains),Lynn,33.028889,-102.018889,,Unused,21
+2508604,Ogallala (High Plains),Bailey,33.921667,-103.010556,,Unused,22
+2516303,Ogallala (High Plains),Bailey,33.8725,-103.005556,,Unused,22
+2516603,Ogallala (High Plains),Cochran,33.820833,-103.02,,Unused,23
+2516902,Ogallala (High Plains),Cochran,33.7602778,-103.0227778,,Unused,21
+2516903,Ogallala (High Plains),Cochran,33.780833,-103.020555,,Irrigation,22
+2524601,Ogallala (High Plains),Cochran,33.707223,-103.0225,210,Irrigation,20
+2540601,Ogallala (High Plains),Cochran,33.429167,-103.021944,,Irrigation,20
+2548301,Ogallala (High Plains),Yoakum,33.3369444,-103.0041667,221,Unused,16
+2548601,Ogallala (High Plains),Yoakum,33.314723,-103.008889,180,Unused,19
+2548801,Ogallala (High Plains),Yoakum,33.253056,-103.042778,106,Irrigation,20
+2548921,Ogallala (High Plains),Yoakum,33.278889,-103.002778,,,15
+2556201,Ogallala (High Plains),Yoakum,33.219444,-103.056667,136,Irrigation,18
+2556502,Ogallala (High Plains),Yoakum,33.182222,-103.058889,,Irrigation,18
+2556901,Ogallala (High Plains),Yoakum,33.1422778,-103.0122694,,Irrigation,16
+2564301,Ogallala (High Plains),Yoakum,33.103889,-103.030833,173,Irrigation,17
+2564801,Ogallala (High Plains),Yoakum,33.030555,-103.060834,,Unused,17
+2564901,Ogallala (High Plains),Yoakum,33.011112,-103.028055,,Irrigation,16
+2608506,Ogallala (High Plains),Gaines,32.9555611,-103.0529417,,Irrigation,17
+2616202,Ogallala (High Plains),Gaines,32.846389,-103.060834,200,Irrigation,17
+2616305,Ogallala (High Plains),Gaines,32.853612,-103.018333,240,Irrigation,19
+2616609,Ogallala (High Plains),Gaines,32.795556,-103.009167,,Irrigation,18
+2616804,Ogallala (High Plains),Gaines,32.763612,-103.049167,,Irrigation,17
+2624204,Ogallala (High Plains),Gaines,32.7278306,-103.0464333,,Irrigation,18
+2624803,Ogallala (High Plains),Gaines,32.6349917,-103.047925,,Irrigation,18
+2701202,Ogallala (High Plains),Yoakum,32.996389,-102.940834,257,Domestic,18
+2701416,Ogallala (High Plains),Gaines,32.930555,-102.996389,,Irrigation,18
+2701526,Ogallala (High Plains),Gaines,32.9266833,-102.9541889,180,Irrigation,19
+2701906,Ogallala (High Plains),Gaines,32.9040083,-102.911125,287,Industrial,19
+2702101,Ogallala (High Plains),Yoakum,32.9925,-102.838056,137,Industrial,18
+2702212,Ogallala (High Plains),Yoakum,32.970555,-102.818611,,,15
+2702303,Ogallala (High Plains),Yoakum,32.99439,-102.78103,,Plugged or Destroyed,18
+2702507,Ogallala (High Plains),Gaines,32.924444,-102.795,165,Irrigation,20
+2702508,Ogallala (High Plains),Gaines,32.922222,-102.830833,,Domestic,20
+2702811,Ogallala (High Plains),Gaines,32.9006372,-102.7946319,180,Irrigation,19
+2702812,Ogallala (High Plains),Gaines,32.881944,-102.824722,,Irrigation,17
+2703101,Ogallala (High Plains),Yoakum,32.97724,-102.7286531,,Irrigation,19
+2703501,Ogallala (High Plains),Gaines,32.948056,-102.670278,146,Irrigation,19
+2703722,Ogallala (High Plains),Gaines,32.9152667,-102.7390667,,Irrigation,19
+2703816,Ogallala (High Plains),Gaines,32.915278,-102.678889,,Irrigation,20
+2703817,Ogallala (High Plains),Gaines,32.893056,-102.691945,,Irrigation,20
+2703901,Ogallala (High Plains),Gaines,32.881944,-102.648611,201,Irrigation,18
+2704101,Ogallala (High Plains),Yoakum,32.963056,-102.618889,,Unused,16
+2704201,Ogallala (High Plains),Terry,32.978333,-102.560556,,Irrigation,19
+2704310,Ogallala (High Plains),Terry,32.965001,-102.513334,,Irrigation,19
+2704405,Ogallala (High Plains),Gaines,32.934167,-102.623055,,Irrigation,16
+2704506,Ogallala (High Plains),Gaines,32.941389,-102.565556,183,Unused,20
+2704614,Ogallala (High Plains),Gaines,32.9369417,-102.5200083,,Irrigation,19
+2704720,Ogallala (High Plains),Gaines,32.915001,-102.588611,,Irrigation,16
+2705101,Ogallala (High Plains),Terry,32.977778,-102.47,,Irrigation,19
+2705201,Ogallala (High Plains),Terry,32.992778,-102.4225,155,Irrigation,19
+2705301,Ogallala (High Plains),Terry,32.961112,-102.39,,,20
+2705601,Ogallala (High Plains),Gaines,32.943334,-102.381389,180,Domestic,20
+2705620,Ogallala (High Plains),Gaines,32.923889,-102.415278,,Irrigation,19
+2705716,Ogallala (High Plains),Gaines,32.885556,-102.468611,,Irrigation,17
+2705818,Ogallala (High Plains),Gaines,32.9150972,-102.4464972,,Irrigation,17
+2705922,Ogallala (High Plains),Gaines,32.898056,-102.398889,,Irrigation,19
+2706101,Ogallala (High Plains),Terry,32.994445,-102.358334,,Unused,20
+2706103,Ogallala (High Plains),Terry,32.9613889,-102.3386111,,,15
+2706209,Ogallala (High Plains),Gaines,32.958612,-102.313334,,Irrigation,19
+2706210,Ogallala (High Plains),Terry,33.000001,-102.306112,,,20
+2706513,Ogallala (High Plains),Gaines,32.9484694,-102.3005306,,Irrigation,17
+2706801,Ogallala (High Plains),Gaines,32.914723,-102.313889,,,17
+2706901,Ogallala (High Plains),Gaines,32.914723,-102.277778,160,Irrigation,19
+2707101,Ogallala (High Plains),Terry,32.9636111,-102.2411111,,Plugged or Destroyed,17
+2707201,Ogallala (High Plains),Terry,32.996667,-102.181389,,Unused,20
+2707202,Ogallala (High Plains),Terry,32.993611,-102.196945,140,,20
+2707301,Ogallala (High Plains),Terry,32.972222,-102.147222,,Unused,20
+2707401,Ogallala (High Plains),Gaines,32.945834,-102.213889,110,Irrigation,19
+2707404,Ogallala (High Plains),Gaines,32.929444,-102.243334,,Irrigation,19
+2707501,Ogallala (High Plains),Dawson,32.9452778,-102.1872222,155,Unused,19
+2707706,Ogallala (High Plains),Gaines,32.8858333,-102.2488889,,Irrigation,18
+2707801,Ogallala (High Plains),Dawson,32.9122222,-102.1944444,150,Unused,21
+2707901,Ogallala (High Plains),Dawson,32.9158333,-102.1558333,148,Irrigation,21
+2708203,Ogallala (High Plains),Terry,32.963612,-102.081944,,,20
+2708301,Ogallala (High Plains),Lynn,32.963334,-102.0325,85,Irrigation,21
+2708503,Ogallala (High Plains),Dawson,32.9438,-102.0592,100,Domestic,21
+2708505,Ogallala (High Plains),Dawson,32.9172222,-102.0727778,110,Irrigation,21
+2708602,Ogallala (High Plains),Dawson,32.9366667,-102.0133333,60,Domestic,21
+2708701,Ogallala (High Plains),Dawson,32.8886111,-102.0958333,,Unused,21
+2708801,Ogallala (High Plains),Dawson,32.8816667,-102.0580556,150,Irrigation,21
+2709109,Ogallala (High Plains),Gaines,32.857223,-102.991945,,Irrigation,19
+2709205,Ogallala (High Plains),Gaines,32.8760111,-102.9375222,,Industrial,16
+2709508,Ogallala (High Plains),Gaines,32.811389,-102.940556,,Irrigation,18
+2709702,Ogallala (High Plains),Gaines,32.770278,-102.996389,,Irrigation,18
+2709812,Ogallala (High Plains),Gaines,32.763612,-102.953889,,Irrigation,19
+2709902,Ogallala (High Plains),Gaines,32.758056,-102.902223,157,Irrigation,18
+2709903,Ogallala (High Plains),Gaines,32.785,-102.910834,,Irrigation,21
+2710109,Ogallala (High Plains),Gaines,32.838611,-102.846667,,Irrigation,19
+2710522,Ogallala (High Plains),Gaines,32.806389,-102.793889,,Irrigation,23
+2711109,Ogallala (High Plains),Gaines,32.860278,-102.725833,146,Irrigation,20
+2711413,Ogallala (High Plains),Gaines,32.809723,-102.729167,130,Irrigation,19
+2711507,Ogallala (High Plains),Gaines,32.805834,-102.674444,,Irrigation,20
+2711602,Ogallala (High Plains),Gaines,32.807501,-102.638889,153,Irrigation,18
+2711701,Ogallala (High Plains),Gaines,32.783055,-102.709445,207,Irrigation,22
+2711707,Ogallala (High Plains),Gaines,32.758334,-102.747222,160,Irrigation,21
+2711916,Ogallala (High Plains),Gaines,32.759723,-102.640834,,Irrigation,20
+2712105,Ogallala (High Plains),Gaines,32.856389,-102.623333,,Irrigation,21
+2712201,Ogallala (High Plains),Gaines,32.846111,-102.549722,150,Irrigation,18
+2712212,Ogallala (High Plains),Gaines,32.849445,-102.571944,,Irrigation,19
+2712315,Ogallala (High Plains),Gaines,32.842778,-102.524722,,Irrigation,20
+2712501,Ogallala (High Plains),Gaines,32.801667,-102.579167,,Irrigation,20
+2712605,Ogallala (High Plains),Gaines,32.801112,-102.511389,,Irrigation,20
+2712606,Ogallala (High Plains),Gaines,32.793889,-102.501945,,Irrigation,22
+2712908,Ogallala (High Plains),Gaines,32.7730667,-102.5371167,211,Irrigation,21
+2713314,Ogallala (High Plains),Gaines,32.8541278,-102.4167222,160,Plugged or Destroyed,15
+2713608,Ogallala (High Plains),Gaines,32.803889,-102.382222,,Irrigation,20
+2713711,Ogallala (High Plains),Gaines,32.786111,-102.4675,189,Irrigation,22
+2713802,Ogallala (High Plains),Gaines,32.791389,-102.416667,,Irrigation,21
+2713803,Ogallala (High Plains),Gaines,32.776944,-102.424722,,Irrigation,19
+2714114,Ogallala (High Plains),Gaines,32.857501,-102.363889,,Irrigation,18
+2714202,Ogallala (High Plains),Gaines,32.8425,-102.324167,,Irrigation,18
+2714304,Ogallala (High Plains),Gaines,32.858334,-102.260834,,Stock,17
+2714703,Ogallala (High Plains),Gaines,32.765001,-102.348889,,Irrigation,20
+2715201,Ogallala (High Plains),Dawson,32.8569444,-102.1683333,150,Unused,21
+2715204,Ogallala (High Plains),Gaines,32.8475306,-102.2093806,,Stock,20
+2716201,Ogallala (High Plains),Dawson,32.8544444,-102.0447222,,Unused,21
+2716202,Ogallala (High Plains),Dawson,32.8513889,-102.0783333,240,Irrigation,20
+2716204,Ogallala (High Plains),Dawson,32.8722222,-102.0658333,,,21
+2716205,Ogallala (High Plains),Dawson,32.846,-102.0454,182,,21
+2716605,Ogallala (High Plains),Dawson,32.8258333,-102.0277778,,,21
+2716611,Ogallala (High Plains),Dawson,32.8291667,-102.0263889,187,,19
+2716702,Ogallala (High Plains),Dawson,32.7738889,-102.0919444,,,21
+2717101,Ogallala (High Plains),Gaines,32.730555,-102.9925,,Irrigation,20
+2717416,Ogallala (High Plains),Gaines,32.674167,-102.995278,,Irrigation,18
+2717505,Ogallala (High Plains),Gaines,32.679722,-102.945278,217,Irrigation,17
+2717604,Ogallala (High Plains),Gaines,32.700278,-102.876111,215,Irrigation,15
+2717901,Ogallala (High Plains),Gaines,32.663612,-102.910556,195,Irrigation,16
+2717917,Ogallala (High Plains),Gaines,32.627222,-102.903889,,Irrigation,19
+2718134,Ogallala (High Plains),Gaines,32.724722,-102.838056,,Irrigation,21
+2718410,Ogallala (High Plains),Gaines,32.6744333,-102.8650083,,Irrigation,17
+2718514,Ogallala (High Plains),Gaines,32.671111,-102.807223,115,Irrigation,19
+2718520,Ogallala (High Plains),Gaines,32.692778,-102.794445,,Irrigation,20
+2718611,Ogallala (High Plains),Gaines,32.700278,-102.777778,200,Irrigation,18
+2718710,Ogallala (High Plains),Gaines,32.637222,-102.846389,,Irrigation,18
+2718903,Ogallala (High Plains),Gaines,32.6305556,-102.7877778,,Stock,16
+2719426,Ogallala (High Plains),Gaines,32.681667,-102.7425,,Irrigation,22
+2719514,Ogallala (High Plains),Gaines,32.696667,-102.690834,,Irrigation,22
+2719601,Ogallala (High Plains),Gaines,32.6941667,-102.6377778,160,Stock,16
+2719604,Ogallala (High Plains),Gaines,32.681944,-102.653889,152,Irrigation,20
+2719714,Ogallala (High Plains),Gaines,32.6343667,-102.7387972,,Industrial,21
+2719804,Ogallala (High Plains),Gaines,32.629444,-102.688611,146,Irrigation,23
+2720109,Ogallala (High Plains),Gaines,32.726111,-102.605834,,Irrigation,22
+2720305,Ogallala (High Plains),Gaines,32.710556,-102.530833,180,Domestic,21
+2720504,Ogallala (High Plains),Gaines,32.707223,-102.570833,,Irrigation,22
+2720505,Ogallala (High Plains),Gaines,32.693334,-102.548334,,Domestic,21
+2720803,Ogallala (High Plains),Gaines,32.6325,-102.5502778,,Stock,18
+2721101,Ogallala (High Plains),Gaines,32.7438889,-102.4811111,110,Plugged or Destroyed,18
+2721127,Ogallala (High Plains),Gaines,32.725555,-102.466389,,Irrigation,20
+2721301,Ogallala (High Plains),Gaines,32.711945,-102.415834,,Domestic,23
+2721401,Ogallala (High Plains),Gaines,32.681389,-102.469722,,Irrigation,19
+2722204,Ogallala (High Plains),Gaines,32.741111,-102.305834,,Stock,19
+2722406,Ogallala (High Plains),Gaines,32.7055833,-102.3489917,,Domestic,21
+2722603,Ogallala (High Plains),Gaines,32.6960694,-102.2694306,,Stock,19
+2722701,Ogallala (High Plains),Gaines,32.639445,-102.372222,,Irrigation,18
+2722902,Ogallala (High Plains),Gaines,32.6511111,-102.2716667,,Stock,19
+2723403,Ogallala (High Plains),Gaines,32.6770361,-102.2213528,,Irrigation,20
+2724101,Ogallala (High Plains),Dawson,32.7097222,-102.1022222,100,Domestic,21
+2724202,Ogallala (High Plains),Dawson,32.7311111,-102.0702778,117,Unused,21
+2724703,Ogallala (High Plains),Dawson,32.6655556,-102.095,,,21
+2724704,Ogallala (High Plains),Dawson,32.6280556,-102.0880556,,,21
+2724802,Ogallala (High Plains),Dawson,32.6256,-102.075,114,,18
+2724902,Ogallala (High Plains),Dawson,32.6630556,-102.0405556,150,Stock,19
+2724904,Ogallala (High Plains),Dawson,32.6461111,-102.0377778,160,,21
+2725102,Ogallala (High Plains),Gaines,32.5981778,-102.9972972,85,Domestic,18
+2725208,Ogallala (High Plains),Gaines,32.5841667,-102.9391667,,Irrigation,20
+2725603,Ogallala (High Plains),Gaines,32.579722,-102.895556,235,Irrigation,21
+2726107,Ogallala (High Plains),Gaines,32.5931833,-102.8417333,,Irrigation,18
+2726203,Ogallala (High Plains),Gaines,32.602778,-102.801112,,Irrigation,21
+2726403,Ogallala (High Plains),Gaines,32.564167,-102.8425,210,Industrial,20
+2726517,Ogallala (High Plains),Gaines,32.5538889,-102.7966667,225,Irrigation,18
+2726702,Ogallala (High Plains),Gaines,32.5347222,-102.8741667,,Stock,15
+2727105,Ogallala (High Plains),Gaines,32.587222,-102.739167,,,18
+2727304,Ogallala (High Plains),Gaines,32.623055,-102.644167,,,20
+2727517,Ogallala (High Plains),Gaines,32.568333,-102.691389,225,Irrigation,20
+2727611,Ogallala (High Plains),Gaines,32.577222,-102.640556,,Irrigation,19
+2727801,Ogallala (High Plains),Gaines,32.5371556,-102.6987806,,Irrigation,20
+2728103,Ogallala (High Plains),Gaines,32.6222222,-102.5916667,,Domestic,19
+2728201,Ogallala (High Plains),Gaines,32.586389,-102.579722,,Irrigation,22
+2728301,Ogallala (High Plains),Gaines,32.587222,-102.536389,100,Domestic,21
+2728604,Ogallala (High Plains),Gaines,32.543611,-102.537778,,Irrigation,18
+2729501,Ogallala (High Plains),Gaines,32.566944,-102.434167,190,Domestic,20
+2729601,Ogallala (High Plains),Gaines,32.5423944,-102.3946139,,Irrigation,19
+2729801,Ogallala (High Plains),Gaines,32.535,-102.444445,,Stock,16
+2730101,Ogallala (High Plains),Gaines,32.613889,-102.341945,95,Domestic,18
+2730201,Ogallala (High Plains),Gaines,32.5987278,-102.3192611,,Stock,16
+2730301,Ogallala (High Plains),Gaines,32.6094528,-102.2594556,,Stock,16
+2730803,Ogallala (High Plains),Gaines,32.53,-102.328333,,Stock,15
+2731106,Ogallala (High Plains),Gaines,32.598334,-102.216389,,Irrigation,22
+2731804,Ogallala (High Plains),Dawson,32.5236111,-102.195,,,21
+2731805,Ogallala (High Plains),Dawson,32.5314,-102.1678889,,,21
+2732101,Ogallala (High Plains),Dawson,32.5975,-102.1191667,,Stock,21
+2732202,Ogallala (High Plains),Dawson,32.6236111,-102.0711111,102,,19
+2732502,Ogallala (High Plains),Dawson,32.5619,-102.0673,,,21
+2732601,Ogallala (High Plains),Dawson,32.5602778,-102.0197222,127,Domestic,16
+2732703,Ogallala (High Plains),Dawson,32.5411806,-102.1172694,,,20
+2733201,Ogallala (High Plains),Andrews,32.4711111,-102.9455556,70,Unused,19
+2735201,Ogallala (High Plains),Andrews,32.4719444,-102.7036111,89,Irrigation,19
+2735302,Ogallala (High Plains),Andrews,32.4622222,-102.635,110,Unused,16
+2735701,Ogallala (High Plains),Andrews,32.3975,-102.7119444,,Unused,19
+2737801,Ogallala (High Plains),Andrews,32.4025,-102.4330556,123,Unused,18
+2739201,Ogallala (High Plains),Martin,32.498334,-102.173055,,Irrigation,20
+2739606,Ogallala (High Plains),Martin,32.420833,-102.144445,180,Domestic,21
+2739607,Ogallala (High Plains),Martin,32.427222,-102.146111,160,Irrigation,21
+2739610,Ogallala (High Plains),Martin,32.425278,-102.145556,172,Irrigation,17
+2739611,Ogallala (High Plains),Martin,32.429444,-102.146667,189,Irrigation,18
+2739613,Ogallala (High Plains),Martin,32.436667,-102.148889,182,Irrigation,21
+2739614,Ogallala (High Plains),Martin,32.434167,-102.148056,202,Irrigation,19
+2739903,Ogallala (High Plains),Martin,32.3866667,-102.1477778,182,Unused,24
+2740601,Ogallala (High Plains),Martin,32.446389,-102.035556,250,Stock,21
+2743701,Ogallala (High Plains),Andrews,32.2722222,-102.7338889,135,Stock,17
+2743801,Ogallala (High Plains),Andrews,32.2836111,-102.6791667,86,Stock,18
+2744201,Ogallala (High Plains),Andrews,32.3586111,-102.5583333,,Fire,19
+2745201,Ogallala (High Plains),Andrews,32.3608333,-102.4233333,72,Unused,19
+2747307,Ogallala (High Plains),Martin,32.341945,-102.162501,,Stock,21
+2748101,Ogallala (High Plains),Martin,32.3725,-102.117222,,Public Supply,22
+2748402,Ogallala (High Plains),Martin,32.307778,-102.101389,60,Stock,20
+2748501,Ogallala (High Plains),Martin,32.321111,-102.061945,163,Irrigation,22
+2748504,Ogallala (High Plains),Martin,32.321667,-102.043611,178,Irrigation,17
+2748612,Ogallala (High Plains),Martin,32.313612,-102.003334,,Unused,19
+2748904,Ogallala (High Plains),Martin,32.277778,-102.0325,170,Industrial,20
+2756202,Ogallala (High Plains),Martin,32.2263889,-102.0491667,140,Plugged or Destroyed,18
+2756301,Ogallala (High Plains),Martin,32.2333333,-102.0316667,128,Unused,15
+2764602,Ogallala (High Plains),Midland,32.0545528,-102.0394444,140,Irrigation,22
+2764802,Ogallala (High Plains),Midland,32.0172222,-102.0738889,68,Domestic,20
+2764901,Ogallala (High Plains),Midland,32.0313556,-102.0040556,69,Unused,21
+2801201,Ogallala (High Plains),Lynn,32.979167,-101.934445,65,Domestic,22
+2801504,Ogallala (High Plains),Dawson,32.9563889,-101.9475,,,18
+2801702,Ogallala (High Plains),Dawson,32.8958333,-101.9938889,,Unused,21
+2801801,Ogallala (High Plains),Dawson,32.9005556,-101.9294444,80,Domestic,21
+2802102,Ogallala (High Plains),Lynn,32.963889,-101.860278,90,Unused,20
+2802404,Ogallala (High Plains),Dawson,32.9347222,-101.8508333,,,21
+2802501,Ogallala (High Plains),Dawson,32.9433333,-101.8083333,68,Stock,21
+2802702,Ogallala (High Plains),Dawson,32.9152778,-101.8672222,269,Unused,16
+2802901,Ogallala (High Plains),Dawson,32.9044444,-101.7652778,60,Unused,21
+2803101,Ogallala (High Plains),Lynn,32.982778,-101.719167,,Irrigation,22
+2803402,Ogallala (High Plains),Dawson,32.951,-101.7184,,,21
+2803601,Ogallala (High Plains),Borden,32.9295556,-101.6366056,57,Unused,20
+2803901,Ogallala (High Plains),Borden,32.9011556,-101.6520278,145,Domestic,18
+2804702,Ogallala (High Plains),Borden,32.8760083,-101.5964417,60,Irrigation,16
+2809101,Ogallala (High Plains),Dawson,32.8361111,-101.9925,,Irrigation,21
+2809301,Ogallala (High Plains),Dawson,32.8480556,-101.895,52,Unused,21
+2809414,Ogallala (High Plains),Dawson,32.8116667,-101.9630556,,,21
+2809602,Ogallala (High Plains),Dawson,32.8033333,-101.9152778,210,Irrigation,19
+2809605,Ogallala (High Plains),Dawson,32.7936111,-101.9097222,168,,21
+2809710,Ogallala (High Plains),Dawson,32.7652778,-101.9736111,200,Unused,17
+2809717,Ogallala (High Plains),Dawson,32.7519444,-101.9686111,201,Plugged or Destroyed,15
+2809721,Ogallala (High Plains),Dawson,32.7597222,-101.9605556,207,,19
+2809804,Ogallala (High Plains),Dawson,32.7569444,-101.9580556,190,Domestic,20
+2809809,Ogallala (High Plains),Dawson,32.7835,-101.9185,168,,21
+2809901,Ogallala (High Plains),Dawson,32.7633333,-101.8994444,140,Unused,20
+2809905,Ogallala (High Plains),Dawson,32.7680556,-101.9086111,156,,17
+2810402,Ogallala (High Plains),Dawson,32.8219444,-101.8513889,175,Unused,21
+2810705,Ogallala (High Plains),Dawson,32.7733333,-101.8663889,,,19
+2810706,Ogallala (High Plains),Dawson,32.7813,-101.8484,200,,17
+2810801,Ogallala (High Plains),Dawson,32.7533,-101.8183,,Unknown,19
+2812402,Ogallala (High Plains),Borden,32.830975,-101.5851472,70,Unused,18
+2817118,Ogallala (High Plains),Dawson,32.7452778,-101.9952778,188,,21
+2817120,Ogallala (High Plains),Dawson,32.7204,-101.9882,150,,17
+2817121,Ogallala (High Plains),Dawson,32.7288889,-101.9672222,145,Irrigation,17
+2817208,Ogallala (High Plains),Dawson,32.7291667,-101.9327778,173,,21
+2817306,Ogallala (High Plains),Dawson,32.7177778,-101.9125,188,Irrigation,21
+2817307,Ogallala (High Plains),Dawson,32.7494,-101.9086,150,,21
+2817501,Ogallala (High Plains),Dawson,32.7027778,-101.9238889,200,Unused,21
+2817506,Ogallala (High Plains),Dawson,32.6872222,-101.9419444,174,,18
+2817508,Ogallala (High Plains),Dawson,32.6786111,-101.9361111,,Irrigation,18
+2817702,Ogallala (High Plains),Dawson,32.6673,-101.9668,,Irrigation,20
+2817705,Ogallala (High Plains),Dawson,32.6333333,-101.9608333,160,Irrigation,21
+2817807,Ogallala (High Plains),Dawson,32.6411111,-101.9205556,165,,21
+2818103,Ogallala (High Plains),Dawson,32.7438889,-101.8586111,160,Unused,18
+2818201,Ogallala (High Plains),Dawson,32.7136111,-101.7944444,190,Unused,21
+2818202,Ogallala (High Plains),Dawson,32.7255556,-101.8169444,210,Unused,20
+2818205,Ogallala (High Plains),Dawson,32.7208333,-101.8330556,155,,18
+2818301,Ogallala (High Plains),Dawson,32.7253,-101.7621,,Unused,20
+2818304,Ogallala (High Plains),Dawson,32.7333306,-101.7716,216,Plugged or Destroyed,17
+2818501,Ogallala (High Plains),Dawson,32.7066667,-101.83,160,Unused,21
+2818708,Ogallala (High Plains),Dawson,32.6555556,-101.855,,,21
+2818801,Ogallala (High Plains),Dawson,32.6325,-101.8013889,82,Domestic,21
+2818902,Ogallala (High Plains),Dawson,32.65,-101.7588889,160,Unused,20
+2819101,Ogallala (High Plains),Dawson,32.74,-101.7386111,170,Domestic,19
+2819411,Ogallala (High Plains),Dawson,32.684,-101.7115,,Irrigation,24
+2819703,Ogallala (High Plains),Dawson,32.6644444,-101.7383333,180,Unused,21
+2825404,Ogallala (High Plains),Dawson,32.5783333,-101.9622222,,,21
+2825406,Ogallala (High Plains),Dawson,32.5583333,-101.9641667,271,Industrial,21
+2825506,Ogallala (High Plains),Dawson,32.5472222,-101.9352778,253,Irrigation,21
+2825604,Ogallala (High Plains),Dawson,32.575,-101.8813889,191,Unused,24
+2825801,Ogallala (High Plains),Martin,32.502778,-101.939445,140,Unused,15
+2825901,Ogallala (High Plains),Martin,32.5122222,-101.8938889,,Plugged or Destroyed,22
+2825903,Ogallala (High Plains),Dawson,32.5286111,-101.8955556,150,Unused,24
+2826206,Ogallala (High Plains),Dawson,32.5913,-101.8278,170,Irrigation,21
+2826302,Ogallala (High Plains),Dawson,32.6052778,-101.7577778,187,Irrigation,16
+2826401,Ogallala (High Plains),Dawson,32.5722222,-101.8563889,,,21
+2826403,Ogallala (High Plains),Dawson,32.5827778,-101.8458333,142,,18
+2826802,Ogallala (High Plains),Dawson,32.5402,-101.8292,155,Domestic,20
+2827101,Ogallala (High Plains),Dawson,32.585,-101.7438889,,Unused,21
+2827201,Ogallala (High Plains),Dawson,32.6141667,-101.7008333,150,Stock,21
+2827506,Ogallala (High Plains),Dawson,32.5719444,-101.7011111,,Irrigation,20
+2827703,Ogallala (High Plains),Martin,32.514723,-101.740834,,Domestic,22
+2827704,Ogallala (High Plains),Martin,32.515278,-101.714723,200,Domestic,21
+2827801,Ogallala (High Plains),Dawson,32.5313889,-101.6894444,220,Domestic,20
+2833202,Ogallala (High Plains),Martin,32.487778,-101.934167,,Unused,18
+2833305,Ogallala (High Plains),Martin,32.4725,-101.877222,,Irrigation,19
+2833702,Ogallala (High Plains),Martin,32.3975,-101.958334,100,Domestic,21
+2833802,Ogallala (High Plains),Martin,32.389167,-101.930833,131,Stock,21
+2833901,Ogallala (High Plains),Martin,32.406667,-101.891945,,Industrial,21
+2834201,Ogallala (High Plains),Martin,32.470833,-101.806667,60,Stock,21
+2834601,Ogallala (High Plains),Martin,32.418333,-101.771389,,Unused,20
+2834701,Ogallala (High Plains),Martin,32.387222,-101.843611,48,Stock,22
+2835201,Ogallala (High Plains),Martin,32.486389,-101.696945,117,Stock,22
+2835301,Ogallala (High Plains),Howard,32.462223,-101.642222,,Irrigation,21
+2835508,Ogallala (High Plains),Howard,32.421111,-101.689445,50,,23
+2835602,Ogallala (High Plains),Howard,32.434167,-101.630278,50,Domestic,24
+2835812,Ogallala (High Plains),Howard,32.3875,-101.6722222,56,Plugged or Destroyed,18
+2835911,Ogallala (High Plains),Howard,32.4027778,-101.6436111,70,Domestic,24
+2836601,Ogallala (High Plains),Howard,32.421944,-101.541945,136,Domestic,24
+2837101,Ogallala (High Plains),Howard,32.491667,-101.489167,160,Unused,21
+2837303,Ogallala (High Plains),Howard,32.490278,-101.381944,101,Domestic,23
+2837306,Ogallala (High Plains),Howard,32.468055,-101.401389,64,Stock,23
+2837401,Ogallala (High Plains),Howard,32.423055,-101.486667,137,Unused,23
+2837503,Ogallala (High Plains),Howard,32.448056,-101.452501,165,Unused,22
+2838404,Ogallala (High Plains),Howard,32.4486111,-101.3697222,108,Stock,20
+2838802,Ogallala (High Plains),Howard,32.411112,-101.325833,51,Stock,23
+2841205,Ogallala (High Plains),Martin,32.363334,-101.949722,,Irrigation,19
+2841501,Ogallala (High Plains),Martin,32.325278,-101.936667,164,Irrigation,22
+2841906,Ogallala (High Plains),Martin,32.257778,-101.915278,,Unused,16
+2842402,Ogallala (High Plains),Martin,32.308889,-101.858889,40,Domestic,22
+2842501,Ogallala (High Plains),Martin,32.2975,-101.82,40,Unused,22
+2842602,Ogallala (High Plains),Martin,32.314167,-101.772222,,Irrigation,15
+2842701,Ogallala (High Plains),Martin,32.250556,-101.859167,,Unused,21
+2842704,Ogallala (High Plains),Martin,32.270278,-101.854723,80,Domestic,21
+2842705,Ogallala (High Plains),Martin,32.288889,-101.855278,122,Domestic,22
+2842706,Ogallala (High Plains),Martin,32.269167,-101.854445,120,Domestic,20
+2844507,Ogallala (High Plains),Howard,32.3025,-101.5483333,,Irrigation,23
+2844606,Ogallala (High Plains),Howard,32.322778,-101.529444,67,Domestic,18
+2844910,Ogallala (High Plains),Howard,32.262501,-101.513612,,Unused,21
+2845102,Ogallala (High Plains),Howard,32.334167,-101.475555,,Irrigation,21
+2845306,Ogallala (High Plains),Howard,32.369167,-101.399167,,Irrigation,20
+2845506,Ogallala (High Plains),Howard,32.316944,-101.420278,,Irrigation,15
+2846401,Ogallala (High Plains),Howard,32.3322222,-101.3530556,75,Domestic,24
+2846501,Ogallala (High Plains),Howard,32.3116667,-101.3205556,76,Domestic,24
+2846705,Ogallala (High Plains),Howard,32.2772222,-101.3705556,65,Domestic,23
+2849402,Ogallala (High Plains),Martin,32.1763889,-101.9613889,190,Unused,21
+2849801,Ogallala (High Plains),Martin,32.143056,-101.950278,102,Unused,21
+2850301,Ogallala (High Plains),Martin,32.232222,-101.765556,39,Unused,22
+2850504,Ogallala (High Plains),Martin,32.180833,-101.816944,,Domestic,21
+2850704,Ogallala (High Plains),Martin,32.1502778,-101.8344444,135,Domestic,18
+2850814,Ogallala (High Plains),Martin,32.1391667,-101.8052778,184,Public Supply,22
+2850815,Ogallala (High Plains),Martin,32.1380556,-101.8094444,212,Domestic,18
+2851701,Ogallala (High Plains),Martin,32.127778,-101.740556,136,Unused,21
+2851902,Ogallala (High Plains),Howard,32.13,-101.6477778,55,Unused,23
+2852106,Ogallala (High Plains),Howard,32.212778,-101.59,,Unused,21
+2852913,Ogallala (High Plains),Howard,32.157223,-101.5275,30,Irrigation,23
+2857101,Ogallala (High Plains),Martin,32.093056,-101.972222,,Stock,20
+2857201,Ogallala (High Plains),Martin,32.096667,-101.924444,,Stock,22
+2857301,Ogallala (High Plains),Martin,32.105834,-101.885,154,Unused,20
+2858102,Ogallala (High Plains),Martin,32.106945,-101.857778,165,Unused,21
+2858103,Ogallala (High Plains),Martin,32.094445,-101.871111,120,Unused,21
+2858304,Ogallala (High Plains),Martin,32.093056,-101.758056,205,Irrigation,21
+2858402,Ogallala (High Plains),Midland,32.0635778,-101.8672833,77,Stock,15
+2858903,Ogallala (High Plains),Midland,32.0052944,-101.78195,,Irrigation,20
+2859301,Ogallala (High Plains),Howard,32.0883333,-101.6355556,108,Irrigation,21
+2860402,Ogallala (High Plains),Glasscock,32.072778,-101.615278,140,Irrigation,15
+4402410,Ogallala (High Plains),Midland,31.9530556,-101.8488889,135,Unused,21
+4403404,Ogallala (High Plains),Glasscock,31.952223,-101.712223,35,Stock,16
+4507421,Ogallala (High Plains),Midland,31.9202417,-102.2234528,60,Unused,22
+4508101,Ogallala (High Plains),Midland,31.9665833,-102.1068583,90,Unused,17
+4508602,Ogallala (High Plains),Midland,31.9386111,-102.0191667,76,Irrigation,15
+4515201,Ogallala (High Plains),Midland,31.8636111,-102.2005556,92,Unused,19

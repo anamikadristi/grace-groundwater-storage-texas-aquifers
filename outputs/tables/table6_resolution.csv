@@ -1,0 +1,5 @@
+aquifer,area_km2,area_over_300km_footprint,max_inscribed_radius_km,overlap_with_Carrizo-Wilcox_km2,overlap_with_Edwards-Trinity (Plateau)_km2,overlap_with_Ogallala (High Plains)_km2,overlap_with_Gulf Coast_km2,twsa_r_with_Carrizo-Wilcox,twsa_r_with_Edwards-Trinity (Plateau),twsa_r_with_Gulf Coast,twsa_r_with_Ogallala (High Plains)
+Gulf Coast,106184.884,1.180,92.220,1314.923,0.000,0.000,,0.953,0.549,1.000,0.374
+Carrizo-Wilcox,95082.050,1.056,95.470,,0.000,0.000,1314.923,1.000,0.576,0.953,0.434
+Edwards-Trinity (Plateau),91727.483,1.019,88.158,0.000,,2950.013,0.000,0.576,1.000,0.549,0.923
+Ogallala (High Plains),93982.636,1.044,75.810,0.000,2950.013,,0.000,0.434,0.923,0.374,1.000

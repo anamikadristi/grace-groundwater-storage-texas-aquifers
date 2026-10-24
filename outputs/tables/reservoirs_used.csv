@@ -1,0 +1,123 @@
+reservoir,slug,file,first_date,last_date,n_days,lon,lat,usable,regions_within_100km,regions_inside
+Lake Abilene,abilene,True,1999-03-05,2026-10-23,9605,-99.88898,32.23458,True,Edwards-Trinity (Plateau),
+Addicks Reservoir,addicks,True,1972-10-02,2026-10-23,19446,-95.62356,29.79134,True,Gulf Coast,Gulf Coast
+Lake Alan Henry,alan-henry,True,1997-10-01,2026-10-23,10606,-101.04763,33.06288,True,Edwards-Trinity (Plateau); Ogallala (High Plains),
+Amistad Reservoir,amistad,True,1968-06-01,2026-10-23,21313,-101.05583,29.44972,True,Carrizo-Wilcox; Edwards-Trinity (Plateau),Edwards-Trinity (Plateau)
+Lake Amon G Carter,amon-g-carter,True,1999-03-05,2026-10-23,10034,-97.86309,33.47427,True,,
+Aquilla Lake,aquilla,True,1983-10-02,2026-10-23,15673,-97.20279,31.89988,True,Carrizo-Wilcox,
+Lake Arlington,arlington,True,1957-04-02,2026-10-23,25407,-97.19251,32.71624,True,,
+Lake Arrowhead,arrowhead,True,1967-06-02,2026-10-23,21573,-98.37172,33.76427,True,,
+Lake Athens,athens,True,1985-10-02,2026-10-23,10506,-95.765,32.21056,True,Carrizo-Wilcox,Carrizo-Wilcox
+Lake Austin,austin,True,1966-01-01,2026-10-23,18639,-97.78639,30.31548,True,Carrizo-Wilcox; Edwards-Trinity (Plateau); Gulf Coast,
+B. A. Steinhagen Lake,b-a-steinhagen,True,1951-05-02,2026-10-23,27427,-94.18019,30.79548,True,Carrizo-Wilcox; Gulf Coast,Gulf Coast
+Bardwell Lake,bardwell,True,1965-11-02,2026-10-23,22187,-96.64721,32.25015,True,Carrizo-Wilcox,
+Barker Reservoir,barker,True,1972-10-02,2026-10-23,19610,-95.64717,29.76995,True,Gulf Coast,Gulf Coast
+Belton Lake,belton,True,1954-03-02,2026-10-23,26514,-97.47473,31.10629,True,Carrizo-Wilcox,
+Benbrook Lake,benbrook,True,1952-10-02,2026-10-23,26987,-97.44863,32.65069,True,,
+Lake Bob Sandlin,bob-sandlin,True,1977-08-09,2026-10-23,17799,-95.00216,33.08012,True,Carrizo-Wilcox,Carrizo-Wilcox
+Bois d'Arc Lake,bois-darc,True,2021-12-01,2026-10-23,1788,-95.96472,33.70833,False,,
+Lake Bonham,bonham,True,1999-03-25,2026-10-23,10056,-96.16415,33.64538,True,Carrizo-Wilcox,
+Brady Creek Reservoir,brady-creek,True,1963-05-02,2026-10-23,17647,-99.38561,31.13822,True,Edwards-Trinity (Plateau),
+Bridgeport Reservoir,bridgeport,True,1977-10-02,2026-10-23,14267,-97.83198,33.22289,True,,
+Lake Brownwood,brownwood,True,1933-07-01,2026-10-23,27664,-99.00394,31.83709,True,Edwards-Trinity (Plateau),
+Lake Buchanan,buchanan,True,1937-06-30,2026-10-23,30755,-98.41837,30.75157,True,Edwards-Trinity (Plateau),
+Caddo Lake,caddo,True,2012-06-17,2026-10-23,4779,-93.91463,32.71014,False,,
+Canyon Lake,canyon,True,1962-07-25,2026-10-23,23435,-98.1989,29.86883,True,Carrizo-Wilcox; Edwards-Trinity (Plateau); Gulf Coast,
+Cedar Creek Reservoir,cedar-creek,True,1965-01-02,2026-10-23,22575,-96.14081,32.2432,True,Carrizo-Wilcox,
+Champion Creek Reservoir,champion-creek,True,1959-10-02,2026-10-23,20856,-100.85873,32.28151,True,Edwards-Trinity (Plateau); Ogallala (High Plains),
+Lake Cherokee,cherokee,True,2017-02-14,2026-10-23,3537,-94.66856,32.36919,False,,
+Choke Canyon Reservoir,choke-canyon,True,1984-10-01,2026-10-23,15362,-98.24584,28.48388,True,Carrizo-Wilcox; Gulf Coast,Carrizo-Wilcox; Gulf Coast
+Lake Cisco,cisco,True,1999-02-11,2026-10-23,10087,-98.98563,32.43791,True,Edwards-Trinity (Plateau),
+Lake Coleman,coleman,True,1999-02-26,2026-10-23,10076,-99.46535,32.03014,True,Edwards-Trinity (Plateau),
+Coleto Creek Reservoir,coleto-creek,True,1986-10-02,2026-10-23,14574,-97.16499,28.7311,True,Carrizo-Wilcox; Gulf Coast,Gulf Coast
+Lake Colorado City,colorado-city,True,1949-04-02,2026-10-23,27867,-100.91984,32.34484,True,Edwards-Trinity (Plateau); Ogallala (High Plains),
+Comanche Creek Reservoir,comanche-creek,True,1994-10-02,2026-10-23,11685,-97.78697,32.30014,True,,
+Lake Conroe,conroe,True,1973-01-10,2026-10-23,19645,-95.56105,30.35854,True,Carrizo-Wilcox; Gulf Coast,Gulf Coast
+Lake Corpus Christi,corpus-christi,True,1948-09-01,2026-10-23,28541,-97.87111,28.03835,True,Carrizo-Wilcox; Gulf Coast,Gulf Coast
+Lake Crook,crook,True,1999-03-26,2026-10-23,9994,-95.5669,33.72844,True,Carrizo-Wilcox,
+Lake Cypress Springs,cypress-springs,True,1998-07-02,2026-10-23,10306,-95.15889,33.06611,True,Carrizo-Wilcox,Carrizo-Wilcox
+E. V. Spence Reservoir,e-v-spence,True,1968-12-02,2026-10-23,21144,-100.51732,31.87959,True,Edwards-Trinity (Plateau); Ogallala (High Plains),
+Eagle Mountain Reservoir,eagle-mountain,True,1934-02-28,2026-10-23,24301,-97.47502,32.87763,True,,
+Elephant Butte Lake,elephant-butte,True,1915-03-21,2026-10-18,40653,-107.1911,33.1542,True,,
+Falcon Reservoir,falcon,True,1953-08-23,2026-10-23,26706,-99.16056,26.55722,True,Gulf Coast,
+Lake Fork Reservoir,fork,True,1979-10-02,2026-10-23,16823,-95.52801,32.81346,True,Carrizo-Wilcox,Carrizo-Wilcox
+Fort Phantom Hill Reservoir,fort-phantom-hill,True,1965-10-01,2026-10-23,17750,-99.68064,32.59623,True,Edwards-Trinity (Plateau),
+Lake Georgetown,georgetown,True,1980-03-04,2026-10-23,17031,-97.72751,30.66769,True,Carrizo-Wilcox; Edwards-Trinity (Plateau),
+Gibbons Creek Reservoir,gibbons-creek,True,2017-05-02,2026-10-23,3462,-96.06541,30.60941,False,,
+Lake Graham,graham,True,1963-10-02,2026-10-23,22585,-98.61367,33.13456,True,,
+Lake Granbury,granbury,True,1972-10-02,2026-10-23,19734,-97.68919,32.37431,True,,
+Granger Lake,granger,True,1980-01-22,2026-10-23,16937,-97.32639,30.69297,True,Carrizo-Wilcox; Gulf Coast,
+Grapevine Lake,grapevine,True,1952-07-02,2026-10-23,27129,-97.0564,32.97263,True,,
+Greenbelt Lake,greenbelt,True,1967-08-17,2026-10-23,20080,-100.89487,35.00061,True,Ogallala (High Plains),
+Halbert Lake,halbert,True,1999-04-15,2026-10-23,8932,-96.41609,32.07127,True,Carrizo-Wilcox,
+Hords Creek Lake,hords-creek,True,1948-04-02,2026-10-23,28289,-99.56091,31.83292,True,Edwards-Trinity (Plateau),
+Lake Houston,houston,True,1954-04-02,2026-10-23,26503,-95.14132,29.91633,True,Gulf Coast,Gulf Coast
+Houston County Lake,houston-county,True,1999-05-12,2026-10-23,9998,-95.6019,31.40685,True,Carrizo-Wilcox; Gulf Coast,Carrizo-Wilcox
+Hubbard Creek Reservoir,hubbard-creek,True,1962-10-02,2026-10-23,23370,-98.96785,32.83151,True,,
+Moss Lake,hubert-h-moss,True,2000-10-01,2026-10-23,9515,-97.21418,33.77399,True,,
+Inks Lake,inks,True,1966-01-01,2026-10-23,18641,-98.38503,30.73129,True,Edwards-Trinity (Plateau),
+Lake J.B. Thomas,j-b-thomas,True,1954-01-02,2026-10-23,21735,-101.13818,32.59317,True,Edwards-Trinity (Plateau); Ogallala (High Plains),
+Lake Jacksonville,jacksonville,True,1999-05-14,2026-10-23,9969,-95.30995,31.9085,True,Carrizo-Wilcox,Carrizo-Wilcox
+Cooper (Chapman) Lake,jim-chapman,True,1993-10-02,2026-10-23,11959,-95.62524,33.33344,True,Carrizo-Wilcox,
+Joe Pool Lake,joe-pool,True,1985-10-02,2026-10-23,14594,-97.00111,32.64347,True,Carrizo-Wilcox,
+Lake Kemp,kemp,True,1949-10-02,2026-10-23,25573,-99.15118,33.75843,True,,
+Lake Kickapoo,kickapoo,True,1946-02-01,2026-10-23,25710,-98.77895,33.66315,True,,
+Lake O the Pines,lake-o-the-pines,True,1957-09-01,2026-10-23,25158,-94.49937,32.75514,True,Carrizo-Wilcox,Carrizo-Wilcox
+Lavon Lake,lavon,True,1953-10-02,2026-10-23,26668,-96.48249,33.03179,True,Carrizo-Wilcox,
+Leon Reservoir,leon,True,1955-02-01,2026-10-23,20522,-98.67561,32.36374,True,,
+Lewisville Lake,lewisville,True,1954-11-02,2026-10-23,26277,-96.96445,33.06929,True,Carrizo-Wilcox,
+Lake Limestone,limestone,True,1978-12-01,2026-10-23,17112,-96.31914,31.32518,True,Carrizo-Wilcox; Gulf Coast,Carrizo-Wilcox
+Livingston Reservoir,livingston,True,1968-10-02,2026-10-23,21206,-95.01022,30.63353,True,Carrizo-Wilcox; Gulf Coast,Gulf Coast
+Lost Creek Reservoir,lost-creek,True,1999-03-04,2026-10-23,10075,-98.12004,33.24345,True,,
+Lake L. B. Johnson,lyndon-b-johnson,True,1951-08-01,2026-10-23,27441,-98.33836,30.55602,True,Carrizo-Wilcox; Edwards-Trinity (Plateau),
+Mackenzie Reservoir,mackenzie,True,1999-04-17,2026-10-23,10025,-101.43822,34.54534,True,Ogallala (High Plains),
+Lake Marble Falls,marble-falls,True,1966-01-01,2026-10-23,18643,-98.25722,30.55583,True,Carrizo-Wilcox; Edwards-Trinity (Plateau),
+Martin Lake,martin,True,1974-04-11,2026-10-23,18772,-94.57326,32.26183,True,Carrizo-Wilcox,Carrizo-Wilcox
+Medina Lake,medina,True,1997-08-09,2026-10-23,9970,-98.93392,29.54023,True,Carrizo-Wilcox; Edwards-Trinity (Plateau),
+Lake Meredith,meredith,True,1986-10-02,2026-10-23,11954,-101.55128,35.7106,True,Ogallala (High Plains),
+Millers Creek Reservoir,millers-creek,True,1976-10-02,2026-10-23,14158,-99.38897,33.40899,True,,
+Lake Mineral Wells,mineral-wells,True,1999-02-19,2026-10-23,10065,-98.04198,32.8168,True,,
+Monticello Reservoir,monticello,True,1998-07-10,2026-10-23,10289,-95.04355,33.08012,True,Carrizo-Wilcox,Carrizo-Wilcox
+Mountain Creek Lake,mountain-creek,True,1960-10-02,2026-10-23,24065,-96.94334,32.73207,True,Carrizo-Wilcox,
+Murvaul Lake,murvaul,True,1999-04-08,2026-10-23,9655,-94.42104,32.03461,True,Carrizo-Wilcox,Carrizo-Wilcox
+Lake Nacogdoches,nacogdoches,True,1977-03-02,2026-10-23,17402,-94.82549,31.58879,True,Carrizo-Wilcox; Gulf Coast,Carrizo-Wilcox
+Lake Nasworthy,nasworthy,True,1996-10-01,2026-10-23,10832,-100.4781,31.3886,True,Edwards-Trinity (Plateau),
+Navarro Mills Lake,navarro-mills,True,1962-09-02,2026-10-23,23301,-96.68944,31.95766,True,Carrizo-Wilcox,
+New Terrell City Lake,new-terrell-city,True,1999-04-22,2026-10-23,9831,-96.17358,32.72846,True,Carrizo-Wilcox,
+Lake Nocona (Farmer's Creek),nocona,True,1999-03-13,2026-10-23,10061,-97.6528,33.8826,True,,
+North Fork Buffalo Creek Reservoir,north-fork-buffalo-creek,True,1998-08-15,2026-10-23,10195,-98.75201,33.98676,True,,
+O. C. Fisher Lake,o-c-fisher,True,1952-02-02,2026-10-23,26747,-100.48176,31.4846,True,Edwards-Trinity (Plateau),
+O. H. Ivie Reservoir,o-h-ivie,True,1990-09-22,2026-10-23,13179,-99.6684,31.50016,True,Edwards-Trinity (Plateau),
+Oak Creek Reservoir,oak-creek,True,1953-05-01,2026-10-23,21103,-100.26842,32.04069,True,Edwards-Trinity (Plateau); Ogallala (High Plains),
+Lake Palestine,palestine,True,1962-02-02,2026-10-23,22145,-95.4369,32.05349,True,Carrizo-Wilcox,Carrizo-Wilcox
+Palo Duro Reservoir,palo-duro,True,1999-06-19,2026-10-23,9255,-101.16444,36.34778,True,Ogallala (High Plains),Ogallala (High Plains)
+Lake Palo Pinto,palo-pinto,True,1999-02-20,2026-10-23,10088,-98.26921,32.64763,True,,
+Lake Pat Cleburne,pat-cleburne,True,1998-06-18,2026-10-23,10307,-97.4153,32.28904,True,,
+Pat Mayse Lake,pat-mayse,True,1967-10-02,2026-10-23,20741,-95.54468,33.85288,True,Carrizo-Wilcox,
+Possum Kingdom Lake,possum-kingdom,True,1941-03-22,2026-10-23,31256,-98.42589,32.87234,True,,
+Proctor Lake,proctor,True,1963-02-02,2026-10-23,22429,-98.48616,31.96876,True,Edwards-Trinity (Plateau),
+Lake Ray Hubbard,ray-hubbard,True,1996-10-02,2026-10-23,10961,-96.4961,32.80013,True,Carrizo-Wilcox,
+Ray Roberts Lake,ray-roberts,True,1987-07-02,2026-10-23,14348,-97.05001,33.35539,True,,
+Red Bluff Reservoir,red-bluff,True,1937-02-01,2026-10-23,30252,-103.91019,31.90124,True,Edwards-Trinity (Plateau),
+Richland-Chambers Reservoir,richland-chambers,True,1988-11-02,2026-10-23,13870,-96.20664,32.04044,True,Carrizo-Wilcox,
+Sam Rayburn Reservoir,sam-rayburn,True,1965-01-02,2026-10-23,22564,-94.10603,31.06075,True,Carrizo-Wilcox; Gulf Coast,Gulf Coast
+Somerville Lake,somerville,True,1966-02-02,2026-10-23,22082,-96.5258,30.32243,True,Carrizo-Wilcox; Gulf Coast,
+Lake Stamford,stamford,True,1953-07-01,2026-10-23,22208,-99.57953,33.06261,True,Edwards-Trinity (Plateau),
+Stillhouse Hollow Lake,stillhouse-hollow,True,1966-09-02,2026-10-23,21577,-97.53279,31.0224,True,Carrizo-Wilcox,
+Lake Striker,striker,True,2017-01-30,2026-10-23,3508,-94.97566,31.93408,False,,
+Lake Sulphur Springs,sulphur-springs,True,1999-03-26,2026-10-23,10028,-95.6419,33.16789,True,Carrizo-Wilcox,
+Lake Sweetwater,sweetwater,True,1936-01-01,2026-10-23,24118,-100.30371,32.43873,True,Edwards-Trinity (Plateau); Ogallala (High Plains),
+Lake Tawakoni,tawakoni,True,1960-10-02,2026-10-23,23934,-95.91969,32.80873,True,Carrizo-Wilcox,
+Lake Texana,texana,True,1999-06-18,2026-10-23,9811,-96.57775,28.89193,True,Carrizo-Wilcox; Gulf Coast,Gulf Coast
+Lake Texoma,texoma,True,1943-10-02,2026-10-23,29844,-96.57222,33.81806,True,,
+Toledo Bend Reservoir,toledo-bend,True,1966-10-02,2026-10-23,21937,-93.57212,31.1963,True,Carrizo-Wilcox; Gulf Coast,
+Lake Travis,travis,True,1940-09-30,2026-10-23,30697,-97.90723,30.39187,True,Carrizo-Wilcox; Edwards-Trinity (Plateau),
+Twin Buttes Reservoir,twin-buttes,True,1962-10-02,2026-10-23,23079,-100.53843,31.38211,True,Edwards-Trinity (Plateau),
+Lake Tyler,tyler,True,1985-10-02,2026-10-23,10284,-95.17606,32.24182,True,Carrizo-Wilcox,Carrizo-Wilcox
+Waco Lake,waco,True,1964-08-02,2026-10-23,22715,-97.19778,31.57961,True,Carrizo-Wilcox,
+Lake Waxahachie,waxahachie,True,1999-04-03,2026-10-23,10040,-96.80527,32.34181,True,Carrizo-Wilcox,
+Lake Weatherford,weatherford,True,1998-08-29,2026-10-23,10120,-97.67475,32.77263,True,,
+White River Reservoir,white-river,True,1964-04-02,2026-10-23,14663,-101.08403,33.45787,True,Ogallala (High Plains),
+Whitney Lake,whitney,True,1952-01-02,2026-10-23,27210,-97.37196,31.86544,True,Carrizo-Wilcox,
+Lake Worth,worth,True,1981-10-02,2026-10-23,13383,-97.4164,32.7893,True,,
+Wright Patman Lake,wright-patman,True,1986-10-02,2026-10-23,14603,-94.16074,33.30457,True,Carrizo-Wilcox,Carrizo-Wilcox
